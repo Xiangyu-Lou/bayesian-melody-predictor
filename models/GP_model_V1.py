@@ -1,12 +1,14 @@
 import numpy as np
 import pandas as pd
+from joblib import dump, load
+import os
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import RBF
 from sklearn.utils import shuffle
 
 
 class MelodySelector:
-    def __init__(self, window_size=32, batch_size=300):         # Adjusted window size and batch size depending on the memory
+    def __init__(self, window_size=32, batch_size=300, model_path='models/melody_gp_model.joblib'):         # Adjusted window size and batch size depending on the memory
         # Define the GP kernel with specific length scale bounds, higher is more flexible
         kernel = RBF(length_scale=5, length_scale_bounds=(1e-8, 1e2))
 
@@ -22,6 +24,7 @@ class MelodySelector:
         # Set the window size and batch size
         self.window_size = window_size
         self.batch_size = batch_size
+        self.model_path = model_path
         
     def prepare_training_data(self, data_frame):
         # Convert 'Normalized Pitch' data into a numpy array of floats
@@ -69,7 +72,19 @@ class MelodySelector:
                 current_batch_size = start // self.batch_size + 1
                 if current_batch_size % 100 == 0:
                     print(f"Batch Completed: {current_batch_size}/{len(X_train) // self.batch_size + 1}")
-        
+
+        # Save the model after training            
+        print("\nSaving model...")
+        dump(self.gp, self.model_path)
+        print(f"Model saved to {self.model_path}")
+
+    def load_model(self):
+        """Load a previously trained model if it exists"""
+        if os.path.exists(self.model_path):
+            print(f"Loading existing model from {self.model_path}")
+            self.gp = load(self.model_path)
+            return True
+        return False
 
     def select_best_option(self, test_input, options):
         print("Option Evaluation:")
@@ -157,12 +172,15 @@ def main():
     # initialize the melody selector
     melody_selector = MelodySelector()
     
-    # prepare training data
-    X_train, y_train = melody_selector.prepare_training_data(training_data)
+    # Try loading the model, if it doesn't exist, train a new one
+    if not melody_selector.load_model():
+        print("No existing model found. Training new model...")
+        # prepare training data
+        X_train, y_train = melody_selector.prepare_training_data(training_data)
+        # train the model
+        melody_selector.train_model(X_train, y_train)
     
-    # train the model
-    melody_selector.train_model(X_train, y_train)
-    
+
     # Test data
     test_data = {
     "Test Input": [
