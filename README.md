@@ -6,5 +6,5 @@ File structure:
 ├───dataset
 │   ├───gregorian_chant_pitch_midi
 ├───test
-│   └───Temporary test files
+│   └───Temporary test files during development
 ```

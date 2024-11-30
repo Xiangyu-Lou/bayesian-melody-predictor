@@ -1,6 +1,6 @@
 import pandas as pd
 
-def normalize_pitch_data(input_file_path, output_file_path, min_value=55, max_value=83):
+def normalize_pitch_data(file_path, min_value, max_value):
     """
     Normalize pitch data in the input CSV file using a global standard and save the result to an output CSV file.
 
@@ -14,26 +14,40 @@ def normalize_pitch_data(input_file_path, output_file_path, min_value=55, max_va
         None
     """
     # Read the input CSV file
-    data = pd.read_csv(input_file_path)
+    df = pd.read_csv(file_path)
 
-    # Define a normalization function
-    def normalize(pitch_data, min_val, max_val):
-        pitches = list(map(int, pitch_data.split(',')))
-        normalized = [(p - min_val) / (max_val - min_val) for p in pitches]
-        return ','.join(map(str, normalized))
-
-    # Apply the normalization function to the Pitch Data column
-    data['Normalized Pitch Data'] = data['Pitch Data'].apply(
-        lambda x: normalize(x, min_value, max_value)
+    # Apply the normalization directly within the lambda function
+    df['Normalized Pitch'] = df['Pitch'].apply(
+        lambda x: ','.join([f"{(int(p) - min_value) / (max_value - min_value):.4f}" for p in x.split(',')])
     )
 
     # Save the normalized data to the output file
-    data.to_csv(output_file_path, index=False)
+    df.to_csv(file_path, index=False)
 
-    print(f"Normalized pitch data has been saved to {output_file_path}.")
-
+    print(f"Normalized pitch data has been saved to {file_path}.")
     
-if __name__ == "__main__":
-    input_file_path = "dataset/gregorian_chant_pitch.csv"
-    output_file_path = "dataset/gregorian_chant_pitch_normalized.csv"
-    normalize_pitch_data(input_file_path, output_file_path)
+
+def reverse_normalization(file_path, min_value, max_value):
+    """
+    Reverse the normalization process to convert normalized values back to their original pitches.
+
+    Args:
+        file_path (str): Path to the CSV file containing normalized pitch data.
+        min_value (int): The minimum value used during normalization (default is 55).
+        max_value (int): The maximum value used during normalization (default is 83).
+
+    Returns:
+        None
+    """
+    # Read the input CSV file
+    df = pd.read_csv(file_path)
+
+    # Apply the reverse normalization
+    df['Reverse Normalization'] = df['Normalized Pitch'].apply(
+        lambda x: ','.join([str(int(round(float(p) * (max_value - min_value) + min_value))) for p in x.split(',')])
+    )
+
+    # Save the data with reverse normalization to the output file
+    df.to_csv(file_path, index=False)
+
+    print(f"Reverse normalized pitch data has been saved to {file_path}.")

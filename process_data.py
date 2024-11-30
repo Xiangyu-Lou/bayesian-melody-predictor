@@ -1,126 +1,79 @@
 import pandas as pd
-from mido import Message, MidiFile, MidiTrack
+import convert_transcripts as ct
+import extract_pitch_midi as epm
+import normalization as norm
 
-def parse_melody(melody, note_mapping):
-    """
-    Parse melody string into notes and durations.
+# note mapping
+note_mapping = {
+    '9': 55,  # G3
+    'a': 57,  # A3
+    'b': 59,  # B3
+    'c': 60,  # C4
+    'd': 62,  # D4
+    'e': 64,  # E4
+    'f': 65,  # F4
+    'g': 67,  # G4
+    'h': 69,  # A4
+    'j': 71,  # B4
+    'k': 72,  # C5
+    'l': 74,  # D5
+    'm': 76,  # E5
+    'n': 77,  # F5
+    'o': 79,  # G5
+    'p': 81,  # A5
+    'q': 83,  # B5
+    'r': 84,  # C6
+    's': 86,  # D6
+    '---4': 'end',
+    '---3': 'end',
+    '1--': 'start',
+    '---': 'word_pause',
+    '--': 'syllable_pause',
+    '-': 'neume_pause', 
+    '7': 'line_break',
+    '777': 'page_break',
+}
 
-    Inputs:
-        melody (str): melody string
-        note_mapping (dict): mapping of note characters to MIDI note numbers
+origional_data_path = "dataset/gregorian_chant_origional.csv"
+midis_files_path = "dataset/gregorian_chant_pitch_midi"
+pitch_data_path = "dataset/gregorian_chant_pitch.csv"
 
-    Returns:
-        notes (list): list of tuples (note, duration)
-    """
-    # check if melody is complete
-    if '6------6' in melody:
-        return 'incomplete'
+# read transcription data
+df_origional = pd.read_csv(origional_data_path)
+
+# convert transcriptions to MIDI files
+output_index = 1
+for index, row in df_origional.iterrows():
+    melody = row['volpiano']
+    if pd.isna(melody):
+        print(f"Sample {index} is missing, skipping.")
+        continue
+    melody = str(melody)
+    if ct.parse_melody(melody, note_mapping = note_mapping) == 'skip':
+        print(f"Sample {index} is incomplete, skipping.")
+        continue
+    output_file = f"dataset/gregorian_chant_pitch_midi/{output_index}.mid"
+    ct.create_midi(melody, note_mapping = note_mapping, output_file = output_file)
+    output_index += 1
     
-    notes = []
-    i = 0
-    duration_map = {
-        'word_pause': 0,
-        'syllable_pause': 0,
-        'neume_pause': 0,
-    }
-    while i < len(melody):
-        if melody[i:i+3] == '---':
-            notes.append((None, duration_map['word_pause']))
-            i += 3
-        elif melody[i:i+2] == '--': 
-            notes.append((None, duration_map['syllable_pause']))
-            i += 2
-        elif melody[i] == '-':
-            notes.append((None, duration_map['neume_pause']))
-            i += 1
-        elif melody[i].lower() in note_mapping:
-            note = note_mapping[melody[i].lower()]
-            if isinstance(note, int):
-                notes.append((note, 480))
-            i += 1
-        elif melody[i:i+4] == '---4':
-            break
-        else:
-            i += 1
-    return notes
+# extract pitch data from MIDI files
+epm.extract_pitch(input_folder = midis_files_path, output_csv = pitch_data_path)
 
-def create_midi(melody, output_file="output.mid"):
-    """
-    Create MIDI file.
-    
-    Inputs:
-        melody (str): melody string
-        output_file (str): output file path
-        
-    Returns:
-        Saves MIDI file to output_file.
-    """
-    notes = parse_melody(melody, note_mapping)
-    
-    if notes == 'incomplete':
-        print(f"{output_file} is incomplete, skipping.")
-        return
+# extract the minimum and maximum pitch values
+df_pitch = pd.read_csv(pitch_data_path)
 
-    midi = MidiFile()
-    track = MidiTrack()
-    midi.tracks.append(track)
+all_pitches = []
+for index, row in df_pitch.iterrows():
+    pitches = list(map(int, row['Pitch'].split(',')))
+    all_pitches.extend(pitches)
 
-    for note, duration in notes:
-        if note is not None and isinstance(note, int):
-            track.append(Message('note_on', note=note, velocity=64, time=0))
-            track.append(Message('note_off', note=note, velocity=64, time=duration))
-        elif note is None:  # 停顿
-            track.append(Message('note_off', note=0, velocity=0, time=duration))
+min_value = min(all_pitches)
+max_value = max(all_pitches)
+print(f"Minimum pitch value: {min_value}")
+print(f"Maximum pitch value: {max_value}")
 
-    midi.save(output_file)
-    print(f"MIDI file saved as {output_file}")
+# normalize pitch data
+norm.normalize_pitch_data(file_path = pitch_data_path, min_value = min_value, max_value = max_value)
 
-if __name__ == '__main__':
-    # note mapping
-    note_mapping = {
-        '9': 55,  # G3
-        'a': 57,  # A3
-        'b': 59,  # B3
-        'c': 60,  # C4
-        'd': 62,  # D4
-        'e': 64,  # E4
-        'f': 65,  # F4
-        'g': 67,  # G4
-        'h': 69,  # A4
-        'j': 71,  # B4
-        'k': 72,  # C5
-        'l': 74,  # D5
-        'm': 76,  # E5
-        'n': 77,  # F5
-        'o': 79,  # G5
-        'p': 81,  # A5
-        'q': 83,  # B5
-        'r': 84,  # C6
-        's': 86,  # D6
-        '---4': 'end',
-        '---3': 'end',
-        '1--': 'start',
-        '---': 'word_pause',
-        '--': 'syllable_pause',
-        '-': 'neume_pause', 
-        '7': 'line_break',
-        '777': 'page_break',
-    }
-    
-    # read data
-    df = pd.read_csv('dataset/gregorian_chant_origional.csv')
-
-    # traverse all samples
-    output_index = 1
-    for index, row in df.iterrows():
-        melody = row['volpiano']
-        if pd.isna(melody):
-            print(f"Sample {index} is missing, skipping.")
-            continue
-        melody = str(melody)
-        if parse_melody(melody, note_mapping = note_mapping) == 'incomplete':
-            print(f"Sample {index} is incomplete, skipping.")
-            continue
-        output_file = f"dataset/gregorian_chant_pitch_midi/{output_index}.mid"
-        create_midi(melody, output_file)
-        output_index += 1
+# reverse normalization
+# norm.reverse_normalization(file_path = pitch_data_path, min_value = min_value, max_value = max_value)
