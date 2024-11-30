@@ -37,6 +37,7 @@ note_mapping = {
 origional_data_path = "dataset/gregorian_chant_origional.csv"
 midis_files_path = "dataset/gregorian_chant_pitch_midi"
 pitch_data_path = "dataset/gregorian_chant_pitch.csv"
+test_data_path = "dataset/test_dataset.csv"
 
 # read transcription data
 df_origional = pd.read_csv(origional_data_path)
@@ -73,7 +74,7 @@ print(f"Minimum pitch value: {min_value}")
 print(f"Maximum pitch value: {max_value}")
 
 # normalize pitch data
-norm.normalize_pitch_data(file_path = pitch_data_path, min_value = min_value, max_value = max_value)
+norm.normalize_pitch_data(file_path = pitch_data_path, colum_name = 'Pitch', min_value = min_value, max_value = max_value)
 
 # reverse normalization
-# norm.reverse_normalization(file_path = pitch_data_path, min_value = min_value, max_value = max_value)
+# norm.reverse_normalization(file_path = test_data_path, colum_name = , min_value = min_value, max_value = max_value)
