@@ -4,7 +4,8 @@ This project uses a Bayesian model trained on Gregorian chants to predict ending
 File structure: 
 ```bash
 ├───dataset
-│   ├───gregorian_chant_pitch_midi
+│   ├───backup
 ├───test
-│   └───Temporary test files during development
+│   
+├───models
 ```

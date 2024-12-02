@@ -1,2 +1,1 @@
-Index,Model Output,Right or Wrong,Option_1 Confidence,Option_2 Confidence,Option_3 Confidence,Option_4 Confidence,Option_5 Confidence,Option_6 Confidence,Option_7 Confidence,Option_8 Confidence,Option_9 Confidence,Option_10 Confidence
-1,Option_1,Right,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,0.1
+output,result,option_1_confidence,option_2_confidence,option_3_confidence,option_4_confidence,option_5_confidence,option_6_confidence,option_7_confidence,option_8_confidence,option_9_confidence,option_10_confidence

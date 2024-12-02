@@ -13,7 +13,6 @@ def melody_to_pitch_sequence(melody, note_mapping):
     Returns:
         pitch_sequence (list): list of MIDI pitch values (integers)
     """
-    # Check if the melody string is incomplete or too short
     if '6------6' in melody:
         return 'skip'
 
@@ -21,15 +20,12 @@ def melody_to_pitch_sequence(melody, note_mapping):
     i = 0
     while i < len(melody):
         if melody[i:i+3] == '---':
-            # Long pause (word level), represented as None in pitch_sequence
             pitch_sequence.append(None)
             i += 3
         elif melody[i:i+2] == '--': 
-            # Medium pause (syllable level), represented as None
             pitch_sequence.append(None)
             i += 2
         elif melody[i] == '-':
-            # Short pause (neume level), represented as None
             pitch_sequence.append(None)
             i += 1
         elif melody[i].lower() in note_mapping:
@@ -42,7 +38,6 @@ def melody_to_pitch_sequence(melody, note_mapping):
         else:
             i += 1
 
-    # Remove pauses (None values) for pure pitch sequence
     pitch_sequence = [pitch for pitch in pitch_sequence if pitch is not None]
 
     return pitch_sequence
@@ -57,8 +52,8 @@ def normalize_pitch_sequence(pitch_sequence):
     Returns:
         normalized_sequence (list): list of normalized pitch values (floats)
     """
-    min_pitch = 55
-    max_pitch = 86
+    min_pitch = 21
+    max_pitch = 108
     range_pitch = max_pitch - min_pitch
 
     normalized_sequence = [(pitch - min_pitch) / range_pitch for pitch in pitch_sequence]
@@ -80,10 +75,9 @@ def clean_dataset(df):
     # Convert pitch_sequence from string representation of list to actual list
     df['pitch_sequence'] = df['pitch_sequence'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
 
-    # Remove rows where the pitch_sequence list length is less than 32
+    # Remove rows where the pitch_sequence list length is less than 40
     df = df[df['pitch_sequence'].apply(lambda x: len(x) >= 40 if isinstance(x, list) else False)]
 
-    # Reset the index
     df.reset_index(drop=True, inplace=True)
 
     return df
