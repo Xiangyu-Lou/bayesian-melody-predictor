@@ -8,7 +8,7 @@ from sklearn.utils import shuffle
 
 
 class MelodySelector:
-    def __init__(self, window_size=32, batch_size=300, model_path='models/melody_gp_model.joblib'):         # Adjusted window size and batch size depending on the memory
+    def __init__(self, window_size=32, batch_size=200, model_path='models/melody_gp_model.joblib'):         # Adjusted window size and batch size depending on the memory
         # Define the GP kernel with specific length scale bounds, higher is more flexible
         kernel = RBF(length_scale=5, length_scale_bounds=(1e-8, 1e2))
 
@@ -28,7 +28,7 @@ class MelodySelector:
         
     def prepare_training_data(self, data_frame):
         # Convert 'Normalized Pitch' data into a numpy array of floats
-        data_frame['Data'] = data_frame['Normalized Pitch'].apply(lambda x: np.array([float(i) for i in x.split(',')]))
+        data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(lambda x: np.array([float(i) for i in x.split(',')]))
 
         # Initialize the training data
         X_train = []
@@ -87,7 +87,7 @@ class MelodySelector:
         return False
 
     def select_best_option(self, test_input, options):
-        print("Option Evaluation:")
+        # print("Option Evaluation:")
         option_scores = []
         
         # Loop through each option to evaluate its performance
@@ -147,80 +147,36 @@ class MelodySelector:
             # Set the print options for numpy arrays
             np.set_printoptions(suppress=True, precision=6)
             # Print the evaluation results for each option
-            print(f"\nOption {idx}:")
-            print(f"Ground Truth: {option}")
-            print(f"Predicted Sequence: {predictions}")
-            print(f"Prediction Stds: {prediction_stds}")
-            print(f"Mean Prediction Error: {prediction_error:.4f}")
-            print(f"Variance Difference: {variance_diff:.4f}")
-            print(f"Contour Similarity: {contour_similarity:.4f}")
-            print(f"Confidence Score: {confidence_score:.4f}")
-            print(f"Uncertainty Penalty: {uncertainty_penalty:.4f}")
-            print(f"Combined Score: {combined_score:.4f}")
-            print(f"Points in Confidence Interval: {np.sum(in_interval)}/{len(option)}")
-            print("-" * 50)
+            # print(f"\nOption {idx}:")
+            # print(f"Ground Truth: {option}")
+            # print(f"Predicted Sequence: {predictions}")
+            # print(f"Prediction Stds: {prediction_stds}")
+            # print(f"Mean Prediction Error: {prediction_error:.4f}")
+            # print(f"Variance Difference: {variance_diff:.4f}")
+            # print(f"Contour Similarity: {contour_similarity:.4f}")
+            # print(f"Confidence Score: {confidence_score:.4f}")
+            # print(f"Uncertainty Penalty: {uncertainty_penalty:.4f}")
+            # print(f"Combined Score: {combined_score:.4f}")
+            # print(f"Points in Confidence Interval: {np.sum(in_interval)}/{len(option)}")
+            # print("-" * 50)
         
         best_option_index = np.argmin(option_scores)
-        print(f"\nSelected Option {best_option_index} with score {option_scores[best_option_index]:.4f}")
+        # print(f"\nSelected Option {best_option_index} with score {option_scores[best_option_index]:.4f}")
         
         return best_option_index
 
 def main():
     # read training data
-    training_data = pd.read_csv('dataset/gregorian_chant_pitch.csv')
+    training_data = pd.read_csv('dataset/dataset_train.csv')
     
     # initialize the melody selector
     melody_selector = MelodySelector()
     
-    # Try loading the model, if it doesn't exist, train a new one
-    if not melody_selector.load_model():
-        print("No existing model found. Training new model...")
-        # prepare training data
-        X_train, y_train = melody_selector.prepare_training_data(training_data)
-        # train the model
-        melody_selector.train_model(X_train, y_train)
+    # prepare training data
+    X_train, y_train = melody_selector.prepare_training_data(training_data)
     
-
-    # Test data
-    test_data = {
-    "Test Input": [
-    0.2500, 0.2500, 0.1786, 0.0714, 0.1786, 0.2500, 0.2500, 0.2500, 0.1786, 0.2500,
-    0.3571, 0.4286, 0.3571, 0.3214, 0.2500, 0.1786, 0.2500, 0.2500, 0.2500, 0.2500,
-    0.2500, 0.5000, 0.5000, 0.4286, 0.3571, 0.4286, 0.5000, 0.3571, 0.3214, 0.2500,
-    0.1786, 0.2500, 0.2500, 0.2500, 0.2500, 0.3571, 0.3214, 0.2500, 0.3214, 0.3571,
-    0.2500, 0.2500, 0.1429, 0.1786, 0.2500, 0.2500, 0.2500, 0.2500, 0.5000, 0.5000,
-    0.4286, 0.3571, 0.4286, 0.5000, 0.5000, 0.4286, 0.3571, 0.4286, 0.3214, 0.2500,
-    0.4286, 0.5000, 0.4286, 0.5000, 0.6071, 0.6071, 0.6071, 0.6071, 0.5000, 0.5000,
-    0.3571, 0.4286, 0.5000, 0.4286, 0.5000, 0.5000, 0.4286, 0.5000, 0.5000, 0.4286,
-    0.5000, 0.6071, 0.4286, 0.5000, 0.5000, 0.4286, 0.4286, 0.3571, 0.3214, 0.3571,
-    0.3214, 0.3571, 0.4286, 0.5000, 0.4286, 0.4286, 0.4286, 0.4286, 0.4286, 0.5000,
-    0.5000, 0.5000, 0.4286, 0.3571, 0.4286, 0.5000, 0.5000, 0.4286, 0.4286, 0.5000,
-    0.4286, 0.4286, 0.5000, 0.4286, 0.4286, 0.5000, 0.6071, 0.5714, 0.6071, 0.6786,
-    0.5000, 0.5000, 0.5000, 0.5000, 0.5000, 0.4286, 0.5000, 0.6071, 0.5000, 0.3571,
-    0.3571, 0.3571, 0.3214, 0.3571, 0.3571, 0.4286, 0.5000, 0.5000, 0.4286, 0.5000,
-    0.4286, 0.3214
-],
-    # Options 0 is the correct continuation of the sequence
-    "Option 0": [0.3571, 0.3214, 0.2500, 0.3571, 0.1786, 0.1786, 0.0714, 0.1786, 0.2500, 0.2500],
-    "Option 1": [0.6786, 0.6071, 0.6071, 0.6786, 0.7500, 0.7857, 0.8571, 0.7857, 0.7500, 0.6786],
-    "Option 2": [0.6071, 0.6786, 0.7500, 0.7857, 0.7857, 0.7857, 0.7500, 0.6786, 0.6071, 0.6071],
-    "Option 3": [0.3214, 0.2500, 0.2500, 0.3214, 0.3214, 0.3571, 0.3214, 0.6071, 0.5000, 0.6786]
-
-}
-    
-    # convert data to numpy arrays
-    test_input = np.array(test_data["Test Input"])
-    options = [
-        np.array(test_data["Option 0"]),
-        np.array(test_data["Option 1"]),
-        np.array(test_data["Option 2"]),
-        np.array(test_data["Option 3"])
-    ]
-    
-    # select the best option
-    best_option_index = melody_selector.select_best_option(test_input, options)
-    
-    print(f"\nBest option: Option {best_option_index}")
+    # train the model
+    melody_selector.train_model(X_train, y_train)
 
 if __name__ == "__main__":
     main()
