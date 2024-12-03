@@ -19,13 +19,13 @@ def evaluate_test_cases(test_data_path):
     # Process each test case
     for idx, row in test_df.iterrows():
         # Convert input string to numpy array
-        test_input = np.array([float(x) for x in row['input_pitch'].split(',')])
+        test_input = np.array([float(x) for x in row['input_pitch'].strip('[]').split(',')])
         
         # Convert options to numpy arrays
         options = []
-        for i in range(10):  # Assuming 10 options columns
-            option_col = f'Option_{i}'
-            option = np.array([float(x) for x in row[option_col].split(',')])
+        for i in (1, 10):  # Assuming 10 options columns
+            option_col = f'option_{i}'
+            option = np.array([float(x) for x in row[option_col].strip('[]').split(',')])
             options.append(option)
         
         # Select best option

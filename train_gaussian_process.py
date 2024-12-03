@@ -28,7 +28,7 @@ class MelodySelector:
         
     def prepare_training_data(self, data_frame):
         # Convert 'Normalized Pitch' data into a numpy array of floats
-        data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(lambda x: np.array([float(i) for i in x.split(',')]))
+        data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(lambda x: np.array([float(i) for i in x.strip('[]').split(',')]))
 
         # Initialize the training data
         X_train = []
