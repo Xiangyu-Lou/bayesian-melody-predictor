@@ -52,8 +52,8 @@ def normalize_pitch_sequence(pitch_sequence):
     Returns:
         normalized_sequence (list): list of normalized pitch values (floats)
     """
-    min_pitch = 21
-    max_pitch = 108
+    min_pitch = 55
+    max_pitch = 84
     range_pitch = max_pitch - min_pitch
 
     normalized_sequence = [(pitch - min_pitch) / range_pitch for pitch in pitch_sequence]
@@ -183,4 +183,4 @@ if __name__ == "__main__":
 
     # # Save the training and testing sets to CSV files
     df_train.to_csv('dataset/dataset_train.csv', index=False)
-    df_test.to_csv('dataset/dataset_test.csv', index=False)    
+    # df_test.to_csv('dataset/dataset_test.csv', index=False)    

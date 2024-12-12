@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 from train_gaussian_process import MelodySelector
 
+MODEL_PATH = 'models/gp_1e-9_5.joblib'
+
 def evaluate_test_cases(test_data_path):
     # Initialize the melody selector
     melody_selector = MelodySelector()
@@ -45,5 +47,5 @@ def evaluate_test_cases(test_data_path):
     print(f"Probability of selecting Option 1: {option1_probability:.2%}")
 
 if __name__ == "__main__":
-    test_data_path = 'dataset/dataset_test_filled(rough).csv'  # test_path
-    evaluate_test_cases(test_data_path)
+    test_data_path = 'dataset/dataset_test.csv'  # test_path
+    evaluate_test_cases(MODEL_PATH)

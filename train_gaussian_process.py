@@ -8,18 +8,18 @@ from sklearn.utils import shuffle
 
 
 class MelodySelector:
-    def __init__(self, window_size=32, batch_size=200, model_path='models/melody_gp_model.joblib'):         # Adjusted window size and batch size depending on the memory
+    def __init__(self, window_size=32, batch_size=200, model_path='models/gp_1e-9_5.joblib'):
         # Define the GP kernel with specific length scale bounds, higher is more flexible
-        kernel = RBF(length_scale=5, length_scale_bounds=(1e-8, 1e2))
+        kernel = RBF(length_scale=0.2, length_scale_bounds=(1e-4, 1e2))
 
         # Initialize the Gaussian Process Regressor
         self.gp = GaussianProcessRegressor(
             kernel=kernel,
-            alpha=1e-9,                     # Small noise level to avoid numerical issues
+            alpha=1e-9,
             random_state=42,
-            optimizer='fmin_l_bfgs_b',      # Optimizer to use, L-BFGS-B is efficient for GP
-            n_restarts_optimizer=5,         # Number of restarts for optimizer
-            normalize_y=True                # Normalize the output values
+            optimizer='fmin_tnc',      # fmin_l_bfgs_b
+            n_restarts_optimizer=5,
+            normalize_y=True,
         )
         # Set the window size and batch size
         self.window_size = window_size
@@ -28,7 +28,10 @@ class MelodySelector:
         
     def prepare_training_data(self, data_frame):
         # Convert 'Normalized Pitch' data into a numpy array of floats
-        data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(lambda x: np.array([float(i) for i in x.strip('[]').split(',')]))
+        # data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(lambda x: np.array([float(i) for i in x.strip('[]').split(',')]))
+        data_frame['Data'] = data_frame['normalized_pitch_sequence'].apply(
+            lambda x: np.array([round(float(i), 4) for i in x.strip('[]').split(',')])
+        )
 
         # Initialize the training data
         X_train = []
@@ -50,7 +53,7 @@ class MelodySelector:
 
     def train_model(self, X_train, y_train):
         # Number of epochs for training
-        n_epochs = 3
+        n_epochs = 5
 
         for epoch in range(n_epochs):
 
@@ -135,11 +138,9 @@ class MelodySelector:
             
             # Combine the scores with specific weights
             combined_score = (
-                0.3 * prediction_error +        # Prediction error weight
-                0.2 * variance_diff +           # Variance difference weight
-                0.2 * contour_similarity +      # Contour similarity weight
-                0.15 * confidence_score +       # Confidence score weight
-                0.15 * uncertainty_penalty      # Uncertainty penalty weight
+                prediction_error +       # Prediction error weight
+                # variance_diff +          # Variance difference weight
+                confidence_score    # Confidence score weight
             )
             
             option_scores.append(combined_score)
