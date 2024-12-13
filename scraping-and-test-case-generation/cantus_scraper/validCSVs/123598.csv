@@ -1,0 +1,674 @@
+shelfmark,holding_institution,marginalia,folio,sequence,incipit,feast,service,genre,position,cantus_id,mode,finalis,differentia,differentiae_database,fulltext_standardized,fulltext_ms,volpiano,image_link,melody_id,addendum,extra,node_id
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001b,1,Te deum laudamus te dominum,Additamenta,M,,,909010,,,,,,,,,,,,192531
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001r,1,Surrexit dominus vere,Dom. Resurrectionis,M,I,,001166,6,,PA,,,,,,,,,192532
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001r,2,Ego sum qui sum et ,Dom. Resurrectionis,M,A,1.1,002599,2,,D2,152b,,,,,,,f,192533
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001r,3,Postulavi patrem meum,Dom. Resurrectionis,M,A,1.2,004342,2,,D1,152c,,,,,,,a,192534
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001v,1,Ego dormivi et somnum coepi,Dom. Resurrectionis,M,A,1.3,002572,8,,C1,99d,,,,,,,a,192535
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001v,2,Surrexit dominus de sepulcro,Dom. Resurrectionis,M,W,1.,008212,*,,,,,,,,,,,192536
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,001v,3,Angelus domini descendit de,Dom. Resurrectionis,M,R,1.1,006093,3,,,,,,,,,,,192537
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,002r,1,Et introeuntes in monumentum,Dom. Resurrectionis,M,V,01,006093b,3,,,,,,,,,,,192538
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,002v,1,Gloria patri et filio et,Dom. Resurrectionis,M,V,02,909000,3,,,,,,,,,,,192539
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,002v,2,Dum transisset sabbatum Maria,Dom. Resurrectionis,M,R,1.2,006565,4,,,,,,,,,,,192540
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,002v,3,Et valde mane una sabbatorum,Dom. Resurrectionis,M,V,01,006565a,4,,,,,,,,,,,192541
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003r,1,Gloria*,Dom. Resurrectionis,M,V,02,909000,*,,,,,,,,,,,192542
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003r,2,Angelus autem domini,Dom. Resurrectionis,L,A,1,001408,8,,G1,118a,,,,,,,a,192543
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003r,3,Et ecce terraemotus factus,Dom. Resurrectionis,L,A,2,002699,7,,C1,144a,,,,,,,a,192544
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003v,1,Erat autem aspectus ejus,Dom. Resurrectionis,L,A,3,002647,8,,C1,99d,,,,,,,a,192545
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003v,2,Prae timore autem ejus,Dom. Resurrectionis,L,A,4,004350,7,,A1,143b,,,,,,,a,192546
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,003v,3,Respondens autem angelus,Dom. Resurrectionis,L,A,5,004630,8,,G1,118a,,,,,,,a,192547
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004r,1,Haec dies quam fecit dominus,Dom. Resurrectionis,L,Gr,,008414,,,,,,,,,,,,192548
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004r,2,Et valde mane una sabbatorum,Dom. Resurrectionis,L,A,B,002728,8,,G1,118a,,,,,,,a,192549
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,1,Angelus autem domini*,Dom. Resurrectionis,V2,A,1,001408,*,,,,,,,,,,,192550
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,2,Haec dies*,Dom. Resurrectionis,V2,Gr,,008414,*,,,,,,,,,,,192551
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,3,Et respicientes viderunt,Dom. Resurrectionis,V2,A,M,002718,3,,A1,97a,,,,,,,a,192552
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,4,Alleluia ? (Miserere)*,Dom. Resurrectionis,C,A,N,,*,,,,Alleluia ? (Miserere)*,,,,,,,192553
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,5,Haec dies*,Dom. Resurrectionis,C,Gr,,008414,*,,,,,,,,,,,192554
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,6,Surrexit dominus de sepulcro,Fer. 2 p. Pascha,M,W,,008212,*,,,,,,,,,,,192555
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,004v,7,Maria Magdalena et altera,Fer. 2 p. Pascha,M,R,1,007128,8,,,,,,,,,,,192556
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,005r,1,Et valde mane una sabbatorum,Fer. 2 p. Pascha,M,V,01,007128b,8,,,,,,,,,,,192557
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",L,005v,1,Surrexit pastor*,Fer. 2 p. Pascha,M,R,2,007742,*,,,,,,,,,,,192558
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,005v,2,Congratulamini mihi omnes qui,Fer. 2 p. Pascha,M,R,3,006323,5,,,,,,,,,,,192559
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,005v,3,Recedentibus discipulis non,Fer. 2 p. Pascha,M,V,01,006323b,5,,,,,,,,,,,192560
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006r,1,Te deum laudamus*,Fer. 2 p. Pascha,M,,,909010,*,,,,,,,,,,,192561
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006r,2,Jesus junxit se discipulis,Fer. 2 p. Pascha,L,A,B,003491,8,,G1,118a,,,,,,,a,192562
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006r,3,Qui sunt hi sermones quos,Fer. 2 p. Pascha,V2,A,M,004499,8,,G1,118a,,,,,,,a,192563
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006v,1,Surrexit dominus vere,Fer. 3 p. Pascha,M,W,,008213,*,,,,,,,,,,,192564
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006v,2,Virtute magna reddebant,Fer. 3 p. Pascha,M,R,1,007907,3,,,,,,,,,,,192565
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,006v,3,Repleti quidem spiritu sancto,Fer. 3 p. Pascha,M,V,01,007907b,3,,,,,,,,,,,192566
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",L,007r,1,De ore prudentis*,Fer. 3 p. Pascha,M,R,2,006396,*,,,,,,,,,,,192567
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,007r,2,Tulerunt dominum meum et,Fer. 3 p. Pascha,M,R,3,007797,8,,,,,,,,,,,192568
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,007r,3,Cum ergo fleret inclinavit se,Fer. 3 p. Pascha,M,V,01,007797b,8,,,,,,,,,,,192569
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,007v,1,Stetit Jesus in medio,Fer. 3 p. Pascha,L,A,B,005032,8,,G1,118a,,,,,,,a,192570
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,007v,2,Videte manus meas et pedes,Fer. 3 p. Pascha,V2,A,M,005400,8,,G1,118a,,,,,,,a,192571
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008r,1,Gavisi sunt discipuli,Fer. 4 p. Pascha,M,W,,008080,*,,,,,,,,,,,192572
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008r,2,Ecce vicit leo de tribu Juda,Fer. 4 p. Pascha,M,R,1,006616,7,,,,,,,,,,,192573
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008r,3,Dignus est agnus qui occisus,Fer. 4 p. Pascha,M,V,01,006616b,7,,,,,,,,,,,192574
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008v,1,Ego sum vitis vera et vos,Fer. 4 p. Pascha,M,R,2,006635,5,,,,,,,,,,,192575
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008v,2,Sicut dilexit pater et ego,Fer. 4 p. Pascha,M,V,01,006635zb,5,,,,,,,,,,,192576
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,008v,3,Mittite in dexteram navigii,Fer. 4 p. Pascha,L,A,B,003800,7,,C1,144a,,,,,,,a,192577
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,009r,1,Dixit Jesus discipulis suis,Fer. 4 p. Pascha,V2,A,M,002296,8,,G1,118a,,,,,,,a,192578
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,009r,2,Tulerunt dominum*,Fer. 5 p. Pascha,M,R,1,007797,*,,,,,,,,,,,192579
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",L,009r,3,Congratulamini*,Fer. 5 p. Pascha,M,R,2,006323,*,,,,,,,,,,,192580
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",L,009r,4,Surrexit pastor bonus qui,Fer. 5 p. Pascha,M,R,3,007742,1,,,,,,,,,,,192581
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,009v,1,Etenim pascha nostrum,Fer. 5 p. Pascha,M,V,01,007742b,1,,,,,,,,,,,192582
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,009v,2,De ore prudentis procedit mel,Fer. 5 p. Pascha,M,R,4,006396,7,,,,,,,,,,,192583
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,010r,1,Sapientia requiescit in*,Fer. 5 p. Pascha,M,V,01,006396b,7,,,,,,,,,,,192584
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,010r,2,Maria stabat ad monumentum et,Fer. 5 p. Pascha,L,A,B,003705,7,,A1,143b,,,,,,,a,192585
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,010r,3,Tulerunt dominum meum et,Fer. 5 p. Pascha,V2,A,M,005232,7,,A1,143b,,,,,,,a,192586
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,010v,1,Surgens Jesus dominus noster,Fer. 6 p. Pascha,M,R,1,007734,7,,,,,,,,,,,192587
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,011r,1,Una ergo sabbatorum cum fores,Fer. 6 p. Pascha,M,V,01,007734b,7,,,,,,,,,,,192588
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,011r,2,Expurgate vetus fermentum ut,Fer. 6 p. Pascha,M,R,2,006699,1,,,,,,,,,,,192589
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,011v,1,Mortuus est propter delicta,Fer. 6 p. Pascha,M,V,01,006699b,1,,,,,,,,,,,192590
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,011v,2,Undecim discipuli in Galilaea,Fer. 6 p. Pascha,L,A,B,005271,7,,C1,144a,,,,,,,a,192591
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,011v,3,Data est mihi omnis potestas,Fer. 6 p. Pascha,V2,A,M,002099,8,,G1,118a,,,,,,,a,192592
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,012r,1,Christus resurgens ex mortuis,Sabbato in Albis,M,R,1,600356,4,,,,,,,,,,,192593
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,012r,2,Mortuus est semel propter,Sabbato in Albis,M,V,01,600356a,4,,,,,,,,,,,192594
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,012v,1,Isti sunt agni novelli qui,Sabbato in Albis,M,R,2,007012,7,,,,,,,,,,,192595
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,012v,2,In conspectu agni amicti sunt,Sabbato in Albis,M,V,01,007012a,7,,,,,,,,,,,192596
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013r,1,Currebant duo simul et ille,Sabbato in Albis,L,A,B,002081,1,,F1,69b,,,,,,,a,192597
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013r,2,Alleluia iii,Sabbato in Albis,V2,A,1,001328,6,,F1,7a,,,,,,,a,192598
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013r,3,Ad cenam agni*,Sabbato in Albis,V2,H,,008249,*,,,,,,,,,,,192599
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013r,4,Mane nobiscum domine,Sabbato in Albis,V2,W,,800263,*,,,,,,,,,,,192600
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013r,5,Cum esset sero die illo ,Sabbato in Albis,V2,A,M,002002,1,,D2,72b,,,,,,,e,192601
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,1,Crucem sanctam subiit qui,Suff. Crucis,V2,A,R,001951,2,,D2,152h,,,,,,,b,192602
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,2,Dicite in nationibus,Suff. Crucis,V2,W,R,008013,*,,,,,,,,,,,192603
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,3,Alleluia ? (Salva nos)*,Sabbato in Albis,C,A,N,,*,,,,Alleluia ? (Salva nos)*,,,,,,,192604
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,4,Surrexit dominus vere*,Octava Paschae,M,I,,001166,*,,*,,,,,,,,,192605
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,5,Rex aeterne domine*,Octava Paschae,M,H,,008383,*,,,,,,,,,,,192606
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,013v,6,Alleluia lapis revolutus est,Octava Paschae,M,A,1.,001345,5,,A1,129a,,,,,,,a,192607
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,1,Surrexit dominus de sepulcro,Octava Paschae,M,W,1.,008212,*,,,,,,,,,,,192608
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,2,Angelus domini descendit de*,Octava Paschae,M,R,1.1,006093,*,,,,,,,,,,,192609
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,3,Et introeuntes*,Octava Paschae,M,V,01,006093b,*,,,,,,,,,,,192610
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,4,Angelus domini locutus est,Octava Paschae,M,R,1.2,006095,5,,,,,,,,,,,192611
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,5,Jesum quaeritis Nazarenum,Octava Paschae,M,V,01,006095b,5,,,,,,,,,,,192612
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014r,6,Dum transisset sabbatum*,Octava Paschae,M,R,1.3,006565,*,,,,,,,,,,,192613
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014v,1,Alleluia quem quaeris mulier,Octava Paschae,M,A,2.,001350,5,,A1,129a,,,,,,,a,192614
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014v,2,Surrexit dominus vere,Octava Paschae,M,W,2.,008213,*,,,,,,,,,,,192615
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014v,3,Alleluia noli flere Maria,Octava Paschae,M,A,3.,001348,5,,A1,129a,,,,,,,a,192616
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014v,4,Gavisi sunt discipuli,Octava Paschae,M,W,3.,008080,*,,,,,,,,,,,192617
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,014v,5,Alleluia x,Octava Paschae,L,A,1,001335,8,,G1,118a,,,,,,,a,192618
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,1,Surrexit Christus de sepulcro,Octava Paschae,L,A,4,005076,6,,F1,7a,,,,,,,a,192619
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,2,Alleluia iii,Octava Paschae,L,A,5,001328,6,,F1,7a,,,,,,,a,192620
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,3,Aurora lucis*,Octava Paschae,L,H,,008271,*,,,,,,,,,,,192621
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,4,In resurrectione tua Christe,Octava Paschae,L,W,,008100,*,,,,,,,,,,,192622
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,5,Cum esset sero*,Octava Paschae,L,A,B,002002,*,,,,,,,,,,,192623
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,6,Crucifixus surrexit a mortuis,Suff. Crucis,L,A,R,001957,6,,F1,7a,,,,,,,a,192624
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,7,Dicite in nationibus,Suff. Crucis,L,W,R,008013,*,,,,,,,,,,,192625
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,8,Jam lucis orto*,Octava Paschae,P,H,,008328,*,,,,,,,,,,,192626
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015r,9,Alleluia iv,Octava Paschae,P,A,,001329,8,,G1,118a,,,,,,,a,192627
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,1,Christe fili dei vivi,Octava Paschae,P,R,,006276,r,,,,,,,,,,,192628
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,2,Qui surrexisti a mortuis,Octava Paschae,P,V,01,006276zf,r,,,,,,,,,,,192629
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,3,Gloria patri*,Octava Paschae,P,V,02,909000,*,,,,,,,,,,,192630
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,4,Exsurge Christe adjuva nos,Octava Paschae,P,W,,008072,*,,,,,,,,,,,192631
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,5,Alleluia iv,Octava Paschae,T,A,,001329,2,,D1,152c,,,,,,,a,192632
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,6,Surrexit dominus de sepulcro,Octava Paschae,T,R,,007738,*,,,,,,,,,,,192633
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,7,Qui pro nobis pependit in,Octava Paschae,T,V,01,007738a,*,,,,,,,,,,,192634
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,8,Gloria*,Octava Paschae,T,V,02,909000,*,,,,,,,,,,,192635
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,9,Surrexit dominus vere,Octava Paschae,T,W,,008213,*,,,,,,,,,,,192636
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,10,Alleluia iii,Octava Paschae,S,A,,001328,8,,C1,99d,,,,,,,a,192637
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,11,Surrexit dominus vere,Octava Paschae,S,R,,007740,*,,,,,,,,,,,192638
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,12,Et apparuit Simoni,Octava Paschae,S,V,01,007740a,*,,,,,,,,,,,192639
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,13,Gloria patri*,Octava Paschae,S,V,02,909000,*,,,,,,,,,,,192640
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,015v,14,Gavisi sunt discipuli,Octava Paschae,S,W,,008080,*,,,,,,,,,,,192641
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,1,Alleluia iv,Octava Paschae,N,A,,001329,8,,C1,99d,,,,,,,a,192642
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,2,Gavisi sunt discipuli,Octava Paschae,N,R,,006767,*,,,,,,,,,,,192643
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,3,Viso domino,Octava Paschae,N,V,01,006767a,*,,,,,,,,,,,192644
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,4,Gloria*,Octava Paschae,N,V,02,909000,*,,,,,,,,,,,192645
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,5,Mane nobiscum domine,Octava Paschae,N,W,,800263,*,,,,,,,,,,,192646
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,6,Alleluia iv,Octava Paschae,V2,A,1,001329,7,,C2,148a,,,,,,,a,192647
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,7,Ad cenam agni*,Octava Paschae,V2,H,,008249,*,,,,,,,,,,,192648
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,8,Mane nobiscum domine,Octava Paschae,V2,W,,800263,*,,,,,,,,,,,192649
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,9,Post dies octo januis clausis,Octava Paschae,V2,A,M,004326,8,,C1,99d,,,,,,,a,192650
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,10,Crucem sanctam*,Suff. Crucis,V2,A,R,001951,*,,,,,,,,,,,192651
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,11,Alleluia iii*,Fer. 2 p. Oct.Pasch.,M,I,,001023,*,,*,,,,,,,,,192652
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,12,Alleluia iii*,Fer. 2 p. Oct.Pasch.,M,A,,001328,*,,,,,,,,,,,192653
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016r,13,Ego sum*,Fer. 2 p. Oct.Pasch.,M,R,1,006635,*,,,,,,,,,,,192654
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016v,1,Alleluia iii,Fer. 2 p. Oct.Pasch.,M,I,,001023,6,,PA,,,,,,,,,192655
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016v,2,Alleluia iii,Fer. 2 p. Oct.Pasch.,M,A,,001328,1,,G1,66e,,,,,,,f,192656
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016v,3,Alleluia x*,Fer. 2 p. Oct.Pasch.,L,A,1,001335,*,,,,,,,,,,,192657
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016v,4,Surgens Jesus mane prima,In tempore Paschae,L,A,1B,005075,1,,F1,69b,,,,,,,a,192658
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,016v,5,Praecedam vos in Galilaeam,In tempore Paschae,L,A,2B,004352,8,,G1,118a,,,,,,,a,192659
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,017r,1,Misi digitum meum in fixura,Additamenta,V2,A,M,003782,8,,G1,118a,,,,,,,a,192660
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018r,1,Alleluia ego sum vitis vera,In tempore Paschae,L,A,3B,001342,8,,G1,118a,,,,,,,a,192661
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018r,2,Ardens est cor meum desidero,In tempore Paschae,L,A,4B,001479,8,,G1,118a,,,,,,,a,192662
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018r,3,Venerunt ad monumentum Maria,In tempore Paschae,L,A,5B,005317,8,,G1,118a,,,,,,,a,192663
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018v,1,Euntes in mundum alleluia,In tempore Paschae,L,A,6B,002737,8,,C1,99d,,,,,,,a,192664
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018v,2,Euntes in mundum docete omnes,In tempore Paschae,L,A,7B,002738,1,,G1,,Euntes in mundum docete omnes gentes baptizantes eos alleluia in nomine patris et filii et spiritus sancti alleluia,,,,,,a?,192665
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,018v,3,Ite nuntiate fratribus meis,In tempore Paschae,L,A,8B,003462,8,,G1,118a,,,,,,,a,192666
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,019r,1,Tu solus peregrinus es et ,In tempore Paschae,L,A,9B,005222,1,,F1,69b,,,,,,,a,192667
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,019r,2,Nonne sic oportuit pati Christum,In tempore Paschae,L,A,10B,003950,1,,G1,,Nonne sic oportuit pati Christum et intrare in gloriam suam alleluia,,,,,,a?,192668
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,019r,3,Et incipiens a Moyse et,In tempore Paschae,L,A,11B,002706,1,,G1,66d,,,,,,,a,192669
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,019v,1,Et coegerunt illum dicentes,In tempore Paschae,L,A,12B,002692,1,,F1,69b,,,,,,,a,192670
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,019v,2,Mane nobiscum quoniam,In tempore Paschae,L,A,13B,003690,1,,F1,69b,,,,,,,a,192671
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020r,1,Et intravit cum illis et,In tempore Paschae,L,A,14B,002708,8,,G1,118a,,,,,,,a,192672
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020r,2,Cognoverunt dominum alleluia,In tempore Paschae,L,A,15B,001848,8,,G1,118a,,,,,,,a,192673
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020r,3,Nonne cor nostrum ardens erat,In tempore Paschae,L,A,16B,003943,1,,C1,T66e,,,,,,,a,192674
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020r,4,Pax vobis ego sum alleluia,In tempore Paschae,L,A,17B,004254,2,,D2,152b,,,,,,,f,192675
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020v,1,Spiritus carnem et ossa non,In tempore Paschae,L,A,18B,004996,1,,G1,,Spiritus carnem et ossa non habet sicut me videtis habere jam credite alleluia,,,,,,a?,192676
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020v,2,Obtulerunt discipuli domino,In tempore Paschae,L,A,19B,004103,7,,B1,142a,,,,,,,a,192677
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,020v,3,Isti sunt sermones quos,In tempore Paschae,L,A,20B,003445,1,,G2,T73c,,,,,,,a,192678
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021r,1,Oportebat pati Christum et,In tempore Paschae,L,A,21B,004163,8,,G1,118a,,,,,,,a,192679
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021r,2,Jesum qui crucifixus est,In tempore Paschae,L,A,22B,003484,8,,G1,118a,,,,,,,a,192680
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021r,3,Alleluia iii,Fer. 2 p. Oct.Pasch.,V2,A,1,001328,1,,A2,64b,,,,,,,a,192681
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021v,1,Pax vobis ego sum alleluia,"Octava Paschae,8",V2,A,1M,004254,6,,F1,7a,,,,,,,a,192682
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021v,2,Mitte manum tuam et cognosce,"Octava Paschae,8",V2,A,2M,003797,8,,G1,118a,,,,,,,a,192683
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021v,3,Quia vidisti me Thoma,"Octava Paschae,8",V2,A,3M,004513,8,,G1,118a,,,,,,,a,192684
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,021v,4,Misi digitum meum in fixuras,"Octava Paschae,8",V2,A,4M,003782,8,,G1,118a,,,,,,,a,192685
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022r,1,Multa quidem et alia signa,"Octava Paschae,8",V2,A,5M,003828,3,,A1,97a,,,,,,,a,192686
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022r,2,Haec autem scripta sunt ut,"Octava Paschae,8",V2,A,6M,002993,8,,G1,118a,,,,,,,a,192687
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,1,Alleluia iii,Fer. 3 p. Oct.Pasch.,M,A,,001328,1,,A2,64b,,,,,,,a,192688
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,2,Surrexit dominus vere,Fer. 3 p. Oct.Pasch.,M,W,,008213,*,,,,,,,,,,,192689
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,3,Alleluia iv,Fer. 3 p. Oct.Pasch.,V2,A,1,001329,4,,G1,10b,,,,,,,a,192690
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,4,Alleluia iii,Fer. 4 p. Oct.Pasch.,M,A,,001328,8,,G1,118a,,,,,,,a,192691
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,5,Gavisi sunt discipuli,Fer. 4 p. Oct.Pasch.,M,W,,008080,*,,,,,,,,,,,192692
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,6,Alleluia iii,Fer. 4 p. Oct.Pasch.,V2,A,1,001328,2,,D1,152c,,,,,,,a,192693
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,022v,7,Alleluia iii,Fer. 5 p. Oct.Pasch.,M,A,,001328,2,,D1,152c,,,,,,,a,192694
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,023r,1,Ego sum pastor ovium ego ,Additamenta,X,A,,002598,8,,G1,118a,,,,,,,a,192695
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,1,Alleluia iii,Fer. 5 p. Oct.Pasch.,V2,A,1,001328,1,,A2,64b,,,,,,,a,192696
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,2,Alleluia iii,Fer. 6 p. Oct.Pasch.,M,A,,001328,1,,A2,64b,,,,,,,a,192697
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,3,Alleluia iii,Fer. 6 p. Oct.Pasch.,V2,A,1,001328,5,,A1,129a,,,,,,,a,192698
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,4,Alleluia iii,Sabb. p. Oct. Pasch.,M,A,,001328,1,,A2,64b,,,,,,,a,192699
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,5,Alleluia iii,Sabb. p. Oct. Pasch.,V2,A,1,001328,6,,F1,7a,,,,,,,a,192700
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024r,6,Ego sum pastor ovium ego ,Sabb. p. Oct. Pasch.,V2,A,M,002598,8,,G1,118a,,,,,,,a,192701
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,024v,1,Dignus es domine accipere,Dom. 2 p. Pascha,M,R,1,006448,7,,,,,,,,,,,192702
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,025r,1,Fecisti enim nos deo nostro,Dom. 2 p. Pascha,M,V,01,006448b,7,,,,,,,,,,,192703
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,025r,2,Ego sicut vitis fructificavi,Dom. 2 p. Pascha,M,R,2,006633,3,,,,,,,,,,,192704
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,025r,3,In me gratia omnis viae et,Dom. 2 p. Pascha,M,V,01,006633b,3,,,,,,,,,,,192705
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,025v,1,Audivi vocem de caelo tamquam,Dom. 2 p. Pascha,M,R,3,006153,7,,,,,,,,,,,192706
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,026r,1,Et vox de throno exivit,Dom. 2 p. Pascha,M,V,01,006153b,7,,,,,,,,,,,192707
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,026r,2,Locutus est ad me unus ex,Dom. 2 p. Pascha,M,R,4,007096,2,,,,,,,,,,,192708
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,026v,1,Et sustulit me in spiritu in,Dom. 2 p. Pascha,M,V,01,007096b,2,,,,,,,,,,,192709
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,026v,2,Audivi vocem in caelo angelo-,Dom. 2 p. Pascha,M,R,5,006152,1,,,,,,,,,,,192710
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,027r,1,Vidi angelum dei fortem,Dom. 2 p. Pascha,M,V,01,006152a,1,,,,,,,,,,,192711
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,027r,2,Veniens a Libano quam pulchra,Dom. 2 p. Pascha,M,R,6,007829,1,,,,,,,,,,,192712
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,027v,1,Favus distillans labia ejus,Dom. 2 p. Pascha,M,V,01,007829b,1,,,,,,,,,,,192713
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,027v,2,Decantabat populus Israel,Dom. 2 p. Pascha,M,R,7,006400,6,,,,,,,,,,,192714
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,028r,1,Sanctificati sunt ergo,Dom. 2 p. Pascha,M,V,01,006400b,6,,,,,,,,,,,192715
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,028r,2,Vidi portam civitatis ad,Dom. 2 p. Pascha,M,R,8,007877,7,,,,,,,,,,,192716
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,028v,1,Vidi caelum novum et terram,Dom. 2 p. Pascha,M,V,01,007877b,7,,,,,,,,,,,192717
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,028v,2,Ostendit mihi angelus fontem,Dom. 2 p. Pascha,M,R,9,007344,7,,,,,,,,,,,192718
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,029r,1,Postquam audissem et vidissem,Dom. 2 p. Pascha,M,V,01,007344b,7,,,,,,,,,,,192719
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,029r,2,Vidi Jerusalem descendentem,Dom. 2 p. Pascha,M,R,10,007876,1,,,,,,,,,,,192720
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,029v,1,Et erat structura muri ejus,Dom. 2 p. Pascha,M,V,01,007876b,1,,,,,,,,,,,192721
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,029v,2,In diademate capitis Aaron,Dom. 2 p. Pascha,M,R,11,006898,3,,,,,,,,,,,192722
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,029v,3,In veste enim poderis quam,Dom. 2 p. Pascha,M,V,01,006898b,3,,,,,,,,,,,192723
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,030r,1,Plateae tuae Jerusalem,Dom. 2 p. Pascha,M,R,12,007390,1,,,,,,,,,,,192724
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,030v,1,Luce splendida fulgebis et,Dom. 2 p. Pascha,M,V,01,007390b,1,,,,,,,,,,,192725
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,030v,2,Ego sum pastor ovium*,Dom. 2 p. Pascha,L,A,B,002598,*,,,,,,,,,,,192726
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,030v,3,Ego sum pastor bonus qui,Dom. 2 p. Pascha,V2,A,M,002597,3,,A1,97a,,,,,,,a,192727
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,030v,4,Pastor bonus animam suam,"Dom. 2 p. Pascha,8",V2,A,1M,004223,3,,A1,97a,,,,,,,a,192728
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,031r,1,Mercennarius autem cujus non,"Dom. 2 p. Pascha,8",V2,A,2M,003747,3,,A1,97a,,,,,,,a,192729
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,031r,2,Sicut novit me pater et ,"Dom. 2 p. Pascha,8",V2,A,3M,004943,5,,A1,129a,,,,,,,a,192730
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,031r,3,Alias oves habeo quae non,"Dom. 2 p. Pascha,8",V2,A,4M,001320,8,,G1,118a,,,,,,,a,192731
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,031v,1,Mercennarius autem et qui non,"Dom. 2 p. Pascha,8",V2,A,5M,203090,8,,G1,118a,,,,,,,a,192732
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,031v,2,Modicum et non videbitis me,Dom. 3 p. Pascha,V,A,M,003803,6,,F1,7a,,,,,,,a,192733
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032r,1,Modicum et non*,Dom. 3 p. Pascha,L,A,B,003803,*,,,,,,,,,,,192734
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032r,2,Amen dico vobis quia,Dom. 3 p. Pascha,V2,A,M,001375,8,,G1,118a,,,,,,,a,192735
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032r,3,Tristitia vestra alleluia,"Dom. 3 p. Pascha,8",V2,A,1M,204967,8,,G1,118a,,,,,,,a,192736
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032v,1,Tristitia implevit cor,"Dom. 3 p. Pascha,8",V2,A,2M,005189,8,,G1,118a,,,,,,,a,192737
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032v,2,Tristitia vestra alleluia,"Dom. 3 p. Pascha,8",V2,A,3M,005190,6,,F1,7a,,,,,,,a,192738
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,032v,3,Iterum videbo vos alleluia et,"Dom. 3 p. Pascha,8",V2,A,4M,003464,1,,G1,66e,,,,,,,f,192739
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,033r,1,Amen dico vobis mundus autem,"Dom. 3 p. Pascha,8",V2,A,5M,001378,1,,F1,69b,,,,,,,a,192740
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,033r,2,Iterum autem videbo vos et,"Dom. 3 p. Pascha,8",V2,A,6M,003465,8,,G1,118a,,,,,,,a,192741
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,033r,3,Mulier dum parit tristitiam,"Dom. 3 p. Pascha,8",V2,A,7M,003818,7,,C2,148a,,,,,,,a,192742
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,033v,1,Haec locutus sum vobis ut,"Dom. 3 p. Pascha,8",V2,A,8M,003010,3,,A1,97a,,,,,,,a,192743
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,033v,2,Vado ad eum qui misit ,Dom. 4 p. Pascha,V,A,M,005305,1,,A1,76a,,,,,,,a,192744
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,034r,1,Si oblitus fuero tui alleluia,Dom. 4 p. Pascha,M,R,1,007653,8,,,,,,,,,,,192745
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,034r,2,Super flumina Babylonis illic,Dom. 4 p. Pascha,M,V,01,007653a,8,,,,,,,,,,,192746
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,034v,1,Viderunt te aquae deus,Dom. 4 p. Pascha,M,R,2,007867,2,,,,,,,,,,,192747
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,034v,2,Illuxerunt coruscationes tuae,Dom. 4 p. Pascha,M,V,01,007867a,2,,,,,,,,,,,192748
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035r,1,Narrabo nomen tuum fratribus,Dom. 4 p. Pascha,M,R,3,007194,2,,,,,,,,,,,192749
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035r,2,Confitebor tibi in populis,Dom. 4 p. Pascha,M,V,01,007194c,2,,,,,,,,,,,192750
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035r,3,In ecclesiis benedicite deo,Dom. 4 p. Pascha,M,R,4,006901,4,,,,,,,,,,,192751
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035v,1,Psalmum dicite nomini ejus,Dom. 4 p. Pascha,M,V,01,006901b,4,,,,,,,,,,,192752
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035v,2,In toto corde meo alleluia,Dom. 4 p. Pascha,M,R,5,006943,4,,,,,,,,,,,192753
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,035v,3,Benedictus es tu domine doce,Dom. 4 p. Pascha,M,V,01,006943zb,4,,,,,,,,,,,192754
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036r,1,Hymnum cantate nobis alleluia,Dom. 4 p. Pascha,M,R,6,006872,8,,,,,,,,,,,192755
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036r,2,Illic interrogaverunt nos qui,Dom. 4 p. Pascha,M,V,01,006872b,8,,,,,,,,,,,192756
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036r,3,Deus canticum novum cantabo,Dom. 4 p. Pascha,M,R,7,006419,8,,,,,,,,,,,192757
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036v,1,Deus meus es tu et confitebor,Dom. 4 p. Pascha,M,V,01,006419b,8,,,,,,,,,,,192758
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036v,2,Bonum est confiteri domino,Dom. 4 p. Pascha,M,R,8,006256,7,,,,,,,,,,,192759
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,036v,3,In decachordo psalterio cum,Dom. 4 p. Pascha,M,V,01,006256zc,7,,,,,,,,,,,192760
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037r,1,Dicant nunc qui redempti sunt,Dom. 4 p. Pascha,M,R,9,006438,7,,,,,,,,,,,192761
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037r,2,Quos redemit de manu inimici,Dom. 4 p. Pascha,M,V,01,006438a,7,,,,,,,,,,,192762
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037r,3,Cantate deo alleluia psalmum,Dom. 4 p. Pascha,M,R,10,006268,2,,,,,,,,,,,192763
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037v,1,Afferte domino gloriam et,Dom. 4 p. Pascha,M,V,01,006268za,2,,,,,,,,,,,192764
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037v,2,Vado ad eum*,Dom. 4 p. Pascha,L,A,B,005305,*,,,,,,,,,,,192765
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037v,3,Vado ad eum qui misit ,Dom. 4 p. Pascha,V2,A,M,005306,2,,D1,152c,,,,,,,a,192766
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,037v,4,Ego veritatem dico vobis,"Dom. 4 p. Pascha,8",V2,A,1M,002607,7,,A1,143b,,,,,,,a,192767
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,038r,1,Cum venerit paraclitus spiri-,"Dom. 4 p. Pascha,8",V2,A,2M,002478,2,,D1,152c,,,,,,,a,192768
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,038r,2,Adhuc multa habeo vobis,"Dom. 4 p. Pascha,8",V2,A,3M,001276,5,,A1,129a,,,,,,,a,192769
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,038v,1,Non enim loquetur a semetipso,"Dom. 4 p. Pascha,8",V2,A,4M,003909,8,,G1,118a,,,,,,,a,192770
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,038v,2,Usque modo non petistis,Dom. 5 p. Pascha,V,A,M,005284,2,,D1,152c,,,,,,,a,192771
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,039r,1,Petite et accipietis quaerite,Additamenta,L,A,1B,203832,1,,A2,64b,,,,,,,a,192772
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,039v,1,Oportebat pati Christum et,Additamenta,L,A,2B,004163,8,,G1,118a,,,,,,,a,192773
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040r,1,Usque modo*,Dom. 5 p. Pascha,L,A,B,005284,*,,,,,,,,,,,192774
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040r,2,Petite et accipietis ut,Dom. 5 p. Pascha,V2,A,M,004279,8,,G1,118a,,,,,,,a,192775
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040r,3,Ipse enim pater amat vos ,In Letaniis,V2,A,1M,202643,8,,G1,118a,,,,,,,a,192776
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040r,4,Exivi a patre et veni ,In Letaniis,V2,A,2M,002793,8,,G1,118a,,,,,,,a,192777
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040v,1,Ecce nunc palam loqueris et,In Letaniis,V2,A,3M,002530,8,,G1,118a,,,,,,,a,192778
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040v,2,Viri Galilaei*,Ascensio Domini,V,A,1,005458,*,,,,,,,,,,,192779
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040v,3,Jesu nostra*,Ascensio Domini,V,H,,008331,*,,,,,,,,,,,192780
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040v,4,Ascendit deus in jubilatione,Ascensio Domini,V,W,,007952,*,,,,,,,,,,,192781
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,040v,5,Pater manifestavi nomen tuum,Ascensio Domini,V,A,M,004237,6,,F1,7a,,,,,,,a,192782
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041r,1,Alleluia Christum dominum,Ascensio Domini,M,I,,001029,5,,5,,,,,,,,,192783
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041r,2,Aeterne rex altissime*,Ascensio Domini,M,H,,008255,*,,,,,,,,,,,192784
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041r,3,Elevata est magnificentia tua,Ascensio Domini,M,A,1.1,002634,4,,F2,28a,,,,,,,b,192785
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041r,4,Dominus in templo sancto suo,Ascensio Domini,M,A,1.2,002410,8,,G1,118a,,,,,,,a,192786
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041v,1,A summo caelo egressio ejus,Ascensio Domini,M,A,1.3,001195,4,,F2,28a,,,,,,,b,192787
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041v,2,Ascendit deus in jubilatione,Ascensio Domini,M,W,1.,007952,*,,,,,,,,,,,192788
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,041v,3,Post passionem suam per dies,Ascensio Domini,M,R,1.1,007403,3,,,,,,,,,,,192789
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,042r,1,Et convescens praecepit eis,Ascensio Domini,M,V,01,007403a,3,,,,,,,,,,,192790
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,042r,2,Omnis pulchritudo domini,Ascensio Domini,M,R,1.2,007320,2,,,,,,,,,,,192791
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,042v,1,A summo caelo egressio ejus,Ascensio Domini,M,V,01,007320b,2,,,,,,,,,,,192792
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,042v,2,Exaltare domine alleluia in,Ascensio Domini,M,R,1.3,006681,7,,,,,,,,,,,192793
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,042v,3,Elevata est magnificentia tua,Ascensio Domini,M,V,01,006681b,7,,,,,,,,,,,192794
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043r,1,Exaltare domine in virtute,Ascensio Domini,M,A,2.1,002759,4,,F2,28a,,,,,,,b,192795
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043r,2,Exaltabo te domine quoniam,Ascensio Domini,M,A,2.2,002755,8,,G1,118a,,,,,,,a,192796
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043r,3,Ascendit deus in jubilatione,Ascensio Domini,M,A,2.3,001490,4,,F2,28a,,,,,,,b,192797
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043r,4,Ascendens Christus in altum,Ascensio Domini,M,W,2.,007951,*,,,,,,,,,,,192798
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043r,5,Tempus est ut revertar ad eum,Ascensio Domini,M,R,2.1,007758,4,,,,,,,,,,,192799
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043v,1,Nisi ego abiero paraclitus,Ascensio Domini,M,V,01,007758a,4,,,,,,,,,,,192800
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,043v,2,Non turbetur cor vestrum ego,Ascensio Domini,M,R,2.2,007225,3,,,,,,,,,,,192801
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044r,1,Ego rogabo patrem et alium,Ascensio Domini,M,V,01,007225b,3,,,,,,,,,,,192802
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044r,2,Ascendens Christo in altum,Ascensio Domini,M,R,2.3,006121,4,,,,,,,,,,,192803
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044v,1,Ascendit deus in jubilatione,Ascensio Domini,M,V,01,006121a,4,,,,,,,,,,,192804
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044v,2,Nimis exaltatus est alleluia,Ascensio Domini,M,A,3.1,003879,6,,F1,7a,,,,,,,a,192805
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044v,3,Dominus in Sion alleluia,Ascensio Domini,M,A,3.2,002409,6,,F1,7a,,,,,,,a,192806
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,044v,4,Dominus in caelo alleluia,Ascensio Domini,M,A,3.3,002408,6,,F1,7a,,,,,,,a,192807
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045r,1,Ascendo ad patrem meum et,Ascensio Domini,M,W,3.,007954,*,,,,,,,,,,,192808
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045r,2,Ego rogabo patrem et alium,Ascensio Domini,M,R,3.1,006631,3,,,,,,,,,,,192809
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045r,3,Si enim non abiero paraclitus,Ascensio Domini,M,V,01,006631a,3,,,,,,,,,,,192810
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045v,1,Ponis nubem ascensum tuum,Ascensio Domini,M,R,3.2,007392,2,,,,,,,,,,,192811
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045v,2,Confessionem et decorem,Ascensio Domini,M,V,01,007392b,2,,,,,,,,,,,192812
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,045v,3,Si enim non abiero paraclitus,Ascensio Domini,M,R,3.3,007651,3,,,,,,,,,,,192813
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,046r,1,Non enim loquetur a semetipso,Ascensio Domini,M,V,01,007651a,3,,,,,,,,,,,192814
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,046r,2,Ascendit deus in jubilatione,Ascensio Domini,M,R,10,006123,4,,,,,,,,,,,192815
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,046v,1,Ascendens Christus in altum,Ascensio Domini,M,V,01,006123a,4,,,,,,,,,,,192816
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,046v,2,Viri Galilaei quid aspicitis,Ascensio Domini,L,A,1,005458,7,,A1,143b,,,,,,,a,192817
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,046v,3,Cumque intuerentur in caelum,Ascensio Domini,L,A,2,002063,8,,G1,118a,,,,,,,a,192818
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,1,Elevatis manibus benedixit,Ascensio Domini,L,A,3,002635,4,,E1,15c,,,,,,,a,192819
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,2,Exaltate regem regum et,Ascensio Domini,L,A,4,002764,8,,G1,118a,,,,,,,a,192820
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,3,Videntibus illis elevatus est,Ascensio Domini,L,A,5,005392,8,,G1,118a,,,,,,,a,192821
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,4,Jesu nostra*,Ascensio Domini,L,H,,008331,*,,,,,,,,,,,192822
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,5,Dominus in caelo alleluia,Ascensio Domini,L,W,,008029,*,,,,,,,,,,,192823
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047r,6,Ascendo ad patrem meum et,Ascensio Domini,L,A,B,001493,7,,A1,143b,,,,,,,a,192824
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,1,Christe fili dei vivi*,Ascensio Domini,P,R,,006276,*,,,,,,,,,,,192825
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,2,Qui scandis*,Ascensio Domini,P,V,01,006276zk,*,,,,,,,,,,,192826
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,3,Gloria*,Ascensio Domini,P,V,02,909000,*,,,,,,,,,,,192827
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,4,Exsurge Christi adjuva nos,Ascensio Domini,P,W,,008072,*,,,,,,,,,,,192828
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,5,Ascendit deus in jubilatione,Ascensio Domini,T,R,,006122,*,,,,,,,,,,,192829
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,6,Et dominus in voce tubae,Ascensio Domini,T,V,01,006122a,*,,,,,,,,,,,192830
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,7,Gloria*,Ascensio Domini,T,V,02,909000,*,,,,,,,,,,,192831
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,8,Ascendens Christus in altum,Ascensio Domini,T,W,,007951,*,,,,,,,,,,,192832
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,9,Ascendens Christus in altum,Ascensio Domini,S,R,,006120,*,,,,,,,,,,,192833
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,10,Captivam duxit captivitatem,Ascensio Domini,S,V,01,006120a,*,,,,,,,,,,,192834
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,11,Gloria*,Ascensio Domini,S,V,02,909000,*,,,,,,,,,,,192835
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,12,Ascendo ad patrem meum,Ascensio Domini,S,W,,007954,*,,,,,,,,,,,192836
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,13,Ascendo ad patrem meum,Ascensio Domini,N,R,,006125,*,,,,,,,,,,,192837
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,14,Deum meum et deum vestrum,Ascensio Domini,N,V,01,006125a,*,,,,,,,,,,,192838
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,15,Gloria*,Ascensio Domini,N,V,02,909000,*,,,,,,,,,,,192839
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,16,Dominus in caelo,Ascensio Domini,N,W,,008029,*,,,,,,,,,,,192840
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,17,Viri Galilaei*,Ascensio Domini,V2,A,1,005458,*,,,,,,,,,,,192841
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,18,Jesu nostra redemptio*,Ascensio Domini,V2,H,,008331,*,,,,,,,,,,,192842
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,19,Dominus in caelo,Ascensio Domini,V2,W,,008029,*,,,,,,,,,,,192843
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,047v,20,O rex gloriae domine virtutum,Ascensio Domini,V2,A,M,004079,2,,D1,152c,,,,,,,a,192844
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,1,Jesu nostra redemptio*,Dom. p. Ascensionem,V,H,,008331,*,,,,,,,,,,,192845
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,2,Dominus in caelo alleluia,Dom. p. Ascensionem,V,W,,008029,*,,,,,,,,,,,192846
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,3,Cum venerit paraclitus quem,Dom. p. Ascensionem,V,A,M,002043,8,,G1,118a,,,,,,,a,192847
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,4,O rex gloriae*,Dom. p. Ascensionem,V,A,R,004079,*,,,,,,,,,,,192848
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,5,Ascendit deus*,Dom. p. Ascensionem,V,W,R,007952,*,,,,,,,,,,,192849
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,6,Cum venerit paraclitus*,Dom. p. Ascensionem,L,A,B,002043,*,,,,,,,,,,,192850
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,7,Ascendo ad patrem*,Dom. p. Ascensionem,L,A,R,001493,*,,,,,,,,,,,192851
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,8,Ascendit deus in*,Dom. p. Ascensionem,L,W,R,007952,*,,,,,,,,,,,192852
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048r,9,Haec locutus sum vobis ut ,Dom. p. Ascensionem,V2,A,M,003011,8,,G1,118a,,,,,,,a,192853
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,1,O rex gloriae*,Dom. p. Ascensionem,V2,A,R,004079,*,,,,,,,,,,,192854
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,2,Ascendit deus*,Dom. p. Ascensionem,V2,W,R,007952,*,,,,,,,,,,,192855
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,3,Dum complerentur*,Dom. Pentecostes,V,A,1,002442,*,,,,,,,,,,,192856
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,4,Veni creator*,Dom. Pentecostes,V,H,,008407,*,,,,,,,,,,,192857
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,5,Repleti sunt omnes spiritu,Dom. Pentecostes,V,W,,008182,*,,,,,,,,,,,192858
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,6,Non vos relinquam orphanos,Dom. Pentecostes,V,A,M,003941,1,,D2,72b,,,,,,,e,192859
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,048v,7,Alleluia spiritus domini,Dom. Pentecostes,M,I,,001034,5,,5,,,,,,,,,192860
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049r,1,Jam Christus astra*,Dom. Pentecostes,M,H,,008327,*,,,,,,,,,,,192861
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049r,2,Factus est repente de caelo,Dom. Pentecostes,M,A,1.1,002847,8,,C1,99d,,,,,,,a,192862
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049r,3,Confirma hoc deus quod,Dom. Pentecostes,M,A,1.2,001873,8,,C1,99d,,,,,,,a,192863
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049r,4,Emitte spiritum tuum et,Dom. Pentecostes,M,A,1.3,002643,8,,C1,99d,,,,,,,a,192864
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049v,1,Spiritus domini replevit,Dom. Pentecostes,M,W,1.,008204,*,,,,,,,,,,,192865
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,049v,2,Dum complerentur dies,Dom. Pentecostes,M,R,1.1,006536,3,,,,,,,,,,,192866
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050r,1,Dum ergo essent in unum,Dom. Pentecostes,M,V,01,006536b,3,,,,,,,,,,,192867
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050r,2,Repleti sunt omnes spiritu,Dom. Pentecostes,M,R,1.2,007531,2,,,,,,,,,,,192868
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050v,1,Loquebantur variis linguis,Dom. Pentecostes,M,V,01,007531a,2,,,,,,,,,,,192869
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050v,2,Dum complerentur dies,Dom. Pentecostes,L,A,1,002442,3,,A2,102c,,,,,,,a,192870
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050v,3,Spiritus domini replevit,Dom. Pentecostes,L,A,2,004998,8,,G1,118a,,,,,,,a,192871
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,050v,4,Repleti sunt omnes spiritu,Dom. Pentecostes,L,A,3,004613,8,,G1,118a,,,,,,,a,192872
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051r,1,Fontes et omnia quae moventur,Dom. Pentecostes,L,A,4,002889,1,,A2,64b,,,,,,,a,192873
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051r,2,Loquebantur variis linguis,Dom. Pentecostes,L,A,5,003634,7,,C2,148a,,,,,,,a,192874
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051r,3,Beata nobis*,Dom. Pentecostes,L,H,,008273,*,,,,,,,,,,,192875
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051r,4,Repleti sunt omnes spiritu,Dom. Pentecostes,L,W,,008182,*,,,,,,,,,,,192876
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051r,5,Accipite spiritum sanctum,Dom. Pentecostes,L,A,B,001234,7,,A1,143b,,,,,,,a,192877
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051v,1,Dum complerentur*,Dom. Pentecostes,V2,A,1,002442,*,,,,,,,,,,,192878
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051v,2,Veni creator*,Dom. Pentecostes,V2,H,,008407,*,,,,,,,,,,,192879
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051v,3,Loquebantur variis linguis,Dom. Pentecostes,V2,W,,008126,*,,,,,,,,,,,192880
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,051v,4,Hodie completi sunt dies,Dom. Pentecostes,V2,A,M,003096,1,,D2,72b,,,,,,,e,192881
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,052r,1,Spiritus domini replevit,Fer. 2 Pent.,M,W,,008204,*,,,,,,,,,,,192882
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,052r,2,Jam non dicam vos servos sed,Fer. 2 Pent.,M,R,1,007030,8,,,,,,,,,,,192883
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,052r,3,Vos amici mei estis si,Fer. 2 Pent.,M,V,01,007030b,8,,,,,,,,,,,192884
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,052v,1,Spiritus sanctus procedens a,Fer. 2 Pent.,M,R,2,007693,3,,,,,,,,,,,192885
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053r,1,Advenit ignis divinus non,Fer. 2 Pent.,M,V,01,007693b,3,,,,,,,,,,,192886
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053r,2,Sic deus dilexit mundum ut,Fer. 2 Pent.,L,A,B,004920,8,,G1,118a,,,,,,,a,192887
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053r,3,Si quis diligit me sermonem,Fer. 2 Pent.,V2,A,M,004906,3,,A1,97a,,,,,,,a,192888
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053v,1,Spiritus paraclitus,Fer. 3 Pent.,M,W,,008205,*,,,,,,,,,,,192889
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053v,2,Apparuerunt apostolis,Fer. 3 Pent.,M,R,1,006110,7,,,,,,,,,,,192890
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,053v,3,Et coeperunt loqui variis,Fer. 3 Pent.,M,V,01,006110b,7,,,,,,,,,,,192891
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054r,1,Loquebatur variis linguis,Fer. 3 Pent.,M,R,2,007101,2,,,,,,,,,,,192892
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054r,2,Repleti sunt omnes spiritu,Fer. 3 Pent.,M,V,01,007101a,2,,,,,,,,,,,192893
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054v,1,Ego sum ostium dicit dominus,Fer. 3 Pent.,L,A,B,002593,8,,G1,118a,,,,,,,a,192894
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054v,2,Pacem relinquo vobis pacem,Fer. 3 Pent.,V2,A,M,004205,6,,F1,7a,,,,,,,a,192895
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054v,3,Repleti sunt omnes spiritu,Fer. 3 Pent.,M,W,,008182,*,,,,,,,,,,,192896
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,054v,4,Disciplinam et sapientiam,Fer. 4 Pent.,M,R,1,006460,8,,,,,,,,,,,192897
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,055r,1,Repentino namque sonitu,Fer. 4 Pent.,M,V,01,006460b,8,,,,,,,,,,,192898
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,055r,2,Ite in orbem universum et,Fer. 4 Pent.,M,R,2,007028,6,,,,,,,,,,,192899
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,055v,1,In nomine meo daemonia,Fer. 4 Pent.,M,V,01,007028zb,6,,,,,,,,,,,192900
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,055v,2,Ego sum panis vivus dicit,Fer. 4 Pent.,L,A,B,201514,8,,G1,118a,,,,,,,a,192901
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,055v,3,Ego sum panis vivus qui ,Fer. 4 Pent.,V2,A,M,002595,1,,F1,69b,,,,,,,a,192902
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,056r,1,Advenit ignis divinus non,Fer. 5 Pent.,M,R,1,006053,7,,,,,,,,,,,192903
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,056v,1,Invenit eos concordes carita-,Fer. 5 Pent.,M,V,01,006053a,7,,,,,,,,,,,192904
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,056v,2,Spiritus sanctus replevit,Fer. 5 Pent.,M,R,2,007694,7,,,,,,,,,,,192905
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,057r,1,Dum ergo essent in unum,Fer. 5 Pent.,M,V,01,007694a,7,,,,,,,,,,,192906
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,057v,1,Convocatis Jesus duodecim,Fer. 5 Pent.,L,A,B,001924,1,,G1,66e,,,,,,,f,192907
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,058r,1,Spiritus qui a patre procedit,Fer. 5 Pent.,V2,A,M,005003,8,,G1,118a,,,,,,,a,192908
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,058r,2,Non vos me elegistis sed ego,Fer. 6 Pent.,M,R,1,007233,7,,,,,,,,,,,192909
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,058v,1,Sicut misit me pater et ego,Fer. 6 Pent.,M,V,01,007233b,7,,,,,,,,,,,192910
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,058v,2,Spiritus domini replevit,Fer. 6 Pent.,M,R,2,007690,8,,,,,,,,,,,192911
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,058v,3,Omnium est enim artifex omnem,Fer. 6 Pent.,M,V,01,007690a,8,,,,,,,,,,,192912
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059r,1,Dixit Jesus ut sciatis autem,Fer. 6 Pent.,L,A,B,201310,1,,D2,72b,,,,,,,e,192913
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059r,2,Paraclitus autem spiritus,Fer. 6 Pent.,V2,A,M,203761,8,,G1,118a,,,,,,,a,192914
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,1,Repleti sunt omnes*,Sabbato Pent.,M,R,1,007531,*,,,,,,,,,,,192915
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,2,Jam non dicam vos servos*,Sabbato Pent.,M,R,2,007030,*,,,,,,,,,,,192916
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,3,Caritas dei diffusa est in,Sabbato Pent.,L,A,B,200736,1,,F1,69b,,,,,,,a,192917
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,4,Benedictus dominus*,De Regum,V,A,1,001720,*,,,,,,,,,,,192918
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,5,O lux beata*,De Regum,V,H,,008358,*,,,,,,,,,,,192919
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,6,Vespertina oratio ascendat a,De Regum,V,W,,008240,*,,,,,,,,,,,192920
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,059v,7,Loquere domine quia audit,Dom. 1 p. Pent.,V,A,M,003636,1,,F1,69b,,,,,,,a,192921
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060r,1,Adoremus dominum*,Dominica in estate,M,I,,001009,*,,*,,,,,,,,,192922
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060r,2,Nocte surgentes*,De Regum,M,H,,008349,*,,,,,,,,,,,192923
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060r,3,Servite domino*,De Regum,M,A,1.1,004876,*,,,,,,,,,,,192924
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060r,4,Praeparate corda vestra,De Regum,M,R,1,007425,1,,,,,,,,,,,192925
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060r,5,Convertimini ad eum in toto,De Regum,M,V,01,007425b,1,,,,,,,,,,,192926
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060v,1,Deus omnium exauditor est,De Regum,M,R,2,006430,1,,,,,,,,,,,192927
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,060v,2,Dominus qui eripuit me de ore,De Regum,M,V,01,006430a,1,,,,,,,,,,,192928
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,061r,1,Dominus qui eripuit me de ore,De Regum,M,R,3,006524,8,,,,,,,,,,,192929
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,061r,2,Misit deus misericordiam suam,De Regum,M,V,01,006524a,8,,,,,,,,,,,192930
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,061v,1,Percussit Saul mille et David,De Regum,M,R,4,007379,8,,,,,,,,,,,192931
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,061v,2,Nonne iste est David de quo,De Regum,M,V,01,007379a,8,,,,,,,,,,,192932
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,062r,1,Montes Gelboe nec ros nec,De Regum,M,R,5,007176,8,,,,,,,,,,,192933
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,062r,2,Omnes montes qui estis in,De Regum,M,V,01,007176a,8,,,,,,,,,,,192934
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,062v,1,Ego te tuli de domo patris,De Regum,M,R,6,006636,1,,,,,,,,,,,192935
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,062v,2,Fecique tibi nomen grande,De Regum,M,V,01,006636a,1,,,,,,,,,,,192936
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,063r,1,Peccavi super numerum harenae,De Regum,M,R,7,007372,3,,,,,,,,,,,192937
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,063v,1,Quoniam iniquitatem meam ego,De Regum,M,V,01,007372a,3,,,,,,,,,,,192938
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,063v,2,Duo seraphim*,De Regum,M,R,8,600691,*,,,,,,,,,,,192939
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,063v,3,Recordare domine testamenti,De Regum,M,R,9,007510,4,,,,,,,,,,,192940
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,064r,1,Ego sum qui peccavi ego qui,De Regum,M,V,01,007510b,4,,,,,,,,,,,192941
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,064r,2,Exaudisti domine orationem,De Regum,M,R,10,006688,4,,,,,,,,,,,192942
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,064v,1,Domine qui custodis pactum et,De Regum,M,V,01,006688a,4,,,,,,,,,,,192943
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,064v,2,Audi domine hymnum et,De Regum,M,R,11,006139,1,,,,,,,,,,,192944
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,065r,1,Respice domine de sanctuario,De Regum,M,V,01,006139a,1,,,,,,,,,,,192945
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,065r,2,Domine si conversus fuerit,De Regum,M,R,12,006514,8,,,,,,,,,,,192946
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,065v,1,Si peccaverit in te populus,De Regum,M,V,01,006514a,8,,,,,,,,,,,192947
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,065v,2,Factum est dum tolleret,De Regum,M,R,13,006713,1,,,,,,,,,,,192948
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066r,1,Cumque pergerent et,De Regum,M,V,01,006713b,1,,,,,,,,,,,192949
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,1,Alleluia*,Dominica in estate,L,A,1,001327,*,,,,,,,,,,,192950
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,2,Ecce jam noctis*,Dominica in estate,L,H,,008297,*,,,,,,,,,,,192951
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,3,Nocte surgentes*,Dominica in estate,L,H,,008349,*,,,,,,,,,,,192952
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,4,Estote ergo misericordes,Dom. 1 p. Pent.,L,A,B,002682,2,,D1,152c,,,,,,,a,192953
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,5,Nolite judicare ut non,Dom. 1 p. Pent.,V2,A,M,003894,8,,G1,118a,,,,,,,a,192954
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,066v,6,Cognoverunt omnes a Dan usque,De Regum,V2,A,1M,001849,1,,G1,66d,,,,,,,a,192955
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,067r,1,Praevaluit David in,De Regum,V2,A,2M,004368,8,,G1,118a,,,,,,,a,192956
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,067r,2,Nonne iste est David de ,De Regum,V2,A,3M,003948,8,,G1,118a,,,,,,,a,192957
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,067r,3,Iratus rex Saul dixit mihi,De Regum,V2,A,4M,003411,8,,G1,118a,,,,,,,a,192958
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,067v,1,Quis enim in omnibus sicut,De Regum,V2,A,5M,004546,1,,G1,66d,,,,,,,a,192959
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,067v,2,Puer Samuel ministrabat ante,De Regum,V2,A,6M,004414,7,,?,,,,,,,,,192960
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,068r,1,Saul et Jonathas amabiles et,De Regum,V2,A,7M,004820,8,,G1,118a,,,,,,,a,192961
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,068r,2,Rex autem David cooperto,De Regum,V2,A,8M,004650,8,,G1,118a,,,,,,,a,192962
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,068v,1,Laetatus est rex David ante,De Regum,V2,A,9M,003566,8,,G1,118a,,,,,,,a,192963
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,068v,2,Obsecro domine aufer,De Regum,V2,A,10M,004099,1,,G1,66d,,,,,,,a,192964
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,068v,3,Unxerunt Salomonem Sadoc,De Regum,V2,A,11M,005280,8,,G1,118a,,,,,,,a,192965
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,069r,1,Exaudisti domine orationem,Dom. 8 p. Pent.,V,A,M,201698,8,,G1,118a,,,,,,,a,192966
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,069r,2,Fecit Jonas rectum coram,Dom. 9 p. Pent.,V,A,M,201799,2,,D2,152h,,,,,,,b,192967
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,069v,1,Dum tolleret dominus Eliam,De Regum,H,A,,002471,1,,*,,,,,,,,,192968
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,070r,1,Clamabat Eliseus ad Eliam,De Regum,V2,A,12M,001819,8,,G1,118a,,,,,,,a,192969
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,070r,2,Doleo super te frater mi,De Regum,V2,A,13M,002321,1,,D2,72b,,,,,,,e,192970
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,070v,1,Montes Gelboe nec ros nec,De Regum,V2,A,14M,003807,1,,D2,72b,,,,,,,e,192971
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,071r,1,Homo quidam fecit cenam,Additamenta,M,R,,601068,6,,,,,,,,,,,192972
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,071v,1,Venite comedite panem meum et,Additamenta,M,V,01,601068a,6,,,,,,,,,,,192973
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,071v,2,Gloria patri et filio et,Additamenta,M,V,02,909000,6,,,,,,,,,,,192974
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,073r,1,Homo quidam fecit cenam,Dom. 1 p. Pent.,L,A,B,004536,4,,E1,15c,,,,,,,a,192975
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,073v,1,Exi cito in plateas et ,Dom. 1 p. Pent.,V2,A,M,002785,1,,A2,64b,,,,,,,a,192976
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,073v,2,Quis ex vobis homo qui ,Dom. 2 p. Pent.,L,A,B,004549,3,,A2,102c,,,,,,,a,192977
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,074r,1,Quae mulier habens drachmas,Dom. 2 p. Pent.,V2,A,M,004426,6,,F1,7a,,,,,,,a,192978
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,074v,1,Ascendens Jesus in navim et,Dom. 3 p. Pent.,L,A,B,001488,2,,D1,152c,,,,,,,a,192979
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,074v,2,Praeceptor per totam noctem,Dom. 3 p. Pent.,V2,A,M,004356,1,,G1,66d,,,,,,,a,192980
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,074v,3,Audistis quia dictum est,Dom. 4 p. Pent.,L,A,B,001519,8,,G1,118a,,,,,,,a,192981
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,075r,1,Si offers munus tuum ante,Dom. 4 p. Pent.,V2,A,M,004903,1,,G1,66d,,,,,,,a,192982
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,075r,2,Cum turba plurima esset cum,Dom. 5 p. Pent.,L,A,B,002475,8,,G1,118a,,,,,,,a,192983
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,075v,1,Misereor super turbam quia,Dom. 5 p. Pent.,V2,A,M,003770,7,,B1,142a,,,,,,,a,192984
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,076r,1,Attendite a falsis prophetis,Dom. 6 p. Pent.,L,A,B,001511,8,,G1,118a,,,,,,,a,192985
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,076r,2,Non potest arbor bona fructus,Dom. 6 p. Pent.,V2,A,M,003929,1,,D2,72b,,,,,,,e,192986
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,076v,1,Ait dominus villico quid,Dom. 7 p. Pent.,L,A,B,002291,1,,D2,72b,,,,,,,e,192987
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,076v,2,Quid faciam quia dominus meus,Dom. 7 p. Pent.,V2,A,M,004522,4,,E1,15c,,,,,,,a,192988
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,077r,1,Cum appropinquaret dominus,Dom. 8 p. Pent.,L,A,B,001975,1,,G1,66d,,,,,,,a,192989
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,077v,1,Scriptum est enim quia domus,Dom. 8 p. Pent.,V2,A,M,004836,8,,G1,118a,,,,,,,a,192990
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,077v,2,Stans a longe publicanus,Dom. 9 p. Pent.,L,A,B,005013,2,,D1,152c,,,,,,,a,192991
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,078r,1,Descendit hic justificatus in,Dom. 9 p. Pent.,V2,A,M,002158,8,,G1,118a,,,,,,,a,192992
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,078r,2,Cum transiret dominus per,Dom. 10 p. Pent.,L,A,B,002472,5,,A1,129a,,,,,,,a,192993
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,078v,1,Bene omnia fecit surdos fecit,Dom. 10 p. Pent.,V2,A,M,001681,5,,A1,129a,,,,,,,a,192994
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,078v,2,Magister quid faciendo vitam,Dom. 11 p. Pent.,L,A,B,003658,8,,G1,118a,,,,,,,a,192995
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,078v,3,Homo quidam descendebat ab,Dom. 11 p. Pent.,V2,A,M,003131,8,,G1,118a,,,,,,,a,192996
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,079r,1,Cum transiret Jesus quoddam,Dom. 12 p. Pent.,L,A,B,002458,2,,D1,152c,,,,,,,a,192997
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,079r,2,Unus autem ex illis ut ,Dom. 12 p. Pent.,V2,A,M,005276,2,,D1,152c,,,,,,,a,192998
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,079v,1,Nolite solliciti esse,Dom. 13 p. Pent.,L,A,B,003895,8,,G1,118a,,,,,,,a,192999
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,079v,2,Quaerite primum regnum dei et,Dom. 13 p. Pent.,V2,A,M,004431,1,,G1,66d,,,,,,,a,193000
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,080r,1,Ibat Jesus in civitatem quae,Dom. 14 p. Pent.,L,A,B,003157,2,,D2,152b,,,,,,,f,193001
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,080r,2,Propheta magnus surrexit in,Dom. 14 p. Pent.,V2,A,M,004391,4,,E1,15c,,,,,,,a,193002
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,080r,3,Dum intraret Jesus in domum,Dom. 15 p. Pent.,L,A,B,002012,7,,A1,143b,,,,,,,a,193003
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,080v,1,Cum vocatus fueris ad nuptias,Dom. 15 p. Pent.,V2,A,M,002055,7,,A1,143b,,,,,,,a,193004
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,081r,1,Magister quod est mandatum,Dom. 16 p. Pent.,L,A,B,003659,8,,G1,118a,,,,,,,a,193005
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,081r,2,Quid vobis videtur de Christo,Dom. 16 p. Pent.,V2,A,M,004533,4,,E1,15c,,,,,,,a,193006
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,081v,1,Dixit dominus paralytico,Dom. 17 p. Pent.,L,A,B,002288,1,,G1,66d,,,,,,,a,193007
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,081v,2,Tulit ergo paralyticus lectum,Dom. 17 p. Pent.,V2,A,M,005235,4,,E1,15c,,,,,,,a,193008
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,081v,3,Dicite invitatis ecce,Dom. 18 p. Pent.,L,A,B,002202,8,,G1,118a,,,,,,,a,193009
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,082r,1,Intravit autem rex ut videret,Dom. 18 p. Pent.,V2,A,M,202617,3,,A1,97a,,,,,,,a,193010
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,082r,2,Erat quidam regulus cujus,Dom. 19 p. Pent.,L,A,B,002661,1,,F1,69b,,,,,,,a,193011
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,082v,1,Cognovit autem pater quia,Dom. 19 p. Pent.,V2,A,M,001850,3,,A1,97a,,,,,,,a,193012
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,082v,2,Dixit autem dominus servo,Dom. 20 p. Pent.,L,A,B,002274,8,,G1,118a,,,,,,,a,193013
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083r,1,Serve nequam omne debitum,Dom. 20 p. Pent.,V2,A,M,004873,6,,F1,7a,,,,,,,a,193014
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083r,2,Magister scimus quia verax es,Dom. 21 p. Pent.,L,A,B,003661,8,,G1,118a,,,,,,,a,193015
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083v,1,Reddite ergo quae sunt,Dom. 21 p. Pent.,V2,A,M,004584,1,,G1,66d,,,,,,,a,193016
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083v,2,Dicebat enim intra se si,Dom. 22 p. Pent.,L,A,B,002187,2,,D2,152b,,,,,,,f,193017
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083v,3,Et Jesus conversus et videns,Dom. 22 p. Pent.,V2,A,M,001508,1,,G1,66d,,,,,,,a,193018
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,083v,4,Cum videritis abominationem,Dom. 23 p. Pent.,L,A,B,002048,1,,D2,72b,,,,,,,e,193019
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,084r,1,Amen dico vobis quia non,Dom. 23 p. Pent.,V2,A,M,200256,1,,F1,69b,,,,,,,a,193020
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,084r,2,Sapientia aedificavit sibi,De Sapientia,V,A,M,004810,7,,A1,143b,,,,,,,a,193021
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,084v,1,In principio deus antequam,De Sapientia,M,R,1,006924,1,,,,,,,,,,,193022
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,085r,1,Quando praeparabat caelos,De Sapientia,M,V,01,006924b,1,,,,,,,,,,,193023
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,085r,2,Gyrum caeli circuivi sola et,De Sapientia,M,R,2,006793,6,,,,,,,,,,,193024
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,085v,1,Ego in altissimis habito et,De Sapientia,M,V,01,006793a,6,,,,,,,,,,,193025
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,085v,2,Emitte domine sapientiam de,De Sapientia,M,R,3,006657,1,,,,,,,,,,,193026
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,086r,1,Da mihi domine sedium tuarum,De Sapientia,M,V,01,006657a,1,,,,,,,,,,,193027
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,086r,2,Da mihi domine sedium tuarum,De Sapientia,M,R,4,006387,1,,,,,,,,,,,193028
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,086v,1,Mitte illam de sede,De Sapientia,M,V,01,006387b,1,,,,,,,,,,,193029
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,086v,2,Initium sapientiae timor,De Sapientia,M,R,5,006967,2,,,,,,,,,,,193030
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,086v,3,Dilectio illius custodia,De Sapientia,M,V,01,006967b,2,,,,,,,,,,,193031
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,087r,1,Verbum iniquum et dolosum,De Sapientia,M,R,6,007841,1,,,,,,,,,,,193032
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,087v,1,Duo rogavi te ne deneges mihi,De Sapientia,M,V,01,007841b,1,,,,,,,,,,,193033
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,087v,2,Domine pater et deus vitae,De Sapientia,M,R,7,006503,5,,,,,,,,,,,193034
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,088r,1,Ne derelinquas me domine ne,De Sapientia,M,V,01,006503b,5,,,,,,,,,,,193035
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,088r,2,Ne derelinquas me domine,De Sapientia,M,R,8,007204,4,,,,,,,,,,,193036
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,088r,3,Apprehende arma et scutum et,De Sapientia,M,V,01,007204a,4,,,,,,,,,,,193037
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,088v,1,Magna enim sunt judicia tua,De Sapientia,M,R,9,007113,4,,,,,,,,,,,193038
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,088v,2,Transtulisti illos mare,De Sapientia,M,V,01,007113b,4,,,,,,,,,,,193039
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089r,1,Quae sunt in corde hominum,De Sapientia,M,R,10,007457,2,,,,,,,,,,,193040
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089r,2,Omnia enim corda scrutatur et,De Sapientia,M,V,01,007457b,2,,,,,,,,,,,193041
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089r,3,Praebe fili cor mihi et oculi,De Sapientia,M,R,11,007416,1,,,,,,,,,,,193042
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089v,1,Attende fili mi sapientiam,De Sapientia,M,V,01,007416a,1,,,,,,,,,,,193043
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089v,2,Ego in altissimis habito et,De Sapientia,V2,A,1M,002576,8,,C1,99d,,,,,,,a,193044
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,089v,3,Omnis sapientia a domino deo,De Sapientia,V2,A,2M,004153,8,,C1,99d,,,,,,,a,193045
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,090r,1,Sapientia clamitat in plateis,De Sapientia,V2,A,3M,004811,8,,G1,118a,,,,,,,a,193046
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,090r,2,Observa fili praecepta patris,De Sapientia,V2,A,4M,004101,6,,F1,7a,,,,,,,a,193047
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,090v,1,Dominus possedit me in initio,De Sapientia,V2,A,5M,002418,8,,C1,99d,,,,,,,a,193048
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,090v,2,Audi fili mi disciplinam,De Sapientia,V2,A,6M,200410,6,,?,,,,,,,,,193049
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,091r,1,Cum audisset Job nuntiorum,De Job,V,A,M,001980,1,,F1,69b,,,,,,,a,193050
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,091r,2,Si bona suscepimus de manu,De Job,M,R,1,007647,2,,,,,,,,,,,193051
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,091v,1,Nudus egressus sum de utero,De Job,M,V,01,007647b,2,,,,,,,,,,,193052
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,091v,2,Antequam comedam suspiro et,De Job,M,R,2,006106,7,,,,,,,,,,,193053
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,092r,1,Ecce non est auxilium mihi,De Job,M,V,01,006106za,7,,,,,,,,,,,193054
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,092v,1,Quare detraxistis sermonibus,De Job,M,R,3,007463,1,,,,,,,,,,,193055
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,092v,2,Quod justum est judicate et,De Job,M,V,01,007463b,1,,,,,,,,,,,193056
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,093r,1,Induta est caro mea putredine,De Job,M,R,4,006956,8,,,,,,,,,,,193057
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,093r,2,Dies mei velocius transierunt,De Job,M,V,01,006956b,8,,,,,,,,,,,193058
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,093v,1,Paucitas dierum meorum,De Job,M,R,5,007367,6,,,,,,,,,,,193059
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,093v,2,Manus tuae domine fecerunt me,De Job,M,V,01,007367c,6,,,,,,,,,,,193060
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,094r,1,Ne abscondas me domine a,De Job,M,R,6,007202,1,,,,,,,,,,,193061
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,094r,2,Corripe me domine in,De Job,M,V,01,007202b,1,,,,,,,,,,,193062
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,094r,3,Quis mihi tribuat ut in,De Job,M,R,7,007501,8,,,,,,,,,,,193063
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,094v,1,Numquid sicut hominis dies,De Job,M,V,01,007501a,8,,,,,,,,,,,193064
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095r,1,Versa est in luctum cithara,De Job,M,R,8,007846,2,,,,,,,,,,,193065
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095r,2,Cutis mea denigrata est super,De Job,M,V,01,007846b,2,,,,,,,,,,,193066
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095r,3,Utinam appenderentur peccata,De Job,M,R,9,007813,4,,,,,,,,,,,193067
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095v,1,Quasi harena maris haec,De Job,M,V,01,007813a,4,,,,,,,,,,,193068
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095v,2,In omnibus his non peccavit,De Job,V2,A,1M,003263,1,,G1,66d,,,,,,,a,193069
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,095v,3,Dominus dedit dominus,De Job,V2,A,2M,002403,1,,A1,76a,,,,,,,a,193070
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,096r,1,Quantas habeo iniquitates et,De Job,V2,A,3M,004445,1,,A1,76a,,,,,,,a,193071
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,096r,2,Quare detraxisti sermonibus,De Job,V2,A,4M,004448,3,,A2,102c,,,,,,,a,193072
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,096v,1,Auditu auris audivi te nunc,De Job,V2,A,5M,001526,1,,F1,69b,,,,,,,a,193073
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,096v,2,Cum aegrotasset Job flevit et,De Job,V2,A,6M,001973,6,,F1,7a,,,,,,,a,193074
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,097r,1,Paucitas dierum meorum,De Job,V2,A,7M,004249,1,,F1,69b,,,,,,,a,193075
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,097v,1,Ne reminiscaris domine,De Tobia,V,A,M,003861,4,,E1,15c,,,,,,,a,193076
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,097v,2,Peto domine ut de vinculo,De Tobia,M,R,1,007381,1,,,,,,,,,,,193077
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,098r,1,Omnia enim judicia tua justa,De Tobia,M,V,01,007381a,1,,,,,,,,,,,193078
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,098v,1,Omni tempore benedic deum et,De Tobia,M,R,2,007317,8,,,,,,,,,,,193079
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,098v,2,Inquire ut facias quae,De Tobia,M,V,01,007317b,8,,,,,,,,,,,193080
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,098v,3,Memor esto fili quoniam,De Tobia,M,R,3,007145,7,,,,,,,,,,,193081
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,099r,1,In mente habeto eum et cave,De Tobia,M,V,01,007145b,7,,,,,,,,,,,193082
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,099r,2,Sufficiebat nobis paupertas,De Tobia,M,R,4,007717,4,,,,,,,,,,,193083
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,099v,1,Heu me fili mi ut quid te,De Tobia,M,V,01,007717a,4,,,,,,,,,,,193084
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,099v,2,Benedicite deum caeli et,De Tobia,M,R,5,006241,1,,,,,,,,,,,193085
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100r,1,Ipsum benedicite et cantate,De Tobia,M,V,01,006241b,1,,,,,,,,,,,193086
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100r,2,Tempus est ut revertar ad eum,De Tobia,M,R,6,007759,2,,,,,,,,,,,193087
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100r,3,Confitemini ei coram omnibus,De Tobia,M,V,01,007759c,2,,,,,,,,,,,193088
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100v,1,Omni tempore benedic deum et,De Tobia,V2,A,1M,004135,1,,F1,69b,,,,,,,a,193089
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100v,2,Memor esto fili quoniam,De Tobia,V2,A,2M,003738,1,,F1,69b,,,,,,,a,193090
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,100v,3,Peto domine ut de vinculo,De Tobia,V2,A,3M,203833,8,,G1,118a,,,,,,,a,193091
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,101r,1,Hoc genus daemoniorum in,Additamenta,X,A,,202209,3,,G2,101c,,,,,,,c,193092
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,102r,1,Ingressus est Raphael angelus,De Tobia,V2,A,4M,003345,7,,A1,143b,,,,,,,a,193093
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,102v,1,Dixit angelus ad Tobiam,De Tobia,V2,A,5M,201289,8,,G1,118a,,,,,,,a,193094
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,103r,1,Adonai domine deus magne et,De Judith,V,A,M,001286,8,,G1,118a,,,,,,,a,193095
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,103r,2,Adonai domine deus magne et,De Judith,M,R,1,006043,3,,,,,,,,,,,193096
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,103v,1,Benedictus es domine qui non,De Judith,M,V,01,006043a,3,,,,,,,,,,,193097
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,103v,2,Tribulationes civitatum,De Judith,M,R,2,007779,7,,,,,,,,,,,193098
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,104r,1,Peccavimus cum patribus,De Judith,M,V,01,007779a,7,,,,,,,,,,,193099
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,104r,2,Benedicat te dominus in,De Judith,M,R,3,600282,1,,,,,,,,,,,193100
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,104v,1,Benedictus dominus qui,De Judith,M,V,01,600282a,1,,,,,,,,,,,193101
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,104v,2,Nos alium deum nescimus,De Judith,M,R,4,007237,2,,,,,,,,,,,193102
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,105r,1,Indulgentiam ipsius fusis,De Judith,M,V,01,007237a,2,,,,,,,,,,,193103
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,105r,2,Dominator domine caelorum et,De Judith,M,R,5,006488,2,,,,,,,,,,,193104
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,105v,1,Tu domine cui humilium semper,De Judith,M,V,01,006488a,2,,,,,,,,,,,193105
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,105v,2,Domine deus qui conteris,De Judith,M,R,6,006492,2,,,,,,,,,,,193106
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106r,1,Allide virtutem eorum in,De Judith,M,V,01,006492a,2,,,,,,,,,,,193107
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106r,2,Conforta me rex*,De Judith,M,R,7,006319,*,,,,,,,,,,,193108
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106r,3,Duo seraphim*,De Judith,M,R,8,600691,*,,,,,,,,,,,193109
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106r,4,Memento domine et ostende te,De Judith,V2,A,1M,003735,2,,D1,152c,,,,,,,a,193110
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106r,5,Domine rex omnipotens in,De Judith,V2,A,2M,002377,2,,D2,152b,,,,,,,f,193111
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106v,1,Domine deus rex omnipotens,De Judith,V2,A,3M,002378,2,,D1,152c,,,,,,,a,193112
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,106v,2,Domine rex omnipotens in,De Esther,M,R,1,006511,2,,,,,,,,,,,193113
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,107r,1,Exaudi orationem nostram et,De Esther,M,V,01,006511a,2,,,,,,,,,,,193114
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,107r,2,Conforta me rex sanctorum,De Esther,M,R,2,006319,2,,,,,,,,,,,193115
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,107r,3,Domine rex universae,De Esther,M,V,01,006319zb,2,,,,,,,,,,,193116
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,107v,1,Spem in alium numquam habui,De Esther,M,R,3,007684,2,,,,,,,,,,,193117
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,107v,2,Domine deus creator caeli et,De Esther,M,V,01,007684a,2,,,,,,,,,,,193118
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108r,1,Memento mei deus in bono et,De Esther,M,R,4,007142,2,,,,,,,,,,,193119
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108r,2,Recordare mei domine deus,De Esther,M,V,01,007142b,2,,,,,,,,,,,193120
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108r,3,Adonai*,De Esther,M,R,5,006043,*,,,,,,,,,,,193121
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108v,1,Adaperiat dominus cor vestrum,De Machabaeis,V,A,M,001258,8,,G1,118a,,,,,,,a,193122
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108v,2,Venite exsultemus*,De Machabaeis,M,I,,001180,*,,*,,,,,,,,,193123
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108v,3,Primo dierum*,De Machabaeis,M,H,,008373,*,,,,,,,,,,,193124
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,108v,4,Adaperiat dominus cor vestrum,De Machabaeis,M,R,1,006028,3,,,,,,,,,,,193125
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,109r,1,Exaudiat dominus orationes,De Machabaeis,M,V,01,006028a,3,,,,,,,,,,,193126
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,109r,2,Exaudiat dominus orationes,De Machabaeis,M,R,2,006687,2,,,,,,,,,,,193127
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,109v,1,Det vobis cor omnibus ut,De Machabaeis,M,V,01,006687b,2,,,,,,,,,,,193128
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,109v,2,Congregati sunt inimici,De Machabaeis,M,R,3,006326,1,,,,,,,,,,,193129
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,110r,1,Disperge illos in virtute tua,De Machabaeis,M,V,01,006326a,1,,,,,,,,,,,193130
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,110r,2,Impetum inimicorum ne,De Machabaeis,M,R,4,006886,2,,,,,,,,,,,193131
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,110v,1,Mementote mirabilium ejus,De Machabaeis,M,V,01,006886a,2,,,,,,,,,,,193132
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,110v,2,Congregatae sunt gentes in,De Machabaeis,M,R,5,006324,8,,,,,,,,,,,193133
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,111r,1,Tu scis quae cogitant in nos,De Machabaeis,M,V,01,006324a,8,,,,,,,,,,,193134
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,111r,2,Tua est potentia tuum regnum,De Machabaeis,M,R,6,007793,2,,,,,,,,,,,193135
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,111v,1,Creator omnium deus,De Machabaeis,M,V,01,007793a,2,,,,,,,,,,,193136
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,111v,2,Refulsit sol in clipeos,De Machabaeis,M,R,7,007518,2,,,,,,,,,,,193137
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,112r,1,Erat enim exercitus magnus,De Machabaeis,M,V,01,007518a,2,,,,,,,,,,,193138
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,112r,2,Dixit Judas Simoni fratri suo,De Machabaeis,M,R,8,006478,7,,,,,,,,,,,193139
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,112v,1,Accingimini filii potentes et,De Machabaeis,M,V,01,006478b,7,,,,,,,,,,,193140
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,112v,2,Ornaverunt faciem templi,De Machabaeis,M,R,9,007341,7,,,,,,,,,,,193141
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,113r,1,In hymnis et confessionibus,De Machabaeis,M,V,01,007341a,7,,,,,,,,,,,193142
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,113r,2,In hymnis et confessionibus,De Machabaeis,M,R,10,006905,8,,,,,,,,,,,193143
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,113v,1,Ornaverunt faciem templi,De Machabaeis,M,V,01,006905a,8,,,,,,,,,,,193144
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,113v,2,Hic est fratrum amator et,De Machabaeis,M,R,11,006824,7,,,,,,,,,,,193145
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,114r,1,Vir iste in populo suo,De Machabaeis,M,V,01,006824a,7,,,,,,,,,,,193146
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,114r,2,Tu domine universorum qui,De Machabaeis,M,R,12,007786,2,,,,,,,,,,,193147
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,114v,1,Tu elegisti domine domum,De Machabaeis,M,V,01,007786f,2,,,,,,,,,,,193148
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,114v,2,Aperi oculos tuos domine et,De Machabaeis,M,R,13,006109,2,,,,,,,,,,,193149
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115r,1,Afflige opprimentes nos et,De Machabaeis,M,V,01,006109a,2,,,,,,,,,,,193150
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115v,1,Alleluia*,De Machabaeis,L,A,1,,*,,,,Alleluia*,,,,,,,193151
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115v,2,Rerum creator*,De Machabaeis,L,H,,008381,*,,,,,,,,,,,193152
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115v,3,Da pacem domine in diebus,De Machabaeis,V2,A,1M,002090,2,,D1,152c,,,,,,,a,193153
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115v,4,Refulsit sol in clipeos,De Machabaeis,V2,A,2M,004590,8,,G1,118a,,,,,,,a,193154
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,115v,5,Extende domine bracchium tuum,De Machabaeis,V2,A,3M,002826,8,,G1,118a,,,,,,,a,193155
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,116r,1,Exaudiat dominus orationes,De Machabaeis,V2,A,4M,002772,1,,F1,69b,,,,,,,a,193156
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,116r,2,Lugebat autem Judam Israel,De Machabaeis,V2,A,5M,003643,1,,D2,72b,,,,,,,e,193157
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,116v,1,Tua est potentia tuum regnum,De Machabaeis,V2,A,6M,005224,1,,D2,72b,,,,,,,e,193158
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,116v,2,Ornaverunt faciem templi,De Machabaeis,V2,A,7M,004199,1,,G1,66d,,,,,,,a,193159
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,116v,3,In domine deus ad te ,De Machabaeis,V2,A,8M,202406,1,,D2,72b,,,,,,,e,193160
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,117r,1,Judas Machabaeus et Jonathas,De Machabaeis,V2,A,9M,003512,8,,G1,118a,,,,,,,a,193161
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,117r,2,Vidi dominum sedentem super,De Prophetis,V,A,M,005404,1,,A2,64b,,,,,,,a,193162
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,117v,1,Vidi dominum sedentem super,De Prophetis,M,R,1,007875,1,,,,,,,,,,,193163
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,118r,1,Seraphim stabant super illud,De Prophetis,M,V,01,007875a,1,,,,,,,,,,,193164
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,118r,2,Aspice domine de sede sancta,De Prophetis,M,R,2,006126,1,,,,,,,,,,,193165
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,118r,3,Qui regis Israel intende qui,De Prophetis,M,V,01,006126a,1,,,,,,,,,,,193166
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,118v,1,Aspice domine quia facta est,De Prophetis,M,R,3,006127,1,,,,,,,,,,,193167
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,118v,2,Plorans ploravit in nocte et,De Prophetis,M,V,01,006127a,1,,,,,,,,,,,193168
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,119r,1,Super muros tuos Jerusalem,De Prophetis,M,R,4,007723,6,,,,,,,,,,,193169
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,119r,2,Praedicabunt populis,De Prophetis,M,V,01,007723b,6,,,,,,,,,,,193170
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,119v,1,Muro tuo inexpugnabili,De Prophetis,M,R,5,007192,8,,,,,,,,,,,193171
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,119v,2,Erue nos in mirabilibus tuis,De Prophetis,M,V,01,007192a,8,,,,,,,,,,,193172
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,120r,1,Sustinuimus pacem et non,De Prophetis,M,R,6,007746,8,,,,,,,,,,,193173
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,120r,2,Peccavimus impie gessimus,De Prophetis,M,V,01,007746c,8,,,,,,,,,,,193174
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,120v,1,Laudabilis populus quem,De Prophetis,M,R,7,007077,8,,,,,,,,,,,193175
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,120v,2,Beata gens cujus est dominus,De Prophetis,M,V,01,007077a,8,,,,,,,,,,,193176
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,120v,3,Redemit dominus populum suum,De Prophetis,M,R,8,007515,3,,,,,,,,,,,193177
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,121r,1,Eritque anima eorum quasi,De Prophetis,M,V,01,007515b,3,,,,,,,,,,,193178
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,121r,2,Angustiae mihi undique et,De Prophetis,M,R,9,006099,8,,,,,,,,,,,193179
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,121v,1,Si enim hoc egero mors mihi,De Prophetis,M,V,01,006099a,8,,,,,,,,,,,193180
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,121v,2,Misit dominus angelum suum et,De Prophetis,M,R,10,007164,5,,,,,,,,,,,193181
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,122r,1,Misit deus misericordiam et,De Prophetis,M,V,01,007164a,5,,,,,,,,,,,193182
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,122v,1,A facie furoris tui deus,De Prophetis,M,R,11,006003,8,,,,,,,,,,,193183
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,122v,2,Domine dominus noster quam,De Prophetis,M,V,01,006003za,8S,,,,,,,,,,,193184
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,122v,3,Civitatem istam tu circumda,De Prophetis,M,R,12,006291,2,,,,,,,,,,,193185
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,123r,1,Avertatur furor tuus domine a,De Prophetis,M,V,01,006291a,2,,,,,,,,,,,193186
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,123r,2,Genti peccatrici populo pleno,De Prophetis,M,R,13,006768,8,,,,,,,,,,,193187
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,123v,1,Esto placabilis super,De Prophetis,M,V,01,006768a,8,,,,,,,,,,,193188
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,123v,2,Indicabo tibi homo quid sit,De Prophetis,M,R,14,006954,5,,,,,,,,,,,193189
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,123v,3,Spera in domino et fac,De Prophetis,M,V,01,006954a,5,,,,,,,,,,,193190
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,124r,1,Aspice domine quia facta est,De Prophetis,V2,A,1M,001497,1,,D2,72b,,,,,,,e,193191
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,124r,2,Muro tuo inexpugnabili,De Prophetis,V2,A,2M,003844,1,,G1,66d,,,,,,,a,193192
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,124v,1,Qui caelorum contines thronos,De Prophetis,V2,A,3M,004460,1,,F1,69b,,,,,,,a,193193
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,124v,2,Sustinuimus pacem et non,De Prophetis,V2,A,4M,005093,1,,F1,69b,,,,,,,a,193194
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,125r,0,-- -utate nos liberavit de,Additamenta,M,R,,600004,?,,,,,,,,,,,193195
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,125r,1,Huic oportet ut canamus cum,Additamenta,M,V,01,600004a,?,,,,,,,,,,,193196
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,125v,1,Simile est regnum caelorum,Additamenta,L,A,B,204681,6,,F1,7a,,,,,,,a,193197
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,126r,1,Simile est regnum caelorum,Additamenta,V2,A,M,204681,7,,A1,143b,,,,,,,a,193198
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,127r,0,Sustinuimus pacem et non,De Prophetis,H,A,1,005093,1,,F1,69b,,,,,,,a,193199
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,127r,1,Super muros tuos Jerusalem,De Prophetis,H,A,2,005059,1,,F1,69b,,,,,,,a,193200
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,128r,1,Super muros tuos Jerusalem,De Prophetis,V2,A,5M,005059,1,,F1,69b,,,,,,,a,193201
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,128r,2,A veterani facie manavit,De Trinitate,M,R,8,600009,?,,,,,,,,,,,193202
+lat. 119,"Budapest, Egyetemi Könyvtár (University Library) (H-Bu)",,128v,1,-- olim multifarie prophetis,De Trinitate,M,V,01,600009a,?,,,,,,,,,,,193203

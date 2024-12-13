@@ -1,0 +1,22 @@
+import csv
+import ast
+def parse_float_sequence(seq_str):
+    return ast.literal_eval(seq_str.strip())
+def main(input_csv="input.csv"):
+    with open(input_csv, "r", newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            melody = row.get("melody", "Unknown")
+            norm_seq_str = row.get("normalized_pitch_sequence", "[]")
+            option_1_str = row.get("option_1", "[]")
+            norm_seq = parse_float_sequence(norm_seq_str)
+            option_1_seq = parse_float_sequence(option_1_str)
+            last_eight = norm_seq[-8:] if len(norm_seq) >= 8 else norm_seq
+            if option_1_seq == last_eight:
+                print(f"Melody {melody}: option_1 matches the last eight notes of normalized_pitch_sequence.")
+            else:
+                print(f"Melody {melody}: option_1 does NOT match.\n"
+                      f"  Expected: {last_eight}\n"
+                      f"  Got:      {option_1_seq}")
+if __name__ == "__main__":
+    main()

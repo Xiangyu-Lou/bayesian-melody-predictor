@@ -1,0 +1,846 @@
+shelfmark,holding_institution,marginalia,folio,sequence,incipit,feast,service,genre,position,cantus_id,mode,finalis,differentia,differentiae_database,fulltext_standardized,fulltext_ms,volpiano,image_link,melody_id,addendum,extra,node_id
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001r,1,Benedictus dominus*,Dom. 1 Quadragesimae,V,A,1,001720,*,,,,,,,,,,144,346591
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001r,2,Ex more docti*,Dom. 1 Quadragesimae,V,H,,008300,*,,,,,,,,,,144,346592
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001r,3,Angelis suis deus*,Dom. 1 Quadragesimae,V,W,,007945,*,,,,,,,,,,144,346593
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001r,4,Ecce nunc tempus acceptabile,Dom. 1 Quadragesimae,V,A,M,002532,8,,1,118a,,,,,,,144,346594
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001v,1,Miserere mihi*,Dom. 1 Quadragesimae,C,A,,203130,*,,,,,,,,,,144,346595
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,001v,2,In pace in idipsum dormiam ,Dom. 1 Quadragesimae,C,R,,006921,8,,,,,,,,,,144,346596
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,002r,1,Si dedero somnum oculis meis,Dom. 1 Quadragesimae,C,V,01,006921a,8,,,,,,,,,,144,346597
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,002v,1,Gloria patri et filio et,Dom. 1 Quadragesimae,C,V,02,909000,8,,,,,,,,,,144,346598
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,002v,2,Christe qui lux es*,Dom. 1 Quadragesimae,C,H,,830070,*,,,,,,,,,,144,346599
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,002v,3,Custodi nos domine*,Dom. 1 Quadragesimae,C,W,,008001,*,,,,,,,,,,144,346600
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,003r,1,O rex gloriose inter sanctos,Dom. 1 Quadragesimae,C,A,N,203570,3,,1,97a,,,,,,,144,346601
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,004r,1,Non sit vobis vanum mane,Dom. 1 Quadragesimae,M,I,,001110,7,,7,,,,,,,,144,346602
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,004v,1,Summi largitor*,Dom. 1 Quadragesimae,M,H,,008398,*,,,,,,,,,,144,346603
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,004v,2,Servite domino*,Dom. 1 Quadragesimae,M,A,1.,004875,*,,,,,,,,,,144,346604
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,004v,3,Dicet domino susceptor*,Dom. 1 Quadragesimae,M,W,1.,008012,*,,,,,,,,,,144,346605
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,004v,4,Ecce nunc tempus acceptabile,Dom. 1 Quadragesimae,M,R,1.1,006600,3,,,,,,,,,,144,346606
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,005v,1,In omnibus exhibeamus,Dom. 1 Quadragesimae,M,V,01,006600a,3,,,,,,,,,,144,346607
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,005v,2,In omnibus exhibeamus nos,Dom. 1 Quadragesimae,M,R,1.2,006920,1,,,,,,,,,,144,346608
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,006v,1,Ecce nunc tempus acceptabile,Dom. 1 Quadragesimae,M,V,01,006920a,1,,,,,,,,,,144,346609
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,007r,1,Emendemus in melius quae,Dom. 1 Quadragesimae,M,R,1.3,006653,2,,,,,,,,,,144,346610
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,007v,1,Peccavimus cum patribus,Dom. 1 Quadragesimae,M,V,01,006653a,2,,,,,,,,,,145,346611
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,008r,1,Bonorum meorum*,Dom. 1 Quadragesimae,M,A,2.,001742,*,,,,,,,,,,145,346612
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,008r,2,Ipse liberavit me de laqueo,Dom. 1 Quadragesimae,M,W,2.,008107,*,,,,,,,,,,145,346613
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,008r,3,Paradisi portas aperiat nobis,Dom. 1 Quadragesimae,M,R,2.1,007348,8,,,,,,,,,,145,346614
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,009r,1,Ecce nunc tempus acceptabile,Dom. 1 Quadragesimae,M,V,01,007348a,8,,,,,,,,,,145,346615
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,009v,1,In jejunio et fletu orabant,Dom. 1 Quadragesimae,M,R,2.2,006910,5,,,,,,,,,,145,346616
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,010r,1,Inter vestibulum et altare,Dom. 1 Quadragesimae,M,V,01,006910a,5,,,,,,,,,,145,346617
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,010v,1,Abscondite eleemosynam in,Dom. 1 Quadragesimae,M,R,2.3,006012,8,,,,,,,,,,145,346618
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,011v,1,Date eleemosynam dicit,Dom. 1 Quadragesimae,M,V,01,006012b,8,,,,,,,,,,145,346619
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,012r,1,Non sunt loquelae neque*,Dom. 1 Quadragesimae,M,A,3.,003934,*,,,,,,,,,,145,346620
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,012r,2,Scapulis suis obumbrabit*,Dom. 1 Quadragesimae,M,W,3.,008191,*,,,,,,,,,,145,346621
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,012r,3,Tribularer si nescirem,Dom. 1 Quadragesimae,M,R,3.1,007778,8,,,,,,,,,,145,346622
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,012v,1,Et Petrum lacrimantem,Dom. 1 Quadragesimae,M,V,01,007778a,8,,,,,,,,,,145,346623
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,013r,1,Angelis suis mandavit de te,Dom. 1 Quadragesimae,M,R,3.2,006087,1,,,,,,,,,,145,346624
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,014r,1,Super aspidem et basiliscum,Dom. 1 Quadragesimae,M,V,01,006087a,1,,,,,,,,,,145,346625
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,014r,2,Ductus est Jesus in desertum,Dom. 1 Quadragesimae,M,R,3.3,006529,7,,,,,,,,,,145,346626
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,015r,1,Et cum jejunasset quadraginta,Dom. 1 Quadragesimae,M,V,01,006529a,7,,,,,,,,,,145,346627
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,015v,1,Ipse liberavit me de laqueo,Dom. 1 Quadragesimae,M,W,,008107,*,,,,,,,,,,145,346628
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,015v,2,Cor mundum crea in me ,Dom. 1 Quadragesimae,L,A,1,001929,1,,1,66d,,,,,,,145,346629
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,016r,1,O domine salvum me fac ,Dom. 1 Quadragesimae,L,A,2,004024,2,,1,152g,,,,,,,145,346630
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,016r,2,Sic benedicam te in vita ,Dom. 1 Quadragesimae,L,A,3,004919,7,,2,143b,,,,,,,145,346631
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,016v,1,In spiritu humilitatis et in,Dom. 1 Quadragesimae,L,A,4,003288,2,,1,152g,,,,,,,145,346632
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,017r,1,Laudate deum caeli caelorum,Dom. 1 Quadragesimae,L,A,5,003584,2,,1,152g,,,,,,,145,346633
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,017v,1,Audi benigne*,Dom. 1 Quadragesimae,L,H,,008267,*,,,,,,,,,,145,346634
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,017v,2,Scuto circumdabit te veritas,Dom. 1 Quadragesimae,L,W,,008193,*,,,,,,,,,,145,346635
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,017v,3,Ductus est Jesus in desertum,Dom. 1 Quadragesimae,L,A,B,002431,1,,1,66d,,,,,,,145,346636
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,018r,1,Jesus autem cum jejunasset,Dom. 1 Quadragesimae,P,A,,003485,1,,1,66d,,,,,,,145,346637
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,018v,1,Non in solo pane vivit ,Dom. 1 Quadragesimae,T,A,,003920,5,,1,129a,,,,,,,145,346638
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,018v,2,Participem me fac deus omnium,Dom. 1 Quadragesimae,T,R,,007353,8,,,,,,,,,,145,346639
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,019r,1,Aspice in me et miserere ,Dom. 1 Quadragesimae,T,V,01,007353a,8,,,,,,,,,,145,346640
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,019v,1,Gloria patri et filio et,Dom. 1 Quadragesimae,T,V,02,909000,8,,,,,,,,,,145,346641
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,020r,1,Dicet domino susceptor meus*,Dom. 1 Quadragesimae,T,W,,008012,*,,,,,,,,,,145,346642
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,020r,2,Vade Satana non tentabis,Dom. 1 Quadragesimae,S,A,,005303,1,,1,66d,,,,,,,145,346643
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,020r,3,Ab omni via mala prohibui,Dom. 1 Quadragesimae,S,R,,006006,8,,,,,,,,,,145,346644
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,020v,1,A judiciis tuis non declinavi,Dom. 1 Quadragesimae,S,V,01,006006a,8,,,,,,,,,,145,346645
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,021r,1,Ipse liberavit me de laqueo,Dom. 1 Quadragesimae,S,W,,008107,*,,,,,,,,,,145,346646
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,021r,2,Dominum deum tuum adorabis et,Dom. 1 Quadragesimae,N,A,,002397,1,,1,66d,,,,,,,145,346647
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,021v,1,Declara super nos deus tuam,Dom. 1 Quadragesimae,N,R,,006401,2,,,,,,,,,,145,346648
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,021v,2,Declaratio sermonum tuorum,Dom. 1 Quadragesimae,N,V,01,006401a,2,,,,,,,,,,145,346649
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,021v,3,Gloria patri et filio et,Dom. 1 Quadragesimae,N,V,02,909000,2,,,,,,,,,,145,346650
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,1,Gloria patri et filio et,Dom. 1 Quadragesimae,N,V,03,909000,2,,,,,,,,,,145,346651
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,2,Scapulis suis obumbrabit tibi,Dom. 1 Quadragesimae,N,W,,008191,*,,,,,,,,,,145,346652
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,3,Sede a dextris meis*,Dom. 1 Quadragesimae,V2,A,1,004853,*,,,,,,,,,,145,346653
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,4,Ductus est Jesus*,Dom. 1 Quadragesimae,V2,R,,006529,*,,,,,,,,,,145,346654
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,5,Ex more docti mystico*,Dom. 1 Quadragesimae,V2,H,,008300,*,,,,,,,,,,145,346655
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,6,Angelis suis deus mandavit*,Dom. 1 Quadragesimae,V2,W,,007945,*,,,,,,,,,,145,346656
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022r,7,Tunc assumpsit eum diabolus,Dom. 1 Quadragesimae,V2,A,M,005239,2,,1,152g,,,,,,,145,346657
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,022v,1,In manus tuas domine commendo,Dom. 1 Quadragesimae,C,R,,601142,r,,,,,,,,,,145,346658
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,1,Redemisti me domine deus,Dom. 1 Quadragesimae,C,V,01,601142a,r,,,,,,,,,,145,346659
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,2,Gloria patri*,Dom. 1 Quadragesimae,C,V,02,909000,r,,,,,,,,,,145,346660
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,3,Venite exsultemus*,Fer. 2 Hebd. 1 Quad.,M,I,,001179,*,,*,,,,,,,,146,346661
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,4,Summi largitor*,Fer. 2 Hebd. 1 Quad.,M,H,,008398,*,,,,,,,,,,146,346662
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,5,Dominus defensor*,Fer. 2 Hebd. 1 Quad.,M,A,1.,002404,*,,,,,,,,,,146,346663
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,6,Dicet domino susceptor*,Fer. 2 Hebd. 1 Quad.,M,W,1.,008012,*,,,,,,,,,,146,346664
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,7,Ipse liberavit me*,Fer. 2 Hebd. 1 Quad.,M,W,,008107,*,,,,,,,,,,146,346665
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,8,Miserere mei deus*,Fer. 2 Hebd. 1 Quad.,L,A,1,003773,*,,,,,,,,,,146,346666
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,9,Audi benigne conditor*,Fer. 2 Hebd. 1 Quad.,L,H,,008267,*,,,,,,,,,,146,346667
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023r,10,Scuto circumdabit te*,Fer. 2 Hebd. 1 Quad.,L,W,,008193,*,,,,,,,,,,146,346668
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023v,1,Venite benedicti patris mei,Fer. 2 Hebd. 1 Quad.,L,A,B,005350,8,,1,118a,,,,,,,146,346669
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,023v,2,Vivo ego dicit dominus nolo,Fer. 2 Hebd. 1 Quad.,P,A,,005481,3,,1,97a,,,,,,,146,346670
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,024r,1,Advenerunt nobis dies,Fer. 2 Hebd. 1 Quad.,T,A,,001294,8,,1,118a,,,,,,,146,346671
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,024v,1,Commendemus nosmetipsos in,Fer. 2 Hebd. 1 Quad.,S,A,,001857,7,,2,143b,,,,,,,146,346672
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,024v,2,Per arma justitiae virtutis,Fer. 2 Hebd. 1 Quad.,N,A,,004261,1,,1,66d,,,,,,,146,346673
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,025r,1,Inclinavit*,Fer. 2 Hebd. 1 Quad.,V2,A,1,003319,*,,,,,,,,,,146,346674
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,025r,2,Esto nobis domine turris,Fer. 2 Hebd. 1 Quad.,V2,R,,006673,?,,,,,,,,,,146,346675
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,025v,1,A facie inimici,Fer. 2 Hebd. 1 Quad.,V2,V,01,006673a,?,,,,,,,,,,146,346676
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,025v,2,Gloria patri et filio et,Fer. 2 Hebd. 1 Quad.,V2,V,02,909000,?,,,,,,,,,,146,346677
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,025v,3,Quod uni ex minimis meis,Fer. 2 Hebd. 1 Quad.,V2,A,M,004560,1,,1,66d,,,,,,,146,346678
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,026r,1,Domus mea domus orationis,Fer. 3 Hebd. 1 Quad.,L,A,B,002428,1,,1,66d,,,,,,,146,346679
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,026r,2,Abiit Jesus foras extra,Fer. 3 Hebd. 1 Quad.,V2,A,M,001207,1,,1,66d,,,,,,,147,346680
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,026v,1,Generatio haec prava et,Fer. 4 Hebd. 1 Quad.,L,A,B,002935,8,,1,118a,,,,,,,147,346681
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,027r,1,Sicut fuit Jonas in ventre,Fer. 4 Hebd. 1 Quad.,V2,A,M,004934,7,,2,143b,,,,,,,147,346682
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,027v,1,Si vos manseritis in sermone,Fer. 5 Hebd. 1 Quad.,L,A,B,004918,7,,2,143b,,,,,,,147,346683
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,028r,1,Ego enim ex deo processi ,Fer. 5 Hebd. 1 Quad.,V2,A,M,002573,4,,1,19a,,,,,,,147,346684
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,028v,1,Angelus domini descendebat de,Fer. 6 Hebd. 1 Quad.,L,A,B,001412,7,,2,143b,,,,,,,147,346685
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,028v,2,Qui me sanum fecit ille ,Fer. 6 Hebd. 1 Quad.,V2,A,M,004483,1,,1,66d,,,,,,,147,346686
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,029r,1,Assumpsit Jesus discipulos,Sabb. Hebd. 1 Quad.,L,A,B,001501,2,,1,152g,,,,,,,147,346687
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,029v,1,Benedictus dominus*,Dom. 2 Quadragesimae,V,A,1,001720,*,,,,,,,,,,148,346688
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,029v,2,Nemini dixeritis visionem,Dom. 2 Quadragesimae,V,A,M,003869,1,,1,66d,,,,,,,148,346689
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,029v,3,Quoniam deus magnus dominus,Dom. 2 Quadragesimae,M,I,,001124,7,,7,,,,,,,,148,346690
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,030r,1,Tolle arma tua pharetram et,Dom. 2 Quadragesimae,M,R,1.1,007767,7,,,,,,,,,,148,346691
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,031r,1,Cumque venatu aliquid,Dom. 2 Quadragesimae,M,V,01,007767a,7,,,,,,,,,,148,346692
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,031v,1,Ecce odor filii mei sicut,Dom. 2 Quadragesimae,M,R,1.2,006601,7,,,,,,,,,,148,346693
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,032r,1,Qui maledixerit tibi sit ille,Dom. 2 Quadragesimae,M,V,01,006601a,7,,,,,,,,,,148,346694
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,032v,1,Det tibi deus de rore ,Dom. 2 Quadragesimae,M,R,1.3,006415,7,,,,,,,,,,148,346695
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,033v,1,Et incurventur ante te filii,Dom. 2 Quadragesimae,M,V,01,006415a,7,,,,,,,,,,148,346696
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,033v,2,Dum exiret Jacob de terra ,Dom. 2 Quadragesimae,M,R,2.1,006540,1,,,,,,,,,,148,346697
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,034v,1,Vere dominus est in loco ,Dom. 2 Quadragesimae,M,V,01,006540a,1,,,,,,,,,,148,346698
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,034v,2,Si dominus deus meus fuerit,Dom. 2 Quadragesimae,M,R,2.2,007650,1,,,,,,,,,,148,346699
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,035v,1,Surgens ergo mane Jacob tulit,Dom. 2 Quadragesimae,M,V,01,007650b,1,,,,,,,,,,148,346700
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,036r,1,Erit mihi dominus in deum ,Dom. 2 Quadragesimae,M,R,2.3,006668,1,,,,,,,,,,148,346701
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,037r,1,Si dominus deus meus fuerit,Dom. 2 Quadragesimae,M,V,01,006668a,1,,,,,,,,,,148,346702
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,037v,1,Oravit Jacob et dixit domine,Dom. 2 Quadragesimae,M,R,3.1,007334,8,,,,,,,,,,148,346703
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,038r,1,Deus in cujus conspectu,Dom. 2 Quadragesimae,M,V,01,007334a,8,,,,,,,,,,148,346704
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,038v,1,Dixit angelus ad Jacob,Dom. 2 Quadragesimae,M,R,3.2,006465,7,,,,,,,,,,148,346705
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,039v,2,Benedicens benedicam tibi et,Dom. 2 Quadragesimae,M,V,01,006465a,7,,,,,,,,,,148,346706
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,039v,3,Vidi dominum facie ad faciem,Dom. 2 Quadragesimae,M,R,3.3,007874,6,,,,,,,,,,148,346707
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,040r,1,Et dixit nequaquam vocaberis,Dom. 2 Quadragesimae,M,V,01,007874a,6,,,,,,,,,,148,346708
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,040v,1,Ipse liberavit me de laqueo,Dom. 2 Quadragesimae,M,W,,008107,*,,,,,,,,,,148,346709
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,040v,2,Domine labia mea aperies et,Dom. 2 Quadragesimae,L,A,1,002355,7,,1,146a,,,,,,,148,346710
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,041r,1,Dextera domini fecit virtutem,Dom. 2 Quadragesimae,L,A,2,002185,8,,2,99d,,,,,,,148,346711
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,041r,2,Factus est adjutor meus deus,Dom. 2 Quadragesimae,L,A,3,002846,1,,1,66d,,,,,,,148,346712
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,041r,3,Trium puerorum cantemus,Dom. 2 Quadragesimae,L,A,4,005191,8,,1,118a,,,,,,,148,346713
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,041v,1,Statuit ea in aeternum et ,Dom. 2 Quadragesimae,L,A,5,005020,7,,2,143b,,,,,,,148,346714
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,042r,1,Egressus Jesus secessit in,Dom. 2 Quadragesimae,L,A,B,002620,1,,1,66d,,,,,,,148,346715
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,042v,1,Non sum missus nisi ad ,Dom. 2 Quadragesimae,P,A,,203310,7,,2,143b,,,,,,,148,346716
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043r,1,Missus sum ad oves quae,Dom. 2 Quadragesimae,T,A,,003795,8,,2,99d,,,,,,,148,346717
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",R,043r,2,Participem*,Dom. 2 Quadragesimae,T,R,,007353,*,,,,,,,,,,,346718
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043r,3,Vade mulier semel tibi dixi,Dom. 2 Quadragesimae,S,A,,005302,7,,2,143b,,,,,,,148,346719
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",L,043v,1,Ab omni via*,Dom. 2 Quadragesimae,S,R,,006006,*,,,,,,,,,,,346720
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043v,2,O mulier magna est fides ,Dom. 2 Quadragesimae,N,A,,004046,7,,2,143b,,,,,,,148,346721
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",L,043v,3,Declara*,Dom. 2 Quadragesimae,N,R,,006401,*,,,,,,,,,,,346722
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043v,4,Sede a dextris*,Dom. 2 Quadragesimae,V2,A,1,004853,*,,,,,,,,,,148,346723
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043v,5,Vidi dominum sedentem*,Dom. 2 Quadragesimae,V2,R,,007875,*,,,,,,,,,,149,346724
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,043v,6,Dixit dominus mulieri,Dom. 2 Quadragesimae,V2,A,M,002287,8,,1,118a,,,,,,,149,346725
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,044v,1,Ego principium qui et loquor,Fer. 2 Hebd. 2 Quad.,L,A,B,002582,8,,2,99d,,,,,,,149,346726
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,045r,1,Qui me misit mecum est ,Fer. 2 Hebd. 2 Quad.,V2,A,M,004482,1,,1,66d,,,,,,,149,346727
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,045r,2,Unus est enim magister vester,Fer. 2 Hebd. 2 Quad.,L,A,B,005278,1,,1,66d,,,,,,,149,346728
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,045v,1,Qui major est vestrum erit,Fer. 3 Hebd. 2 Quad.,V2,A,M,004477,8,,1,118a,,,,,,,149,346729
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,046r,1,Ecce ascendimus Jerusalem et,Fer. 4 Hebd. 2 Quad.,L,A,B,002496,7,,2,143b,,,,,,,149,346730
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,046v,1,Sedere autem mecum non est,Fer. 4 Hebd. 2 Quad.,V2,A,M,004857,7,,2,143b,,,,,,,149,346731
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,046v,2,Ego non ab homine testimonium,Fer. 5 Hebd. 2 Quad.,L,A,B,002577,8,,1,118a,,,,,,,149,346732
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,047r,1,Opera quae ego facio,Fer. 5 Hebd. 2 Quad.,V2,A,M,004160,8,,1,118a,,,,,,,149,346733
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,047v,1,Malos male perdet et vineam,Fer. 6 Hebd. 2 Quad.,L,A,B,003687,3,,1,97a,,,,,,,149,346734
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,047v,2,Quaerentes eum tenere,Fer. 6 Hebd. 2 Quad.,V2,A,M,004428,3,,1,97a,,,,,,,149,346735
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,048r,1,Dum iret Jacob de Bersabee ,Sabb. Hebd. 2 Quad.,M,R,1,006547,7,,,,,,,,,,149,346736
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,049r,1,Aedificavit Jacob ex,Sabb. Hebd. 2 Quad.,M,V,01,006547a,7,,,,,,,,,,149,346737
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,049v,1,Minor sum cunctis,Sabb. Hebd. 2 Quad.,M,R,2,007156,4,,,,,,,,,,149,346738
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,050v,1,Ne forte veniens percutiat,Sabb. Hebd. 2 Quad.,M,V,01,007156f,4,,,,,,,,,,150,346739
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,051r,1,Pater peccavi in caelum et,Sabb. Hebd. 2 Quad.,M,R,3,007362,7,,,,,,,,,,150,346740
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,051v,1,Quanti mercennarii in domo,Sabb. Hebd. 2 Quad.,M,V,01,007362a,7,,,,,,,,,,150,346741
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,052r,1,Vadam ad patrem meum et ,Sabb. Hebd. 2 Quad.,L,A,B,005299,1,,1,66d,,,,,,,150,346742
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,052v,1,Benedictus*,Dom. 3 Quadragesimae,V2,A,1,001720,*,,,,,,,,,,150,346743
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,052v,2,Dixit autem pater ad servos,Dom. 3 Quadragesimae,V2,A,M,002280,8,,1,118a,,,,,,,150,346744
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,053r,1,Media vita in morte sumus,Dom. 3 Quadragesimae,C,A,N,003732,4,,1,19a,,,,,,,150,346745
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,054r,1,Ne projicias nos in tempore,Dom. 3 Quadragesimae,C,AV,01,003732b,4,,1,19a,,,,,,,150,346746
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,054v,1,Populus domini et oves,Dom. 3 Quadragesimae,M,I,,001113,7,,7,,,,,,,,150,346747
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,055r,1,Videntes Joseph a longe,Dom. 3 Quadragesimae,M,R,1.1,007863,8,,,,,,,,,,150,346748
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,055v,1,Cumque vidissent Joseph,Dom. 3 Quadragesimae,M,V,01,007863a,8S,,,,,,,,,,150,346749
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,056r,1,Dixit Judas fratribus suis,Dom. 3 Quadragesimae,M,R,1.2,006477,7,,,,,,,,,,150,346750
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,057r,1,Cumque abisset Ruben ad,Dom. 3 Quadragesimae,M,V,01,006477a,7,,,,,,,,,,150,346751
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,057v,1,Videns Jacob vestimenta,Dom. 3 Quadragesimae,M,R,1.3,007858,6,,,,,,,,,,150,346752
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,058r,1,Vide si tunica filii tui ,Dom. 3 Quadragesimae,M,V,01,007858a,6,,,,,,,,,,150,346753
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,058v,1,Joseph dum intraret in terram,Dom. 3 Quadragesimae,M,R,2.1,007037,5,,,,,,,,,,150,346754
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,059r,1,Divertit ab oneribus dorsum,Dom. 3 Quadragesimae,M,V,01,007037a,5,,,,,,,,,,150,346755
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,059v,1,Memento mei dum bene tibi,Dom. 3 Quadragesimae,M,R,2.2,007144,7,,,,,,,,,,150,346756
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,060r,1,Tres enim adhuc dies sunt,Dom. 3 Quadragesimae,M,V,01,007144a,7,,,,,,,,,,150,346757
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,061r,1,Merito haec patimur quia,Dom. 3 Quadragesimae,M,R,2.3,007146,8,,,,,,,,,,150,346758
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,061v,1,Dixit Ruben fratribus suis,Dom. 3 Quadragesimae,M,V,01,007146a,8,,,,,,,,,,150,346759
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,062r,1,Dixit Ruben fratribus suis,Dom. 3 Quadragesimae,M,R,3.1,006479,8,,,,,,,,,,150,346760
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,063r,1,Merito haec patimur quia,Dom. 3 Quadragesimae,M,V,01,006479a,8S,,,,,,,,,,150,346761
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,063v,1,Tollite hinc vobiscum munera,Dom. 3 Quadragesimae,M,R,3.2,007769,7,,,,,,,,,,150,346762
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,064v,1,Sumite de optimis terrae,Dom. 3 Quadragesimae,M,V,01,007769b,7,,,,,,,,,,150,346763
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,065r,1,Nuntiaverunt Jacob dicentes,Dom. 3 Quadragesimae,M,R,3.3,007251,7,,,,,,,,,,150,346764
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,066r,1,Cumque audisset Jacob quod,Dom. 3 Quadragesimae,M,V,01,007251a,7,,,,,,,,,,150,346765
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,066v,1,Ipse liberavit me de laqueo,Dom. 3 Quadragesimae,M,W,,008107,*,,,,,,,,,,150,346766
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,066v,2,Fac benigne in bona voluntate,Dom. 3 Quadragesimae,L,A,1,002829,3,,1,97a,,,,,,,150,346767
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,066v,3,Dominus mihi adjutor est non,Dom. 3 Quadragesimae,L,A,2,002417,8,,1,118a,,,,,,,150,346768
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,067r,1,Deus misereatur nostri et,Dom. 3 Quadragesimae,L,A,3,002177,8,,1,118a,,,,,,,150,346769
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,067r,2,Vim virtutis suae oblitus est,Dom. 3 Quadragesimae,L,A,4,005424,1,,1,66d,,,,,,,150,346770
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,067v,1,Sol et luna laudate deum ,Dom. 3 Quadragesimae,L,A,5,004977,1,,1,66d,,,,,,,150,346771
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,068r,1,Erat Jesus ejiciens daemonium,Dom. 3 Quadragesimae,L,A,B,002656,1,,1,66d,,,,,,,150,346772
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,068v,1,Si in digito dei ejicio,Dom. 3 Quadragesimae,P,A,,004898,3,,1,97a,,,,,,,150,346773
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,068v,2,Dum fortis armatus custodit,Dom. 3 Quadragesimae,T,A,,002456,3,,1,97a,,,,,,,150,346774
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,069r,1,Bonum mihi domine quod,Dom. 3 Quadragesimae,T,R,,006257,2,,,,,,,,,,150,346775
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,069v,1,Manus tuae domine fecerunt me,Dom. 3 Quadragesimae,T,V,01,006257a,2,,,,,,,,,,150,346776
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,070r,1,Gloria patri et filio et,Dom. 3 Quadragesimae,T,V,02,909000,2,,,,,,,,,,150,346777
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,070r,2,Dicet domino susceptor meus,Dom. 3 Quadragesimae,T,W,,008012,*,,,,,,,,,,150,346778
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,070r,3,Qui non colligit mecum,Dom. 3 Quadragesimae,S,A,,004486,1,,1,66d,,,,,,,151,346779
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,070v,1,Servus tuus ego sum da ,Dom. 3 Quadragesimae,S,R,,007645,r,,,,,,,,,,151,346780
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,070v,2,Ut discam mandata tua,Dom. 3 Quadragesimae,S,V,01,007645a,r,,,,,,,,,,151,346781
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,071r,1,Gloria patri et filio et,Dom. 3 Quadragesimae,S,V,02,909000,r,,,,,,,,,,151,346782
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,071r,2,Ipse liberavit me de laqueo,Dom. 3 Quadragesimae,S,W,,008107,*,,,,,,,,,,151,346783
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,071r,3,Cum immundus spiritus exierit,Dom. 3 Quadragesimae,N,A,,002009,1,,2,64b,,,,,,,151,346784
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,071v,1,Septies in die laudem dixi,Dom. 3 Quadragesimae,N,R,,007639,r,,,,,,,,,,151,346785
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,072r,1,Erravi sicut ovis quae,Dom. 3 Quadragesimae,N,V,01,007639a,r,,,,,,,,,,151,346786
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",R,072r,2,Servus tuus ego*,Dom. 3 Quadragesimae,N,R,,007645,*,,,,,,,,,,,346787
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,072r,3,Scapulis suis obumbrabit tibi,Dom. 3 Quadragesimae,N,W,,008191,*,,,,,,,,,,151,346788
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,072r,4,Sede a dextris*,Dom. 3 Quadragesimae,V2,A,1,004853,*,,,,,,,,,,151,346789
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,072r,5,Loquens Joseph fratribus suis,Dom. 3 Quadragesimae,V2,R,,007102,1,,,,,,,,,,151,346790
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,073r,1,Elevavitque vocem cum fletu,Dom. 3 Quadragesimae,V2,V,01,007102a,1,,,,,,,,,,151,346791
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,073v,1,Extollens quaedam mulier,Dom. 3 Quadragesimae,V2,A,M,002827,8,,1,118a,,,,,,,151,346792
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,074r,1,Amen dico vobis quia nemo,Fer. 2 Hebd. 3 Quad.,L,A,B,001380,1,,1,66d,,,,,,,151,346793
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,074v,1,Educ de carcere animam meam,Fer. 2 Hebd. 3 Quad.,V2,R,,006622,2,,,,,,,,,,151,346794
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,075r,1,Periit fuga a me et ,Fer. 2 Hebd. 3 Quad.,V2,V,01,006622a,2,,,,,,,,,,151,346795
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,075r,2,Gloria patri et filio et,Fer. 2 Hebd. 3 Quad.,V2,V,02,909000,2,,,,,,,,,,151,346796
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,075v,1,Jesus autem transiens per,Fer. 2 Hebd. 3 Quad.,V2,A,M,003486,1,,1,66d,,,,,,,151,346797
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,075v,2,Ubi duo vel tres congregati,Fer. 3 Hebd. 3 Quad.,L,A,B,005258,7,,2,143b,,,,,,,151,346798
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,076r,1,Non dico tibi septies sed,Fer. 3 Hebd. 3 Quad.,V2,A,M,003907,3,,1,97a,,,,,,,151,346799
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,076r,2,Audite et intellegite,Fer. 4 Hebd. 3 Quad.,L,A,B,001522,8,,1,118a,,,,,,,151,346800
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,076v,1,Non lotis manibus manducare,Fer. 4 Hebd. 3 Quad.,V2,A,M,003922,7,,2,143b,,,,,,,151,346801
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,076v,2,Operamini non cibum qui perit,Fer. 5 Hebd. 3 Quad.,L,A,B,004161,8,,1,118a,,,,,,,151,346802
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,077r,1,Panis enim dei est qui ,Fer. 5 Hebd. 3 Quad.,V2,A,M,004209,7,,1,146a,,,,,,,151,346803
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,077r,2,Iste est frater vester,Fer. 6 Hebd. 3 Quad.,M,R,1,006999,7,,,,,,,,,,151,346804
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,078r,1,Attollens autem Joseph oculos,Fer. 6 Hebd. 3 Quad.,M,V,01,006999a,7,,,,,,,,,,151,346805
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,078v,1,Dixit Joseph undecim,Fer. 6 Hebd. 3 Quad.,M,R,2,006476,7,,,,,,,,,,151,346806
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,079v,1,Biennium est quod coepit esse,Fer. 6 Hebd. 3 Quad.,M,V,01,006476a,7,,,,,,,,,,152,346807
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,080r,1,Salus nostra in manu tua ,Fer. 6 Hebd. 3 Quad.,M,R,3,007559,2,,,,,,,,,,152,346808
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,080v,1,Venerunt quoque Aegyptii ad,Fer. 6 Hebd. 3 Quad.,M,V,01,007559b,2,,,,,,,,,,152,346809
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,081r,1,Aqua quam ego dedero qui,Fer. 6 Hebd. 3 Quad.,L,A,B,001469,8,,2,99d,,,,,,,152,346810
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,081r,2,Veri adoratores adorabunt,Fer. 6 Hebd. 3 Quad.,V2,A,M,005367,8,,1,118a,,,,,,,152,346811
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,081v,1,Extrahentes Joseph de lacu,Sabb. Hebd. 3 Quad.,M,R,1,006707,7,,,,,,,,,,152,346812
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,082v,1,At illi intincta tunica,Sabb. Hebd. 3 Quad.,M,V,01,006707a,7,,,,,,,,,,152,346813
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,083r,1,Loquens Joseph*,Sabb. Hebd. 3 Quad.,M,R,2,007102,*,,,,,,,,,,152,346814
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,083r,2,Igitur Joseph ductus est in,Sabb. Hebd. 3 Quad.,M,R,3,006878,2,,,,,,,,,,152,346815
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,083v,1,Misertus est enim deus illius,Sabb. Hebd. 3 Quad.,M,V,01,006878a,2S,,,,,,,,,,152,346816
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,084r,1,Gloria patri et filio et,Sabb. Hebd. 3 Quad.,M,V,02,909000,2S,,,,,,,,,,152,346817
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,084r,2,Inclinavit se Jesus scribebat,Sabb. Hebd. 3 Quad.,L,A,B,003320,1,,1,66d,,,,,,,152,346818
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,084v,1,Benedictus*,Dom. 4 Quadragesimae,V2,A,1,001720,*,,,,,,,,,,152,346819
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,084v,2,Nemo te condemnavit mulier,Dom. 4 Quadragesimae,V2,A,M,003873,3,,1,97a,,,,,,,152,346820
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,085r,1,Hodie si vocem domini,Dom. 4 Quadragesimae,M,I,,001085,4,,BL,,,,,,,,152,346821
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,085v,1,Locutus est dominus ad Moysen,Dom. 4 Quadragesimae,M,R,1.1,007098,4,,,,,,,,,,152,346822
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,086v,1,Videns vidi afflictionem,Dom. 4 Quadragesimae,M,V,01,007098a,4,,,,,,,,,,152,346823
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,087r,1,Stetit Moyses coram pharaone,Dom. 4 Quadragesimae,M,R,1.2,007708,8,,,,,,,,,,152,346824
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,087v,1,Dominus deus Hebraeorum misit,Dom. 4 Quadragesimae,M,V,01,007708a,8,,,,,,,,,,152,346825
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,087v,2,Cantemus domino gloriose enim,Dom. 4 Quadragesimae,M,R,1.3,006270,8,,,,,,,,,,152,346826
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,088v,1,Currus pharaonis et exercitum,Dom. 4 Quadragesimae,M,V,01,006270a,8,,,,,,,,,,152,346827
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,089r,1,In mari via tua et ,Dom. 4 Quadragesimae,M,R,2.1,006911,2,,,,,,,,,,152,346828
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,089v,1,Illuxerunt coruscationes tuae,Dom. 4 Quadragesimae,M,V,01,006911a,2,,,,,,,,,,152,346829
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,090r,1,Qui persequebantur populum,Dom. 4 Quadragesimae,M,R,2.2,007481,7,,,,,,,,,,152,346830
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,091r,1,Exclamaverunt ad te filii,Dom. 4 Quadragesimae,M,V,01,007481c,7,,,,,,,,,,152,346831
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,091v,1,Moyses famulus domini,Dom. 4 Quadragesimae,M,R,2.3,007183,8,,,,,,,,,,152,346832
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,092r,1,Ascendit Moyses in montem,Dom. 4 Quadragesimae,M,V,01,007183a,8,,,,,,,,,,152,346833
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,092v,1,Splendida facta est facies,Dom. 4 Quadragesimae,M,R,3.1,007695,8,,,,,,,,,,152,346834
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,093r,1,Descendit Moyses de monte,Dom. 4 Quadragesimae,M,V,01,007695a,8,,,,,,,,,,152,346835
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,093v,1,Ecce mitto angelum meum qui,Dom. 4 Quadragesimae,M,R,3.2,006598,4,,,,,,,,,,152,346836
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,094v,1,Israel si me audieris non,Dom. 4 Quadragesimae,M,V,01,006598a,4,,,,,,,,,,152,346837
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,095r,1,Audi Israel praecepta domini,Dom. 4 Quadragesimae,M,R,3.3,006143,2,,,,,,,,,,152,346838
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,095v,1,Observa igitur et audi vocem,Dom. 4 Quadragesimae,M,V,01,006143b,2,,,,,,,,,,152,346839
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,096r,1,Ipse liberavit me de laqueo,Dom. 4 Quadragesimae,M,W,,008107,*,,,,,,,,,,152,346840
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,096r,2,Tunc acceptabis sacrificium,Dom. 4 Quadragesimae,L,A,1,005236,7,,2,143b,,,,,,,152,346841
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,096v,1,Bonum est sperare in domino,Dom. 4 Quadragesimae,L,A,2,001745,8,,1,118a,,,,,,,152,346842
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,097r,1,Benedicat nos deus deus,Dom. 4 Quadragesimae,L,A,3,001690,2,,1,152g,,,,,,,152,346843
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,097r,2,Potens es domine eripere nos,Dom. 4 Quadragesimae,L,A,4,004347,8,,1,118a,,,,,,,152,346844
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,097v,1,Reges terrae et omnes populi,Dom. 4 Quadragesimae,L,A,5,004593,2,,1a,152b,Reges terrae et omnes populi laudate deum,,,,,,152,346845
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,097v,2,Cum sublevasset oculos Jesus,Dom. 4 Quadragesimae,L,A,B,002036,1,,1,66d,,,,,,,152,346846
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,098v,1,De quinque panibus et duobus,Dom. 4 Quadragesimae,P,A,,002117,1,,1,66d,,,,,,,152,346847
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,099r,1,Satiavit dominus quinque,Dom. 4 Quadragesimae,T,A,,004818,7,,2,143b,,,,,,,152,346848
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",L,099v,1,Bonum*,Dom. 4 Quadragesimae,T,R,,006257,*,,,,,,,,,,,346849
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,099v,2,Illi homines cum vidissent,Dom. 4 Quadragesimae,S,A,,003177,1,,1,66d,,,,,,,152,346850
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",R,100r,1,Servus tuus*,Dom. 4 Quadragesimae,S,R,,007645,*,,,,,,,,,,,346851
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,100r,2,Cum vidissent turbae signum,Dom. 4 Quadragesimae,N,A,,002049,8,,1,118a,,,,,,,153,346852
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,100v,1,Sede a dextris*,Dom. 4 Quadragesimae,V2,A,1,004853,*,,,,,,,,,,153,346853
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,100v,2,Audi Israel*,Dom. 4 Quadragesimae,V2,R,,006143,*,,,,,,,,,,153,346854
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,100v,3,Accepit ergo Jesus panes et,Dom. 4 Quadragesimae,V2,A,M,001217,1,,1,66d,,,,,,,153,346855
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,101r,1,Auferte ista hinc dicit,Fer. 2 Hebd. 4 Quad.,L,A,B,001530,3,,1,97a,,,,,,,153,346856
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,101v,1,Solvite templum hoc dicit,Fer. 2 Hebd. 4 Quad.,V2,A,M,004982,5,,1,129a,,,,,,,153,346857
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,102r,1,Quid me quaeritis interficere,Fer. 3 Hebd. 4 Quad.,L,A,B,004525,7,,1,146a,,,,,,,153,346858
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,102r,2,Nemo in eum misit manum ,Fer. 3 Hebd. 4 Quad.,V2,A,M,003871,1,,1,66d,,,,,,,153,346859
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,102v,1,Rabbi quis peccavit hic aut,Fer. 4 Hebd. 4 Quad.,L,A,B,004571,8,,1,118a,,,,,,,153,346860
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,103v,1,A saeculo non est auditum,Fer. 4 Hebd. 4 Quad.,V2,A,M,001194,7,,2,143b,,,,,,,153,346861
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,103v,2,Sicut pater suscitat mortuos,Fer. 5 Hebd. 4 Quad.,L,A,B,004944,7,,2,143b,,,,,,,153,346862
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,104r,1,Pater diligit filium et omnia,Fer. 5 Hebd. 4 Quad.,V2,A,M,004233,8,,2,99d,,,,,,,153,346863
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,104v,1,Lazarus amicus noster dormit,Fer. 6 Hebd. 4 Quad.,L,A,B,003603,1,,1,66d,,,,,,,153,346864
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,104v,2,Domine si fuisses hic Lazarus,Fer. 6 Hebd. 4 Quad.,V2,A,M,002383,1,,1,66d,,,,,,,153,346865
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,105r,1,Popule meus quid feci aut,Sabb. Hebd. 4 Quad.,M,R,1,007393,7,,,,,,,,,,154,346866
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,106v,1,Adduxi vos per desertum,Sabb. Hebd. 4 Quad.,M,V,01,007393a,7,,,,,,,,,,154,346867
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,107r,1,Adduxi vos per desertum,Sabb. Hebd. 4 Quad.,M,R,2,006030,7,,,,,,,,,,154,346868
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,107v,1,Popule meus quid feci aut,Sabb. Hebd. 4 Quad.,M,V,01,006030a,7,,,,,,,,,,154,346869
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,108v,1,Vos qui transituri estis,Sabb. Hebd. 4 Quad.,M,R,3,007916,8,,,,,,,,,,154,346870
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,109v,1,Cumque intraveritis terram,Sabb. Hebd. 4 Quad.,M,V,01,007916a,8,,,,,,,,,,154,346871
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,110r,1,Ego sum lux mundi qui,Sabb. Hebd. 4 Quad.,L,A,B,002592,1,,1,66d,,,,,,,154,346872
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,110v,1,Benedictus*,Dom. de Passione,V,A,1,001720,*,,,,,,,,,,154,346873
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,110v,2,Circumdederunt me viri,Dom. de Passione,V,R,,006287,2,,,,,,,,,,154,346874
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,111r,1,Quoniam tribulatio proxima,Dom. de Passione,V,V,01,006287a,2S,,,,,,,,,,154,346875
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,111v,1,Vexilla regis*,Dom. de Passione,V,H,,008410,*,,,,,,,,,,154,346876
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,111v,2,Dederunt in escam meam fel,Dom. de Passione,V,W,,008006,*,,,,,,,,,,154,346877
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,111v,3,Ego sum qui testimonium,Dom. de Passione,V,A,M,002600,3,,1,97a,,,,,,,154,346878
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,112r,1,Miserere*,Dom. de Passione,C,A,,203130,*,,,,,,,,,,154,346879
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,112r,2,In manus tuas*,Dom. de Passione,C,R,,601142,*,,,,,,,,,,154,346880
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,112r,3,Christe qui lux es*,Dom. de Passione,C,H,,830070,*,,,,,,,,,,154,346881
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,112r,4,Custodi nos*,Dom. de Passione,C,W,,008001,*,,,,,,,,,,154,346882
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,112r,5,Vigilate et orate in hac,Dom. de Passione,C,A,N,005419,3,,1,97a,,,,,,,154,346883
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,113r,1,Quadraginta annis offensus,Dom. de Passione,M,I,,001121,7,,7,,,,,,,,154,346884
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,113v,1,Pange lingua*,Dom. de Passione,M,H,,008367,*,,,,,,,,,,154,346885
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,113v,2,Appropinquabat autem dies,Dom. de Passione,M,A,1.,001465,1T,,1,66d,,,,,,,154,346886
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,114r,1,Erue a framea deus animam,Dom. de Passione,M,W,1.,008058,*,,,,,,,,,,154,346887
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,114r,2,Isti sunt dies quos observare,Dom. de Passione,M,R,1.1,007013,7,,,,,,,,,,154,346888
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,115r,1,Locutus est dominus ad Moysen,Dom. de Passione,M,V,01,007013a,7,,,,,,,,,,154,346889
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,115v,1,Multiplicati sunt qui,Dom. de Passione,M,R,1.2,007187,8,,,,,,,,,,154,346890
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,116r,1,Nequando dicat inimicus meus,Dom. de Passione,M,V,01,007187a,8,,,,,,,,,,154,346891
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,116v,1,Qui custodiebant animam meam,Dom. de Passione,M,R,1.3,007475,1,,,,,,,,,,154,346892
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,117v,1,Omnes inimici mei adversum me,Dom. de Passione,M,V,01,007475a,1,,,,,,,,,,154,346893
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,118r,1,Principes sacerdotum,Dom. de Passione,M,A,2.,004380,1,,1,66d,,,,,,,154,346894
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,118v,1,Ne perdas cum impiis deus,Dom. de Passione,M,W,2.,008146,*,,,,,,,,,,154,346895
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,118v,2,Deus meus es tu ne ,Dom. de Passione,M,R,2.1,006428,8,,,,,,,,,,154,346896
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,119r,1,Deus deus meus respice in ,Dom. de Passione,M,V,01,006428a,8,,,,,,,,,,154,346897
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,119v,1,Deus meus eripe me de ,Dom. de Passione,M,R,2.2,006427,8,,,,,,,,,,154,346898
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,120r,1,Deus meus ne elongeris a ,Dom. de Passione,M,V,01,006427b,8,,,,,,,,,,154,346899
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,120v,1,Tota die contristatus,Dom. de Passione,M,R,2.3,007771,4,,,,,,,,,,154,346900
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,121v,1,Et qui inquirebant mala mihi,Dom. de Passione,M,V,01,007771a,4,,,,,,,,,,154,346901
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,122r,1,Vulpes foveas habent et,Dom. de Passione,M,A,3.,005512,1,,1,66d,,,,,,,154,346902
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,122v,1,Eripe me de inimicis meis,Dom. de Passione,M,W,3.,008053,*,,,,,,,,,,154,346903
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,122v,2,Adjutor et susceptor meus tu,Dom. de Passione,M,R,3.1,006036,4,,,,,,,,,,154,346904
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,123r,1,Iniquos odio habui et legem,Dom. de Passione,M,V,01,006036b,4,,,,,,,,,,154,346905
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,123v,1,In proximo est tribulatio mea,Dom. de Passione,M,R,3.2,006931,7,,,,,,,,,,154,346906
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,124v,1,Erue a framea deus animam,Dom. de Passione,M,V,01,006931b,7,,,,,,,,,,154,346907
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,125r,1,In te jactatus sum ex ,Dom. de Passione,M,R,3.3,006941,2,,,,,,,,,,154,346908
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,125v,1,Salva me ex ore leonis ,Dom. de Passione,M,V,01,006941b,2,,,,,,,,,,154,346909
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,126r,1,Vide domine afflictionem meam,Dom. de Passione,L,A,1,005378,8,,1,118a,,,,,,,154,346910
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,126r,2,In tribulatione invocavi,Dom. de Passione,L,A,2,003297,7,,1,146a,,,,,,,155,346911
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,126v,1,Judicasti domine causam,Dom. de Passione,L,A,3,003518,7,,2,143b,,,,,,,155,346912
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,127r,1,Popule meus quid feci tibi,Dom. de Passione,L,A,4,004312,7,,2,143b,,,,,,,155,346913
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,127v,1,Numquid redditur pro bono,Dom. de Passione,L,A,5,003972,7,,2,143b,,,,,,,155,346914
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,127v,2,Lustra sex*,Dom. de Passione,L,H,,008367:06,*,,,,Lustra sex*,,,,,,155,346915
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,127v,3,Eripe me domine ab homine*,Dom. de Passione,L,W,,008054,*,,,,,,,,,,155,346916
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,127v,4,Quis ex vobis arguit me ,Dom. de Passione,L,A,B,004548,4,,1,19a,,,,,,,,346917
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",B,127v,5,Animae impiorum fremebant,Dom. de Passione,L,A,B,001419,8,,1,118a,,,,,,,155,346918
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,128v,1,Ego daemonium non habeo sed,Dom. de Passione,P,A,,002570,8,,2,99d,,,,,,,155,346919
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,129r,1,Ego gloriam meam non quaero,Dom. de Passione,T,A,,002575,8,,2,99d,,,,,,,155,346920
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,129r,2,Erue a framea deus animam,Dom. de Passione,T,R,,006671,2,,,,,,,,,,155,346921
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,129v,1,Salva me ex ore leonis ,Dom. de Passione,T,V,01,006671c,2,,,,,,,,,,155,346922
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,130r,1,Intende animae meae et*,Dom. de Passione,T,W,,008103,*,,,,,,,,,,155,346923
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,130r,2,Quinquaginta annos nondum,Dom. de Passione,S,A,,004541,8,,1,118a,,,,,,,155,346924
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,130v,1,De ore leonis libera me,Dom. de Passione,S,R,,006395,2,,,,,,,,,,155,346925
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,131r,1,Erue a framea deus animam,Dom. de Passione,S,V,01,006395a,2,,,,,,,,,,155,346926
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,131v,1,Ne perdas cum impiis deus*,Dom. de Passione,S,W,,008146,*,,,,,,,,,,155,346927
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,131v,2,Tulerunt lapides Judaei ut,Dom. de Passione,N,A,,005233,1,,1,66d,,,,,,,155,346928
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132r,1,Principes persecuti sunt me,Dom. de Passione,N,R,,007433,6,,,,,,,,,,155,346929
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132v,1,Quasi qui invenit spolia,Dom. de Passione,N,V,01,007433a,6,,,,,,,,,,155,346930
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132v,2,Eripe me de inimicis*,Dom. de Passione,N,W,,008053,*,,,,,,,,,,155,346931
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132v,3,Vide domine*,Dom. de Passione,V2,A,1,005378,*,,,,,,,,,,155,346932
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132v,4,In te jactatus*,Dom. de Passione,V2,R,,006941,*,,,,,,,,,,155,346933
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,132v,5,Abraham pater vester exsultavit ut,Dom. de Passione,V2,A,M,001210,2,,1a,152b,Abraham pater vester exsultavit ut videret diem meum vidit et gavisus est,,,,,,155,346934
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,133r,1,Adoremus dominum qui nos,Fer. 2 de Passione,M,I,,100016,6,,FE,,,,,,,,155,346935
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,133v,1,Pange lingua*,Fer. 2 de Passione,M,H,,008367,*,,,,,,,,,,155,346936
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,133v,2,Dominus defensor*,Fer. 2 de Passione,M,A,,002404,*,,,,,,,,,,155,346937
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,133v,3,Erue a framea*,Fer. 2 de Passione,M,W,,008058,*,,,,,,,,,,155,346938
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,133v,4,Ne avertas faciem tuam a,Fer. 2 de Passione,M,R,1,007203,2,,,,,,,,,,155,346939
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,134r,1,Intende animae meae et libera,Fer. 2 de Passione,M,V,01,007203b,2,,,,,,,,,,155,346940
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,134r,2,Ne perdas cum impiis deus,Fer. 2 de Passione,M,R,2,007207,2,,,,,,,,,,155,346941
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,135r,1,Eripe me domine ab homine,Fer. 2 de Passione,M,V,01,007207a,2,,,,,,,,,,155,346942
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,135r,2,Doceam iniquos vias tuas et,Fer. 2 de Passione,M,R,3,006480,8,,,,,,,,,,155,346943
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,135v,1,Domine labia mea aperies et,Fer. 2 de Passione,M,V,01,006480a,8,,,,,,,,,,155,346944
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136r,1,Miserere*,Fer. 2 de Passione,L,A,1,003773,*,,,,,,,,,,155,346945
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136r,2,Lustra sex*,Fer. 2 de Passione,L,H,,008367:06,*,,,,Lustra sex*,,,,,,155,346946
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136r,3,Eripe me domine ab*,Fer. 2 de Passione,L,W,,008054,*,,,,,,,,,,155,346947
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136r,4,In die magno festivitatis,Fer. 2 de Passione,L,A,B,003221,8,,1,118a,,,,,,,155,346948
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136v,1,Judicasti domine*,Fer. 2 de Passione,T,A,,003518,*,,,,,,,,,,156,346949
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136v,2,Popule meus*,Fer. 2 de Passione,S,A,,004312,*,,,,,,,,,,156,346950
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136v,3,Numquid redditur*,Fer. 2 de Passione,N,A,,003972,*,,,,,,,,,,156,346951
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136v,4,Inclinavit*,Fer. 2 de Passione,V2,A,1,003319,*,,,,,,,,,,156,346952
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,136v,5,Usquequo exaltabitur inimicus,Fer. 2 de Passione,V2,R,,007811,4,,,,,,,,,,156,346953
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,137r,1,Qui tribulant me exsultabunt,Fer. 2 de Passione,V2,V,01,007811a,4,,,,,,,,,,156,346954
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,137v,1,Vexilla regis*,Fer. 2 de Passione,V2,H,,008410,*,,,,,,,,,,156,346955
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,137v,2,Dederunt in escam*,Fer. 2 de Passione,V2,W,,008006,*,,,,,,,,,,156,346956
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,137v,3,Si quis sitit veniat et ,Fer. 2 de Passione,V2,A,M,004497.1,7,,2,143b,Si quis sitit veniat et bibat et de ventre ejus fluent aquae vivae,Si quis sitit veniat et bibat et de ventre eius fluent aque vive | ~Magnificat,,,,,156,346957
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,138r,1,Pacifice loquebantur mihi,Fer. 3 de Passione,M,R,1,007346,8,,,,,,,,,,156,346958
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,139r,2,Omnes inimici mei adversum me,Fer. 3 de Passione,M,V,01,007346a,8,,,,,,,,,,156,346959
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,139v,1,Vide quia tribulor velociter,Fer. 3 de Passione,M,R,2,007851,2T,,,,,,,,,,156,346960
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,140r,1,Libera me ab his qui ,Fer. 3 de Passione,M,V,01,007851a,2T,,,,,,,,,,156,346961
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,140v,1,Circumdederunt*,Fer. 3 de Passione,M,R,3,006287,*,,,,,,,,,,156,346962
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,140v,2,Tempus meum nondum advenit,Fer. 3 de Passione,L,A,B,005131,7,,2,143b,,,,,,,156,346963
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141r,1,Vos ascendite ad diem festum,Fer. 3 de Passione,V2,A,M,005493,1,,1,66d,,,,,,,156,346964
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141v,1,Adjutor et susceptor*,Fer. 4 de Passione,M,R,1,006036,*,,,,,,,,,,156,346965
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141v,2,In proximo est*,Fer. 4 de Passione,M,R,2,006931,*,,,,,,,,,,156,346966
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141v,3,In te jactatus sum*,Fer. 4 de Passione,M,R,3,006941,*,,,,,,,,,,156,346967
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141v,4,Oves meae vocem meam audient,Fer. 4 de Passione,L,A,B,004203,7,,2,143b,,,,,,,156,346968
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,141v,5,Multa bona opera operatus sum,Fer. 4 de Passione,V2,A,M,003827,7,,2,143b,,,,,,,156,346969
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142r,1,Isti sunt dies*,Fer. 5 de Passione,M,R,1,007013,*,,,,,,,,,,156,346970
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142r,2,In proximo est*,Fer. 5 de Passione,M,R,2,006931,*,,,,,,,,,,,346971
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142r,3,Multiplicati*,Fer. 5 de Passione,M,R,2,007187,*,,,,,,,,,,156,346972
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142r,4,Qui custodiebant*,Fer. 5 de Passione,M,R,3,007475,*,,,,,,,,,,156,346973
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142r,5,Magister dicit tempus meum,Fer. 5 de Passione,L,A,B,003657,7,,2,143b,,,,,,,156,346974
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,142v,1,Desiderio desideravi pascha,Fer. 5 de Passione,V2,A,M,002161,7,,2,143b,,,,,,,156,346975
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,1,Deus meus*,Fer. 6 de Passione,M,R,1,006428,*,,,,,,,,,,156,346976
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,2,Deus meus*,Fer. 6 de Passione,M,R,2,006427,*,,,,,,,,,,156,346977
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,3,Tota die contristatus*,Fer. 6 de Passione,M,R,3,007771,*,,,,,,,,,,156,346978
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,4,Quid molesti estis huic,Fer. 6 de Passione,L,A,B,004527,1,,1,66d,,,,,,,156,346979
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,5,Principes sacerdotum*,Fer. 6 de Passione,V2,A,M,004380,*,,,,,,,,,,157,346980
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,6,Adjutor et susceptor*,Sabb. de Passione,M,R,1,006036,*,,,,,,,,,,157,346981
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,7,In proximo est tribulatio*,Sabb. de Passione,M,R,2,006931,*,,,,,,,,,,157,346982
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,8,In te jactatus sum*,Sabb. de Passione,M,R,3,006941,*,,,,,,,,,,157,346983
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143r,9,Nemo tollet a me animam ,Sabb. de Passione,L,A,B,003874,3,,1,97a,,,,,,,157,346984
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143v,1,Benedictus*,Dom. in Palmis,V,A,1,001720,*,,,,,,,,,,157,346985
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143v,2,Circumdederunt me*,Dom. in Palmis,V,R,,006287,*,,,,,,,,,,157,346986
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143v,3,Vexilla regis*,Dom. in Palmis,V,H,,008410,*,,,,,,,,,,157,346987
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143v,4,Dederunt in escam*,Dom. in Palmis,V,W,,008006,*,,,,,,,,,,157,346988
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,143v,5,Clarifica me pater apud,Dom. in Palmis,V,A,M,001826,1,,1,66d,,,,,,,157,346989
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,144r,1,Ipsi vero non cognoverunt,Dom. in Palmis,M,I,,001092,4,,BL,,,,,,,,157,346990
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,144v,1,In die qua invocavi te ,Dom. in Palmis,M,R,1.1,006899,1,,,,,,,,,,157,346991
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,145r,1,In die tribulationis meae,Dom. in Palmis,M,V,01,006899b,1,,,,,,,,,,157,346992
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,145v,1,Fratres mei elongaverunt a me,Dom. in Palmis,M,R,1.2,006747,8,,,,,,,,,,157,346993
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,146r,1,Amici mei et proximi mei*,Dom. in Palmis,M,V,01,006747b,8,,,,,,,,,,157,346994
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,146r,2,Attende domine ad me et ,Dom. in Palmis,M,R,1.3,006137,7,,,,,,,,,,157,346995
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,147r,1,Homo pacis meae in quo,Dom. in Palmis,M,V,01,006137a,7,,,,,,,,,,157,346996
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,147v,1,Conclusit vias meas inimicus,Dom. in Palmis,M,R,2.1,006306,6,,,,,,,,,,157,346997
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,149r,1,Factus sum in derisum omni,Dom. in Palmis,M,V,01,006306a,6,,,,,,,,,,157,346998
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,149v,1,Salvum me fac deus quoniam,Dom. in Palmis,M,R,2.2,007566,8,,,,,,,,,,157,346999
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,150v,1,Intende animae meae et libera,Dom. in Palmis,M,V,01,007566a,8,,,,,,,,,,157,347000
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,150v,2,Noli esse mihi domine alienus,Dom. in Palmis,M,R,2.3,007219,8,,,,,,,,,,157,347001
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,151v,1,Confundantur omnes inimici,Dom. in Palmis,M,V,01,007219a,8,,,,,,,,,,157,347002
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,151v,2,Ingrediente domino in sanctam,Dom. in Palmis,M,R,3.1,006961,2,,,,,,,,,,157,347003
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,152v,1,Cum audisset populus quia,Dom. in Palmis,M,V,01,006961a,2,,,,,,,,,,157,347004
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,153r,1,Dominus mecum est tamquam,Dom. in Palmis,M,R,3.2,006521,7,,,,,,,,,,157,347005
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,154r,1,Et vim faciebant qui,Dom. in Palmis,M,V,01,006521a,7,,,,,,,,,,157,347006
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,154v,1,Circumdederunt me*,Dom. in Palmis,M,R,3.3,006287,*,,,,,,,,,,157,347007
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,154v,2,Dominus deus auxiliator meus et,Dom. in Palmis,L,A,1,002405,2,,1a,152b,Dominus deus auxiliator meus et ideo non sum confusus,,,,,,157,347008
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,155r,1,Circumdantes circumdederunt,Dom. in Palmis,L,A,2,001809,2,,1,152g,,,,,,,157,347009
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,155r,2,Judica causam meam defende,Dom. in Palmis,L,A,3,003515,8,,1,118a,,,,,,,157,347010
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,155v,1,Cum angelis et pueris fideles,Dom. in Palmis,L,A,4,001974,7,,2,143b,,,,,,,157,347011
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,156r,1,Confundantur qui me,Dom. in Palmis,L,A,5,001884,7,,2,143b,,,,,,,157,347012
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,156r,2,Lustra sex*,Dom. in Palmis,L,H,,008367:06,*,,,,Lustra sex*,,,,,,157,347013
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,156r,3,Eripe me domine ab homine,Dom. in Palmis,L,W,,008054,*,,,,,,,,,,157,347014
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,156r,4,Turba multa quae convenerat,Dom. in Palmis,L,A,B,005256,4,,3,15q,,,,,,,157,347015
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,156v,1,Occurrunt turbae cum floribus,Dom. in Palmis,P,A,,004107,8,,1,118a,,,,,,,157,347016
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,157v,1,Pueri Hebraeorum tollentes,Dom. in Palmis,T,A,,004415,1,,1,66d,,,,,,,157,347017
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",R,158r,1,Erue a framea*,Dom. in Palmis,T,R,,006671,*,,,,,,,,,,,347018
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,158r,2,Intende animae meae et libera,Dom. in Palmis,T,W,,008103,*,,,,,,,,,,157,347019
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,158r,3,Pueri Hebraeorum vestimenta,Dom. in Palmis,S,A,,004416,1,,1,66d,,,,,,,160,347020
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",L,158v,1,De ore leonis*,Dom. in Palmis,S,R,,006395,*,,,,,,,,,,,347021
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,158v,2,Ne perdas cum impiis deus,Dom. in Palmis,S,W,,008146,*,,,,,,,,,,160,347022
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,158v,3,Hosanna filio David,Dom. in Palmis,N,A,,003142,7,,1,146a,,,,,,,160,347023
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,159r,1,Eripe me de inimicis meis,Dom. in Palmis,N,W,,008053,*,,,,,,,,,,160,347024
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,159r,2,Dominus deus auxiliator*,Dom. in Palmis,V2,A,1,002405,*,,,,,,,,,,160,347025
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,159r,3,Vexilla regis*,Dom. in Palmis,V2,H,,008410,*,,,,,,,,,,160,347026
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,159r,4,Dederunt in escam meam fel,Dom. in Palmis,V2,W,,008006,*,,,,,,,,,,160,347027
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,159r,5,Coeperunt omnes turbae,Dom. in Palmis,V2,A,M,001840,1,,1,66d,,,,,,,160,347028
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,160r,1,Viri impii dixerunt,Fer. 2 Maj. Hebd.,M,R,1,007905,1,,,,,,,,,,160,347029
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,162r,1,Haec cogitaverunt et,Fer. 2 Maj. Hebd.,M,V,01,007905b,1,,,,,,,,,,160,347030
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,162v,1,Dixerunt impii apud se non,Fer. 2 Maj. Hebd.,M,R,2,006464,1,,,,,,,,,,160,347031
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,164r,1,Viri impii dixerunt,Fer. 2 Maj. Hebd.,M,V,01,006464a,1,,,,,,,,,,160,347032
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,164v,1,Insurrexerunt in me viri,Fer. 2 Maj. Hebd.,M,R,3,006973,3,,,,,,,,,,160,347033
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,165v,1,Et dederunt in escam meam ,Fer. 2 Maj. Hebd.,M,V,01,006973a,3,,,,,,,,,,160,347034
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,166r,1,Faciem meam non averti ab,Fer. 2 Maj. Hebd.,L,A,1,002833,7,,2,143b,,,,,,,160,347035
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,166v,1,Framea suscitare adversus eos,Fer. 2 Maj. Hebd.,L,A,2,002893,2,,1,152g,,,,,,,160,347036
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,167r,1,Appenderunt mercedem meam,Fer. 2 Maj. Hebd.,L,A,3,001463,4,,4,18a,,,,,,,160,347037
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,167r,2,Inundaverunt aquae super,Fer. 2 Maj. Hebd.,L,A,4,003394,8,,1,118a,,,,,,,160,347038
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,167v,1,Labia insurgentium et,Fer. 2 Maj. Hebd.,L,A,5,003556,8,,1,118a,,,,,,,160,347039
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",R,168r,1,Principes*,Fer. 2 Maj. Hebd.,L,R,,007433,*,,,,,,,,,,,347040
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168r,2,Non haberes in me potestatem,Fer. 2 Maj. Hebd.,L,A,B,003916,7,,2,143b,,,,,,,160,347041
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168r,3,Inclinavit*,Fer. 2 Maj. Hebd.,V2,A,1,003319,*,,,,,,,,,,160,347042
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168r,4,Vexilla regis*,Fer. 2 Maj. Hebd.,V2,H,,008410,*,,,,,,,,,,160,347043
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168r,5,Dederunt in escam meam fel,Fer. 2 Maj. Hebd.,V2,W,,008006,*,,,,,,,,,,160,347044
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168v,1,Mittens haec mulier in corpus,Fer. 2 Maj. Hebd.,V2,A,M,003799,1,,1,66d,,,,,,,160,347045
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168v,2,Erue a framea deus animam*,Fer. 3 Maj. Hebd.,M,W,,008058,*,,,,,,,,,,160,347046
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,168v,3,Deus Israel propter te,Fer. 3 Maj. Hebd.,M,R,1,006425,8,,,,,,,,,,161,347047
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,170r,1,Improperia improperantium,Fer. 3 Maj. Hebd.,M,V,01,006425b,8,,,,,,,,,,161,347048
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,170r,2,Contumelias et terrores,Fer. 3 Maj. Hebd.,M,R,2,006335,7,,,,,,,,,,161,347049
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,172r,1,Omnes inimici mei adversum me,Fer. 3 Maj. Hebd.,M,V,01,006335a,7,,,,,,,,,,161,347050
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,172v,1,Vide quia tribulor*,Fer. 3 Maj. Hebd.,M,R,3,007851,*,,,,,,,,,,161,347051
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,172v,2,Deus meus eripe me de*,Fer. 3 Maj. Hebd.,M,W,,008010,*,,,,,,,,,,161,347052
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,172v,3,Vide domine et considera,Fer. 3 Maj. Hebd.,L,A,1,005379,7,,1,146a,,,,,,,161,347053
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,173r,1,Discerne causam meam domine,Fer. 3 Maj. Hebd.,L,A,2,002252,7,,1,146a,,,,,,,161,347054
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,173v,1,Dum tribularer clamavi ad,Fer. 3 Maj. Hebd.,L,A,3,002474,7,,2,143b,,,,,,,161,347055
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,173v,2,Domine vim patior responde,Fer. 3 Maj. Hebd.,L,A,4,002395,3,,1,97a,,,,,,,161,347056
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,174r,1,Dixerunt impii opprimamus,Fer. 3 Maj. Hebd.,L,A,5,002263,8,,1,118a,,,,,,,161,347057
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",L,174v,1,Principes*,Fer. 3 Maj. Hebd.,L,R,,007433,*,,,,,,,,,,,347058
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,174v,2,Potestatem habeo ponendi,Fer. 3 Maj. Hebd.,L,A,B,004349,7,,2,143b,,,,,,,161,347059
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,175r,1,Consilium fecerunt inimici,Fer. 3 Maj. Hebd.,V2,A,M,001894,1,,1,66d,,,,,,,161,347060
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,175r,2,Erue a framea deus animam,Fer. 4 Maj. Hebd.,M,W,,008058,*,,,,,,,,,,161,347061
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,175r,3,Synagoge populorum,Fer. 4 Maj. Hebd.,M,R,1,007747,2,,,,,,,,,,161,347062
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,176r,1,Tu autem domine susceptor,Fer. 4 Maj. Hebd.,M,V,01,007747zb,2,,,,,,,,,,161,347063
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,176v,1,Dominus mecum est*,Fer. 4 Maj. Hebd.,M,R,2,006521,*,,,,,,,,,,161,347064
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,176v,2,Circumdederunt me viri*,Fer. 4 Maj. Hebd.,M,R,3,006287,*,,,,,,,,,,161,347065
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,176v,3,Deus meus eripe me*,Fer. 4 Maj. Hebd.,M,W,,008010,*,,,,,,,,,,161,347066
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,176v,4,Libera me de sanguinibus deus,Fer. 4 Maj. Hebd.,L,A,1,003616,8,,1,118a,,,,,,,161,347067
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,177r,1,Contumelias et terrores,Fer. 4 Maj. Hebd.,L,A,2,001913,8,,2,99d,,,,,,,161,347068
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,177v,1,Ipsi vero in vanum,Fer. 4 Maj. Hebd.,L,A,3,003408,7,,2,143b,,,,,,,161,347069
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,177v,2,Omnes amici mei audierunt,Fer. 4 Maj. Hebd.,L,A,4,004126,7,,2,143b,,,,,,,161,347070
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,178r,1,Alliga domine in vinculis,Fer. 4 Maj. Hebd.,L,A,5,001355,1,,1,66d,,,,,,,161,347071
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,178v,1,Simon dormis non potuisti una,Fer. 4 Maj. Hebd.,L,A,B,004959,8,,1,118a,,,,,,,161,347072
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179r,1,Vexilla regis*,Fer. 4 Maj. Hebd.,L,H,,008410,*,,,,,,,,,,161,347073
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,179r,2,Circumdederunt*,Fer. 4 Maj. Hebd.,L,R,,006287,*,,,,,,,,,,161,347074
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179r,3,Dederunt in escam*,Fer. 4 Maj. Hebd.,L,W,,008006,*,,,,,,,,,,161,347075
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179r,4,Cottidie apud vos eram in,Fer. 4 Maj. Hebd.,V2,A,M,004570,2,,1,152g,,,,,,,162,347076
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179v,1,Miserere*,Fer. 5 in Cena Dom.,C,A,,203130,*,,,,,,,,,,162,347077
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179v,2,In manus*,Fer. 5 in Cena Dom.,C,R,,601142,*,,,,,,,,,,162,347078
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179v,3,Christe qui lux*,Fer. 5 in Cena Dom.,C,H,,830070,*,,,,,,,,,,162,347079
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,179v,4,Vigilate et orate*,Fer. 5 in Cena Dom.,C,A,N,005419,*,,,,,,,,,,162,347080
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,180r,1,Zelus domus tuae comedit me,Fer. 5 in Cena Dom.,M,A,1.1,005516,8,,2,99d,,,,,,,162,347081
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,180r,2,Avertantur retrorsum et,Fer. 5 in Cena Dom.,M,A,1.2,001547,8,,2,99d,,,,,,,162,347082
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,180v,1,Deus meus eripe me de ,Fer. 5 in Cena Dom.,M,A,1.3,002174,8,,2,99d,,,,,,,162,347083
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,180v,2,Exsurge domine,Fer. 5 in Cena Dom.,M,W,1.,008071,r,,,,,,,,,,162,347084
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,181r,1,In monte Oliveti oravi ad,Fer. 5 in Cena Dom.,M,R,1.1,006916,8,,,,,,,,,,162,347085
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,182r,1,Verumtamen non sicut ego volo,Fer. 5 in Cena Dom.,M,V,01,006916a,8,,,,,,,,,,162,347086
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,182r,2,Tristis est anima mea usque,Fer. 5 in Cena Dom.,M,R,1.2,007780,8,,,,,,,,,,162,347087
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,183r,1,Vigilate et orate dicit,Fer. 5 in Cena Dom.,M,V,01,007780a,8,,,,,,,,,,162,347088
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,183v,1,Ecce vidimus eum non habentem,Fer. 5 in Cena Dom.,M,R,1.3,006618,6,,,,,,,,,,162,347089
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,185r,1,Vere languores nostros ipse,Fer. 5 in Cena Dom.,M,V,01,006618a,6,,,,,,,,,,162,347090
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,185r,2,Liberavit dominus pauperem a,Fer. 5 in Cena Dom.,M,A,2.1,003624,7,,1,146a,,,,,,,162,347091
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,185v,1,Cogitaverunt impii et locuti,Fer. 5 in Cena Dom.,M,A,2.2,001844,8,,2,99d,,,,,,,162,347092
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,186r,1,Exsurge domine et judica,Fer. 5 in Cena Dom.,M,A,2.3,002823,1,,1,66d,,,,,,,162,347093
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,186v,1,Deus meus eripe me de ,Fer. 5 in Cena Dom.,M,W,2.,008010,r,,,,,,,,,,162,347094
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,186v,2,Amicus meus osculi me,Fer. 5 in Cena Dom.,M,R,2.1,006083,8,,,,,,,,,,162,347095
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,187v,1,Melius illi fuerat si natus,Fer. 5 in Cena Dom.,M,V,01,006083a,8,,,,,,,,,,162,347096
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,188r,1,Eram quasi agnus innocens,Fer. 5 in Cena Dom.,M,R,2.2,006660,7,,,,,,,,,,162,347097
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,189v,1,Homo pacis meae in quo,Fer. 5 in Cena Dom.,M,V,01,006660zb,7,,,,,,,,,,162,347098
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,189v,2,Una hora non potuistis,Fer. 5 in Cena Dom.,M,R,2.3,007807,7,,,,,,,,,,162,347099
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,190v,1,Dormite jam et requiescite,Fer. 5 in Cena Dom.,M,V,01,007807a,7,,,,,,,,,,162,347100
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,191r,1,Dixi iniquis nolite loqui,Fer. 5 in Cena Dom.,M,A,3.1,002265,7,,1,146a,,,,,,,162,347101
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,191v,1,Terra tremuit et quievit dum,Fer. 5 in Cena Dom.,M,A,3.2,005139,8,,2,99d,,,,,,,162,347102
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,191v,2,In die tribulationis meae,Fer. 5 in Cena Dom.,M,A,3.3,003223,7,,2,143b,,,,,,,162,347103
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,192r,1,Homo pacis meae in quo,Fer. 5 in Cena Dom.,M,W,3.,008090,r,,,,,,,,,,162,347104
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,192r,2,Seniores populi consilium,Fer. 5 in Cena Dom.,M,R,3.1,007636,1,,,,,,,,,,163,347105
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,193r,1,Congregaverunt iniquitatem,Fer. 5 in Cena Dom.,M,V,01,007636a,1,,,,,,,,,,163,347106
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,193r,2,Revelabunt caeli iniquitatem,Fer. 5 in Cena Dom.,M,R,3.2,007543,1,,,,,,,,,,163,347107
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,194v,1,In die perditionis servabitur,Fer. 5 in Cena Dom.,M,V,01,007543b,1,,,,,,,,,,163,347108
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,194v,2,O Juda qui dereliquisti,Fer. 5 in Cena Dom.,M,R,3.3,007272,7,,,,,,,,,,163,347109
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,195v,1,Os tuum abundavit malitia et,Fer. 5 in Cena Dom.,M,V,01,007272c,7,,,,,,,,,,163,347110
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,196r,1,Justificeris domine in,Fer. 5 in Cena Dom.,L,A,1,003537,8,,1,118a,,,,,,,163,347111
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,196v,1,Dominus tamquam ovis ad,Fer. 5 in Cena Dom.,L,A,2,002422,2,,1,152g,,,,,,,163,347112
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,196v,2,Contritum est cor meum in,Fer. 5 in Cena Dom.,L,A,3,001912,8,,1,118a,,,,,,,163,347113
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,197r,1,Exhortatus es in virtute tua,Fer. 5 in Cena Dom.,L,A,4,002784,7,,2,143b,,,,,,,163,347114
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,197v,1,Oblatus est quia ipse voluit,Fer. 5 in Cena Dom.,L,A,5,004097,2,,1,152g,,,,,,,163,347115
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,197v,2,Traditor autem dedit eis,Fer. 5 in Cena Dom.,L,A,B,005169,1,,1,66d,,,,,,,163,347116
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,198r,1,Kyrie eleison*,Fer. 5 in Cena Dom.,X,,,909040,,,,,,,,,,,163,347117
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,198v,1,Qui passurus advenisti,Fer. 5 in Cena Dom.,X,,1,008446,,,,,,,,,,,163,347118
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,198v,2,Domine miserere*,Fer. 5 in Cena Dom.,X,,,850185,,,,,,,,,,,163,347119
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,198v,3,Christus dominus factus est,Fer. 5 in Cena Dom.,X,,2,008443,,,,,,,,,,,163,347120
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,199r,1,Kyrie eleison*,Fer. 5 in Cena Dom.,X,,,909040,,,,,,,,,,,163,347121
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,199r,2,Qui expansis in cruce manibus,Fer. 5 in Cena Dom.,X,,3,008444,,,,,,,,,,,163,347122
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,199v,1,Kyrie eleison*,Fer. 5 in Cena Dom.,X,,,909040,,,,,,,,,,,163,347123
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,199v,2,Qui prophetice prompsisti ero,Fer. 5 in Cena Dom.,X,,4,008447,,,,,,,,,,,163,347124
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203r,1,Mortem autem crucis,Fer. 5 in Cena Dom.,X,W,,800284,r,,,,,,,,,,163,347125
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203r,2,In monte Oliveti*,Fer. 5 in Cena Dom.,P,R,,006916,*,,,,,,,,,,163,347126
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203r,3,Diviserunt sibi*,Fer. 5 in Cena Dom.,P,W,,008020,*,,,,,,,,,,164,347127
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,1,Tristis est anima mea*,Fer. 5 in Cena Dom.,T,R,,007780,*,,,,,,,,,,164,347128
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,2,Exsurge domine*,Fer. 5 in Cena Dom.,T,W,,008071,*,,,,,,,,,,164,347129
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,3,Ecce vidimus*,Fer. 5 in Cena Dom.,S,R,,006618,*,,,,,,,,,,164,347130
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,4,Deus meus eripe me*,Fer. 5 in Cena Dom.,S,W,,008010,*,,,,,,,,,,164,347131
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,5,Amicus meus*,Fer. 5 in Cena Dom.,N,R,,006083,*,,,,,,,,,,164,347132
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,6,Homo pacis*,Fer. 5 in Cena Dom.,N,W,,008090,*,,,,,,,,,,164,347133
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,203v,7,Christus factus est pro*,In Triduum,D,A,,001792,*,,,,,,,,,,164,347134
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,203v,8,Christus factus est pro nobis,In Triduum,D,A,,001792,6,,2,10d,,,,,,,164,347135
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,203v,9,Deus in nomine suo salvum me,In Triduum,D,W,,800096,r,,,,,,,,,,,347136
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,204r,1,Calicem salutaris accipiam et,Fer. 5 in Cena Dom.,V2,A,1,001754,2,,1,152g,,,,,,,164,347137
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,204r,2,Cum his qui oderunt pacem,Fer. 5 in Cena Dom.,V2,A,2,002008,8,,1,118a,,,,,,,164,347138
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,204v,1,Ab hominibus iniquis libera,Fer. 5 in Cena Dom.,V2,A,3,001199,8,,1,118a,,,,,,,164,347139
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,205r,1,Custodi me a laqueo quem,Fer. 5 in Cena Dom.,V2,A,4,002082,7,,2,143b,,,,,,,164,347140
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,205r,2,Considerabam ad dexteram et,Fer. 5 in Cena Dom.,V2,A,5,001891,7,,2,143b,,,,,,,164,347141
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,205v,1,Cenantibus autem accepit,Fer. 5 in Cena Dom.,V2,A,M,001781,1,,1,66d,,,,,,,164,347142
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,206r,1,Astiterunt reges terrae et,Fer. 6 in Parasceve,M,A,1.1,001506,8,,1,118a,,,,,,,166,347143
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,206v,1,Diviserunt sibi vestimenta,Fer. 6 in Parasceve,M,A,1.2,002260,8,,1,118a,,,,,,,166,347144
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,207r,1,Insurrexerunt in me testes,Fer. 6 in Parasceve,M,A,1.3,003358,8,,1,118a,,,,,,,166,347145
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,207r,2,Diviserunt sibi vestimenta,Fer. 6 in Parasceve,M,W,1.,008020,*,,,,,,,,,,166,347146
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,207v,1,Omnes amici mei dereliquerunt,Fer. 6 in Parasceve,M,R,1.1,007313,3,,,,,,,,,,166,347147
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,208r,1,Et dederunt in escam meam ,Fer. 6 in Parasceve,M,V,01,007313a,3,,,,,,,,,,166,347148
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,208v,1,Vinea mea electa ego te,Fer. 6 in Parasceve,M,R,1.2,007887,8,,,,,,,,,,166,347149
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,209v,1,Ego quidem plantavi te vinea,Fer. 6 in Parasceve,M,V,01,007887a,8,,,,,,,,,,166,347150
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,209v,2,Tamquam ad latronem existis,Fer. 6 in Parasceve,M,R,1.3,007748,8,,,,,,,,,,166,347151
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,210v,1,Filius quidem hominis vadit,Fer. 6 in Parasceve,M,V,01,007748a,8,,,,,,,,,,166,347152
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,211r,1,Vim faciebant qui quaerebant,Fer. 6 in Parasceve,M,A,2.1,005423,8,,1,118a,,,,,,,166,347153
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,211v,1,Confundantur et revereantur,Fer. 6 in Parasceve,M,A,2.2,001883,7,,2,143b,,,,,,,166,347154
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,211v,2,Alieni insurrexerunt in me et,Fer. 6 in Parasceve,M,A,2.3,001321,7,,2,143b,,,,,,,166,347155
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,212r,1,Insurrexerunt in me testes,Fer. 6 in Parasceve,M,W,2.,008102,*,,,,,,,,,,166,347156
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,212r,2,Barabbas latro dimittitur et,Fer. 6 in Parasceve,M,R,2.1,006159,2,,,,,,,,,,166,347157
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,213r,1,Ecce turba et qui vocabatur,Fer. 6 in Parasceve,M,V,01,006159a,2,,,,,,,,,,166,347158
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,213v,1,Tradiderunt me in manus,Fer. 6 in Parasceve,M,R,2.2,007773,6T,,,,,,,,,,166,347159
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,214v,1,Astiterunt reges terrae et,Fer. 6 in Parasceve,M,V,01,007773a,6T,,,,,,,,,,166,347160
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,214v,2,Jesum tradidit impius summis,Fer. 6 in Parasceve,M,R,2.3,007035,8,,,,,,,,,,166,347161
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,215v,1,Et ingressus est Petrus in,Fer. 6 in Parasceve,M,V,01,007035a,8,,,,,,,,,,166,347162
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,216r,1,Ab insurgentibus in me libera,Fer. 6 in Parasceve,M,A,3.1,001201,1,,1,66d,,,,,,,166,347163
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,216r,2,Longe fecisti notos meos a ,Fer. 6 in Parasceve,M,A,3.2,003632,8,,1,118a,,,,,,,166,347164
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,216v,1,Captabunt in animam justi et,Fer. 6 in Parasceve,M,A,3.3,001767,8,,1,118a,,,,,,,166,347165
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,217r,1,Ab insurgentibus in me libera,Fer. 6 in Parasceve,M,W,3.,007927,*,,,,,,,,,,166,347166
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,217r,2,Caligaverunt oculi mei cum,Fer. 6 in Parasceve,M,R,3.1,006261,5,,,,,,,,,,166,347167
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,217v,1,O vos omnes qui transitis ,Fer. 6 in Parasceve,M,V,01,006261a,5,,,,,,,,,,166,347168
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,218r,1,Velum templi scissum est et,Fer. 6 in Parasceve,M,R,3.2,007821,2,,,,,,,,,,166,347169
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,218v,1,Amen dico tibi hodie mecum,Fer. 6 in Parasceve,M,V,01,007821a,2,,,,,,,,,,166,347170
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,219r,1,Tenebrae factae sunt dum,Fer. 6 in Parasceve,M,R,3.3,007760,7,,,,,,,,,,166,347171
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,220v,1,Cum ergo accepisset acetum,Fer. 6 in Parasceve,M,V,01,007760b,7,,,,,,,,,,166,347172
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,221r,1,Proprio filio suo non,Fer. 6 in Parasceve,L,A,1,004395,5,,1,129a,,,,,,,166,347173
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,221v,1,Anxiatus est in me spiritus,Fer. 6 in Parasceve,L,A,2,001442,4,,1,19a,,,,,,,166,347174
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,221v,2,Ait latro ad latronem nos,Fer. 6 in Parasceve,L,A,3,001316,1,,1,66d,,,,,,,166,347175
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,222r,1,Dum conturbata fuerit anima,Fer. 6 in Parasceve,L,A,4,002444,1,,1,66d,,,,,,,166,347176
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,222v,1,Memento mei domine deus dum,Fer. 6 in Parasceve,L,A,5,003736,8,,1,118a,,,,,,,166,347177
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223r,1,Posuerunt super caput ejus,Fer. 6 in Parasceve,L,A,B,004343,1,,1,66d,,,,,,,166,347178
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223r,2,Omnes amici*,Fer. 6 in Parasceve,P,R,,007313,*,,,,,,,,,,166,347179
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223r,3,Diviserunt sibi*,Fer. 6 in Parasceve,P,W,,008020,*,,,,,,,,,,166,347180
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,1,Vinea mea*,Fer. 6 in Parasceve,T,R,,007887,*,,,,,,,,,,167,347181
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,2,Tamquam ad latronem*,Fer. 6 in Parasceve,S,R,,007748,*,,,,,,,,,,167,347182
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,3,Insurrexerunt in me*,Fer. 6 in Parasceve,S,W,,008102,*,,,,,,,,,,167,347183
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,4,Barabbas latro*,Fer. 6 in Parasceve,N,R,,006159,*,,,,,,,,,,167,347184
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,5,Ab insurgentibus in me*,Fer. 6 in Parasceve,N,W,,007927,*,,,,,,,,,,167,347185
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,6,Calicem salutaris*,Fer. 6 in Parasceve,V2,A,1,001754,*,,,,,,,,,,170,347186
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,223v,7,Cum accepisset acetum dixit,Fer. 6 in Parasceve,V2,A,M,001970,1,,1,66d,,,,,,,170,347187
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,224r,1,In pace in idipsum dormiam ,Sabbato Sancto,M,A,1.1,003265,8,,1,118a,,,,,,,170,347188
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,224r,2,Habitabit in tabernaculo tuo,Sabbato Sancto,M,A,1.2,002987,4,,1,19a,,,,,,,170,347189
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,224v,1,Caro mea requiescet in spe,Sabbato Sancto,M,A,1.3,001775,5,,1,129a,,,,,,,170,347190
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,224v,2,In pace in idipsum,Sabbato Sancto,M,W,1.,008099,r,,,,,,,,,,170,347191
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,225r,1,Sepulto domino signatum est,Sabbato Sancto,M,R,1.1,007640,2,,,,,,,,,,170,347192
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,225v,1,Ne forte veniant discipuli,Sabbato Sancto,M,V,01,007640a,2,,,,,,,,,,170,347193
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,226r,1,Jerusalem luge et exue te,Sabbato Sancto,M,R,1.2,007032,5,,,,,,,,,,170,347194
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,226v,1,Deduc quasi torrentem,Sabbato Sancto,M,V,01,007032a,5,,,,,,,,,,170,347195
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,227r,1,Plange quasi virgo plebs mea,Sabbato Sancto,M,R,1.3,007387,5,,,,,,,,,,170,347196
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,228r,1,Ululate pastores et clamate,Sabbato Sancto,M,V,01,007387a,5,,,,,,,,,,170,347197
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,228r,2,Elevamini portae aeternales,Sabbato Sancto,M,A,2.1,002631,5,,1,129a,,,,,,,170,347198
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,228v,1,Credo videre bona domini in,Sabbato Sancto,M,A,2.2,001948,4,,1,19a,,,,,,,170,347199
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,228v,2,Domine abstraxisti ab inferis,Sabbato Sancto,M,A,2.3,002325,8,,1,118a,,,,,,,170,347200
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,229r,1,Caro mea requiescet in spe,Sabbato Sancto,M,W,2.,007982,r,,,,,,,,,,170,347201
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,229r,2,Recessit pastor noster fons,Sabbato Sancto,M,R,2.1,007509,8,,,,,,,,,,170,347202
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,230v,1,Ante cujus conspectum mors,Sabbato Sancto,M,V,01,007509a,8,,,,,,,,,,170,347203
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,231r,1,O vos omnes qui transitis ,Sabbato Sancto,M,R,2.2,007303,8,,,,,,,,,,170,347204
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,231v,1,Attendite universi populi et,Sabbato Sancto,M,V,01,007303a,8,,,,,,,,,,170,347205
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,231v,2,Ecce quomodo moritur justus,Sabbato Sancto,M,R,2.3,006605,4,,,,,,,,,,170,347206
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,232v,3,In pace factus est locus ,Sabbato Sancto,M,V,01,006605a,4,,,,,,,,,,170,347207
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,233r,1,Deus adjuvat me et dominus,Sabbato Sancto,M,A,3.1,002165,8,,1,118a,,,,,,,170,347208
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,233r,2,In pace factus est locus ,Sabbato Sancto,M,A,3.2,003264,7,,2,143b,,,,,,,170,347209
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,233v,1,Factus sum sicut homo sine,Sabbato Sancto,M,A,3.3,002849,7,,2,143b,,,,,,,170,347210
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,234r,1,In pace factus est locus ,Sabbato Sancto,M,W,3.,008098,r,,,,,,,,,,170,347211
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,234r,2,Aestimatus sum cum,Sabbato Sancto,M,R,3.1,006057,4,,,,,,,,,,170,347212
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,234v,1,Posuerunt me in lacu,Sabbato Sancto,M,V,01,006057b,4,,,,,,,,,,170,347213
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,235r,1,Agnus dei Christus immolatus,Sabbato Sancto,M,R,3.2,006065,2,,,,,,,,,,170,347214
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,236r,1,Christus factus est pro nobis,Sabbato Sancto,M,V,01,006065a,2,,,,,,,,,,170,347215
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,236v,1,Sicut ovis ad occisionem,Sabbato Sancto,M,R,3.3,007661,4,,,,,,,,,,170,347216
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,237v,1,In pace factus est locus ,Sabbato Sancto,M,V,01,007661a,4,,,,,,,,,,170,347217
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,237v,2,O mors ero mors tua ,Sabbato Sancto,L,A,1,004045,7,,2,143b,,,,,,,170,347218
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,238r,1,Plangent eum quasi unigenitum,Sabbato Sancto,L,A,2,004295,7,,2,143b,,,,,,,170,347219
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,238v,1,Attendite universi populi et,Sabbato Sancto,L,A,3,001512,7,,2,143b,,,,,,,170,347220
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,238v,2,A porta inferi erue domine,Sabbato Sancto,L,A,4,001191,2,,1,152g,,,,,,,170,347221
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239r,1,O vos omnes qui transitis ,Sabbato Sancto,L,A,5,004095,8,,2,99d,,,,,,,170,347222
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,1,Mulieres sedentes ad,Sabbato Sancto,L,A,B,003826,1,,1,66d,,,,,,,170,347223
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,2,Sepulto domino*,Sabbato Sancto,P,R,,007640,*,,,,,,,,,,170,347224
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,3,Diviserunt sibi*,Sabbato Sancto,P,W,,008020,*,,,,,,,,,,170,347225
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,4,Jerusalem luge*,Sabbato Sancto,T,R,,007032,*,,,,,,,,,,170,347226
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,5,In pace in idipsum*,Sabbato Sancto,T,W,,008099,*,,,,,,,,,,170,347227
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,6,Plange quasi*,Sabbato Sancto,S,R,,007387,*,,,,,,,,,,170,347228
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,7,Caro mea requiescet*,Sabbato Sancto,S,W,,007982,*,,,,,,,,,,171,347229
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,8,O vos omnes*,Sabbato Sancto,N,R,,007303,*,,,,,,,,,,171,347230
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,239v,9,In pace factus est locus*,Sabbato Sancto,N,W,,008098,*,,,,,,,,,,171,347231
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,240r,1,Alleluia iv,Dom. Resurrectionis,V,A,1,001329,7,,1,146a,,,,,,,172,347232
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,240r,2,Vespere autem sabbati quae,Dom. Resurrectionis,V,A,M,005371,8,,1,118a,,,,,,,172,347233
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,240v,1,Alleluia*,Dom. Resurrectionis,C,A,N,,?,,*,,Alleluia*,,,,,,173,347234
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,240v,2,Alleluia surrexit dominus,Dom. Resurrectionis,M,I,,001035,5,,5,,,,,,,,173,347235
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,241r,1,Ego sum qui sum et ,Dom. Resurrectionis,M,A,1.1,002599,2,,1,152g,,,,,,,173,347236
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,241v,1,Postulavi patrem meum,Dom. Resurrectionis,M,A,1.2,004342,1,,1,66d,,,,,,,173,347237
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,242r,1,Ego dormivi et somnum coepi,Dom. Resurrectionis,M,A,1.3,002572,8,,2,99d,,,,,,,173,347238
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,242v,1,Resurrexit dominus,Dom. Resurrectionis,M,W,1.,008185,*,,,,,,,,,,173,347239
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,242v,2,Angelus domini descendit de,Dom. Resurrectionis,M,R,1.1,006093,3,,,,,,,,,,173,347240
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,244r,1,Angelus domini locutus est,Dom. Resurrectionis,M,V,01,006093a,3,,,,,,,,,,173,347241
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,244v,1,Angelus domini locutus est,Dom. Resurrectionis,M,R,1.2,006095,5,,,,,,,,,,173,347242
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,245r,1,Ecce praecedet vos in,Dom. Resurrectionis,M,V,01,006095a,5,,,,,,,,,,173,347243
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,245v,1,Dum transisset sabbatum Maria,Dom. Resurrectionis,M,R,1.3,006565,4,,,,,,,,,,173,347244
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,246v,1,Et valde mane una sabbatorum,Dom. Resurrectionis,M,V,01,006565a,4,,,,,,,,,,173,347245
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,246v,2,Te deum*,Dom. Resurrectionis,M,,,909010,,,,,,,,,,,,347246
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,246v,3,In resurrectione tua Christe*,Dom. Resurrectionis,M,W,,008100,*,,,,,,,,,,173,347247
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,246v,4,Angelus autem domini,Dom. Resurrectionis,L,A,1,001408,8,,1,118a,,,,,,,173,347248
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,247r,1,Et ecce terraemotus factus,Dom. Resurrectionis,L,A,2,002699,7,,1,146a,,,,,,,173,347249
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,247v,1,Erat autem aspectus ejus,Dom. Resurrectionis,L,A,3,002647,8,,2,99d,,,,,,,173,347250
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,248r,1,Prae timore autem ejus,Dom. Resurrectionis,L,A,4,004350,7,,2,143b,,,,,,,173,347251
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,248v,1,Respondens autem angelus,Dom. Resurrectionis,L,A,5,004630,8,,1,118a,,,,,,,173,347252
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,249r,1,Et valde mane una sabbatorum,Dom. Resurrectionis,L,A,B,002728,8,,1,118a,,,,,,,173,347253
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,249r,2,Alleluia,"Dom. Resurrect.,8",D,A,,,?,,?,,Alleluia,,,,,,173,347254
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,249v,1,Haec est dies quam fecit,"Dom. Resurrect.,8",D,Gr,,008414,,,,,,,,,,,173,347255
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,250r,1,Kyrie eleison Christe eleison,"Dom. Resurrect.,8",V,,,909040,,,,,,,,,,,173,347256
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,250v,1,Alleluia iv,Dom. Resurrectionis,V2,A,,001329,7,,1,146a,,,,,,,173,347257
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,250v,2,Haec est dies*,"Dom. Resurrect.,8",V2,Gr,,008414,,,,,,,,,,,173,347258
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,251r,1,Confitemini domino quoniam,"Dom. Resurrect.,8",V2,GrV,01,008414a,,,,,,,,,,,174,347259
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,251v,1,Alleluia Epulemur in azymis,"Dom. Resurrect.,8",V2,Al,,507006,,,,,,,,,,,174,347260
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,252r,1,Victimae paschali laudes,"Dom. Resurrect.,8",V2,Sq,,ah54007,,,,,Victimae paschali laudes,,,,,,174,347261
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,254r,1,Et respicientes viderunt,Dom. Resurrectionis,V2,A,M,002718,3,,1,97a,,,,,,,174,347262
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,254v,1,Surrexit dominus vere,Fer. 2 p. Pascha,M,I,,001166,6,,PA,,,,,,,,175,347263
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,254v,2,Alleluia,Fer. 2 p. Pascha,M,A,1.,001326,4,,1,19a,,,,,,,175,347264
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,255r,1,Resurrexit dominus,Fer. 2 p. Pascha,M,W,1.,008185,*,,,,,,,,,,175,347265
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,255r,2,Maria Magdalena et altera,Fer. 2 p. Pascha,M,R,1,007128,8,,,,,,,,,,175,347266
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,256r,1,Cito euntes dicite discipulis,Fer. 2 p. Pascha,M,V,01,007128a,8,,,,,,,,,,175,347267
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,256v,1,Congratulamini mihi omnes qui,Fer. 2 p. Pascha,M,R,2,006323,3,,,,,,,,,,175,347268
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,257r,1,Tulerunt dominum meum et,Fer. 2 p. Pascha,M,V,01,006323a,3,,,,,,,,,,175,347269
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,257v,1,Tulerunt dominum meum et,Fer. 2 p. Pascha,M,R,3,007797,8,,,,,,,,,,175,347270
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,258v,1,Cito euntes dicite discipulis,Fer. 2 p. Pascha,M,V,01,007797a,8,,,,,,,,,,175,347271
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259r,1,Gloria patri et filio et,Fer. 2 p. Pascha,M,V,02,909000,8,,,,,,,,,,,347272
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259r,2,In resurrectione tua Christe,Fer. 2 p. Pascha,M,W,,008100,*,,,,,,,,,,175,347273
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259r,3,Te deum laudamus*,Fer. 2 p. Pascha,M,,,909010,*,,,,,,,,,,175,347274
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259r,4,Alleluia iii,Fer. 2 p. Pascha,L,A,1,001328,6,,1,7a,,,,,,,175,347275
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259v,1,Qui sunt hi sermones quos,Fer. 2 p. Pascha,L,A,B,004499,8,,1,118a,,,,,,,175,347276
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,259v,2,Qui sunt hi sermones quos,Fer. 2 p. Pascha,L,A,B,004500,8,,1,118a,,,,,,,175,347277
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,260r,1,Kyrie eleison*,Fer. 2 p. Pascha,V2,,,909040,*,,,,,,,,,,173,347278
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,260r,2,Haec est dies quam fecit*,Fer. 2 p. Pascha,V2,Gr,,008414,*,,,,,,,,,,173,347279
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,261r,1,Dicat nunc Israel quoniam,Fer. 2 p. Pascha,V2,GrV,01,008414b,,,,,,,,,,,175,347280
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,262r,1,Nonne cor nostrum ardens erat,Fer. 2 p. Pascha,V2,,,850256,,,,,,,,,,,175,347281
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,262r,2,Victimae*,Fer. 2 p. Pascha,V2,Sq,,ah54007,,,,,Victimae*,,,,,,175,347282
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,262v,1,Tu solus peregrinus es et ,Fer. 2 p. Pascha,V2,A,M,005222,1,,1,66d,,,,,,,175,347283
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,263r,1,Resurrexit dominus,Fer. 2 p. Pascha,M,W,1.,008185,*,,,,,,,,,,175,347284
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,263r,2,Virtute magna reddebant,Fer. 3 p. Pascha,M,R,1,007907,3,,,,,,,,,,175,347285
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,263v,1,Repleti quidem spiritu sancto,Fer. 3 p. Pascha,M,V,01,007907b,3,,,,,,,,,,175,347286
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,264r,1,Surgens Jesus dominus noster,Fer. 3 p. Pascha,M,R,2,007734,7,,,,,,,,,,175,347287
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,265r,1,Surrexit dominus de sepulcro,Fer. 3 p. Pascha,M,V,01,007734a,7,,,,,,,,,,175,347288
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,265r,2,Expurgate vetus fermentum ut,Fer. 3 p. Pascha,M,R,3,006699,?,,,,,,,,,,175,347289
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,266v,99,LACUNA,LACUNA,,,,,,,,,LACUNA,,,,,,,347290
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,267r,0,-- --,Fer. 3 p. Pascha,L,A,B,,8,,1,118a,-- --,,,,,,,347291
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,267r,1,Kyrie eleison*,Fer. 3 p. Pascha,V2,,,909040,*,,,,,,,,,,173,347292
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,267r,2,Haec est dies quam fecit*,Fer. 3 p. Pascha,V2,Gr,,008414,*,,,,,,,,,,175,347293
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,267r,3,Dicant nunc qui redempti sunt,Fer. 3 p. Pascha,V2,GrV,01,008414c,,,,,,,,,,,175,347294
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,268r,1,Christus resurgens,Fer. 3 p. Pascha,V2,,,850170,,,,,,,,,,,175,347295
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,268v,1,Victimae paschali*,Fer. 3 p. Pascha,V2,Sq,,ah54007,*,,,,Victimae paschali*,,,,,,175,347296
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,268v,2,Videte manus meas et pedes,Fer. 3 p. Pascha,V2,A,M,005400,8,,1,118a,,,,,,,175,347297
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,269r,1,Resurrexit dominus,Fer. 4 p. Pascha,M,W,1.,008185,*,,,,,,,,,,175,347298
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,269r,2,Ecce vicit leo de tribu ,Fer. 4 p. Pascha,M,R,1,006616,7,,,,,,,,,,175,347299
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,269v,1,Et unus de senioribus dixit,Fer. 4 p. Pascha,M,V,01,006616a,7,,,,,,,,,,175,347300
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,270r,1,Isti sunt agni novelli qui,Fer. 4 p. Pascha,M,R,2,007012,7,,,,,,,,,,175,347301
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,270v,1,In conspectu agni amicti,Fer. 4 p. Pascha,M,V,01,007012a,7,,,,,,,,,,175,347302
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,271r,1,De ore prudentis procedit mel,Fer. 4 p. Pascha,M,R,3,006396,7,,,,,,,,,,175,347303
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,272r,1,Quam dulcia faucibus meis,Fer. 4 p. Pascha,M,V,01,006396a,7,,,,,,,,,,175,347304
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,272r,2,Mittite in dexteram navigii,Fer. 4 p. Pascha,L,A,B,003800,7,,1,146a,,,,,,,175,347305
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,272v,1,Haec dies*,Fer. 4 p. Pascha,V2,Gr,,008414,*,,,,,,,,,,175,347306
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,272v,2,Dextera domini fecit virtutem,Fer. 4 p. Pascha,V2,GrV,01,008414d,,,,,,,,,,,175,347307
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,273v,1,Surrexit dominus et occurrens,Fer. 4 p. Pascha,V2,,,850294,,,,,,,,,,,176,347308
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,274r,1,Dixit Jesus discipulis suis,Fer. 4 p. Pascha,V2,A,M,002296,8,,1,118a,,,,,,,176,347309
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275r,1,Resurrexit dominus,Fer. 5 p. Pascha,M,W,1.,008185,*,,,,,,,,,,,347310
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275r,2,Maria Magdalena*,Fer. 5 p. Pascha,M,R,1,007128,*,,,,,,,,,,176,347311
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275r,3,Congratulamini mihi*,Fer. 5 p. Pascha,M,R,2,006323,*,,,,,,,,,,176,347312
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275r,4,Tulerunt dominum meum*,Fer. 5 p. Pascha,M,R,3,007797,*,,,,,,,,,,176,347313
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275r,5,Maria stabat ad monumentum,Fer. 5 p. Pascha,L,A,B,003705,7,,2,143b,,,,,,,176,347314
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275v,1,Haec dies*,Fer. 5 p. Pascha,V2,Gr,,008414,*,,,,,,,,,,175,347315
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,275v,2,Lapidem quem reprobaverunt,Fer. 5 p. Pascha,V2,GrV,01,008414e,,,,,,,,,,,176,347316
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,276v,1,Angelus domini descendit de,Fer. 5 p. Pascha,V2,,,850159,,,,,,,,,,,176,347317
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,277r,1,Tulerunt dominum meum et,Fer. 5 p. Pascha,V2,A,M,005232,7,,1,146a,,,,,,,176,347318
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,277v,1,Virtute magna*,Fer. 6 p. Pascha,M,R,1,007907,*,,,,,,,,,,176,347319
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,277v,2,Surgens Jesus*,Fer. 6 p. Pascha,M,R,2,007734,*,,,,,,,,,,176,347320
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,277v,3,Expurgate*,Fer. 6 p. Pascha,M,R,3,006699,*,,,,,,,,,,176,347321
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,277v,4,Undecim discipuli in,Fer. 6 p. Pascha,L,A,B,005271,7,,1,146a,,,,,,,176,347322
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,278r,1,Haec dies quam*,Fer. 6 p. Pascha,V2,Gr,,008414,*,,,,,,,,,,176,347323
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,278r,2,Benedictus qui venit in,Fer. 6 p. Pascha,V2,GrV,01,008414f,,,,,,,,,,,176,347324
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279r,1,In die resurrectionis meae,Fer. 6 p. Pascha,V2,,,850223,,,,,,,,,,,176,347325
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279r,2,Data est mihi omnis potestas,Fer. 6 p. Pascha,V2,A,M,002099,8,,1,118a,,,,,,,176,347326
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279v,1,Ecce vicit leo*,Sabbato in Albis,M,R,1,006616,*,,,,,,,,,,176,347327
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279v,2,Isti sunt agni*,Sabbato in Albis,M,R,2,007012,*,,,,,,,,,,176,347328
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279v,3,De ore prudentis*,Sabbato in Albis,M,R,3,006396,*,,,,,,,,,,176,347329
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,279v,4,Currebant duo simul et ille,Sabbato in Albis,L,A,B,002081,1,,1,66d,,,,,,,176,347330
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,280r,1,Alleluia iii,Octava Paschae,V,A,1,001328,6,,1,7a,,,,,,,177,347331
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,280v,1,Alleluia iii,Octava Paschae,V,A,2,001328,8,,2,99d,,,,,,,177,347332
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,280v,2,Alleluia iii,Octava Paschae,V,A,3,001328,4,,1,19a,,,,,,,177,347333
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,280v,3,Alleluia iii,Octava Paschae,V,A,4,001328,8,,2,99d,,,,,,,177,347334
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,281r,1,Alleluia iii,Octava Paschae,V,A,5,001328,4,,1,19a,,,,,,,177,347335
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,281r,2,Dum transisset*,Octava Paschae,V,R,,006565,?,,,,,,,,,,177,347336
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,281r,3,Chorus novae*,Octava Paschae,V,H,,830063,,,,,,,,,,,177,347337
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,281r,4,Mane nobiscum domine,Octava Paschae,V,W,,800263,*,,,,,,,,,,177,347338
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,281r,5,Cum esset sero die illa ,Octava Paschae,V,A,M,002002,1,,1,66d,,,,,,,177,347339
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282r,1,Alleluia iv,Octava Paschae,C,A,,001329,8,,1,118a,,,,,,,177,347340
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282r,2,Jesu salvator*,Octava Paschae,C,H,,008333,,,,,,,,,,,177,347341
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282r,3,Custodi nos domine,Octava Paschae,C,W,,008001,*,,,,,,,,,,177,347342
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282r,4,Alleluia resurrexit dominus,Octava Paschae,C,A,N,001352,5,,1,129a,,,,,,,177,347343
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,1,Alleluia surrexit dominus*,Octava Paschae,M,I,,001035,*,,*,,,,,,,,177,347344
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,2,Aurora lucis*,Octava Paschae,M,H,,008271,,,,,,,,,,,177,347345
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,3,Ego sum qui sum*,Octava Paschae,M,A,1.,002599,*,,,,,,,,,,177,347346
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,4,Resurrexit dominus*,Octava Paschae,M,W,1.,008185,*,,,,,,,,,,177,347347
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,5,Angelus domini*,Octava Paschae,M,R,1,006093,*,,,,,,,,,,177,347348
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,6,Angelus domini*,Octava Paschae,M,R,2,006095,*,,,,,,,,,,177,347349
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",A,282v,7,Dum transisset*,Octava Paschae,M,R,2,006565,*,,,,,,,,,,,347350
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,282v,8,Et valde mane una sabbatorum,Octava Paschae,M,R,3,006676,1,,,,,,,,,,,347351
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,283r,1,Mulieres emerunt aromata,Octava Paschae,M,V,01,006676d,1,,,,,,,,,,,347352
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,283v,1,Gloria patri et filio et,Octava Paschae,M,V,02,909000,1,,,,,,,,,,,347353
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,283v,2,Te deum laudamus*,Octava Paschae,M,,,909010,*,,,,,,,,,,177,347354
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,283v,3,In resurrectione tua Christe,Octava Paschae,M,W,,008100,*,,,,,,,,,,177,347355
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,1,Angelus autem*,Octava Paschae,L,A,1,001408,*,,,,,,,,,,177,347356
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,2,Sermone blando*,Octava Paschae,L,H,,008271d:02,*,,,,Sermone blando*,,,,,,177,347357
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,3,Gavisi sunt discipuli*,Octava Paschae,L,W,,008080,*,,,,,,,,,,177,347358
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,4,Post dies octo januis clausis,Octava Paschae,L,A,B,004326,8,,2,99d,,,,,,,177,347359
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,5,Jam lucis*,Octava Paschae,P,H,,008328,*,,,,,,,,,,177,347360
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,6,Angelus autem*,Octava Paschae,P,A,,001408,*,,,,,,,,,,177,347361
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284r,7,Jesu Christe fili dei vivi,Octava Paschae,P,R,,006276,r,,,,,,,,,,177,347362
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284v,1,Qui surrexisti a mortuis,Octava Paschae,P,V,01,006276zf,r,,,,,,,,,,177,347363
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,284v,2,Gloria patri et filio et,Octava Paschae,P,V,02,909000,r,,,,,,,,,,177,347364
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,1,Exsurge domine*,Octava Paschae,P,W,,008072,*,,,,,,,,,,177,347365
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,2,Et ecce terraemotus*,Octava Paschae,T,A,,002699,*,,,,,,,,,,178,347366
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,3,Resurrexit dominus alleluia,Octava Paschae,T,R,,007540,r,,,,,,,,,,177,347367
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,4,Sicut dixit vobis,Octava Paschae,T,V,01,007540a,r,,,,,,,,,,178,347368
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,5,Surrexit dominus de sepulcro*,Octava Paschae,T,W,,008212,*,,,,,,,,,,178,347369
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,6,Respondens autem*,Octava Paschae,S,A,,004630,*,,,,,,,,,,178,347370
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285r,7,Surrexit dominus vere,Octava Paschae,S,R,,007740,r,,,,,,,,,,178,347371
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285v,1,Et apparuit Simoni,Octava Paschae,S,V,01,007740a,r,,,,,,,,,,178,347372
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285v,2,Gloria patri et filio et,Octava Paschae,S,V,02,909000,r,,,,,,,,,,178,347373
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285v,3,Surrexit dominus de sepulcro,Octava Paschae,S,W,,008212,*,,,,,,,,,,178,347374
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,285v,4,Surrexit dominus de sepulcro,Octava Paschae,N,R,,007738,r,,,,,,,,,,178,347375
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286r,1,Qui pro nobis pependit in,Octava Paschae,N,V,01,007738a,r,,,,,,,,,,178,347376
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286r,2,Gavisi sunt discipuli*,Octava Paschae,N,W,,008080,*,,,,,,,,,,178,347377
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286r,3,Alleluia iv,Octava Paschae,V2,A,1,001329,7,,1,146a,,,,,,,178,347378
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286r,4,Alleluia v,Octava Paschae,V2,A,2,001330,4,,2,25a,,,,,,,178,347379
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286v,1,Alleluia iii,Octava Paschae,V2,A,3,001328,4,,2,25a,,,,,,,178,347380
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,286v,2,Alleluia iii,Octava Paschae,V2,A,4,001328,7,,1,146a,,,,,,,178,347381
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287r,1,Alleluia iii,Octava Paschae,V2,A,5,001328,3,,1,97a,,,,,,,178,347382
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287r,2,Et valde*,Octava Paschae,V2,R,,006676,*,,,,,,,,,,178,347383
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287r,3,Ad cenam agni*,Octava Paschae,V2,H,,008249,,,,,,,,,,,178,347384
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287r,4,Mane nobiscum domine,Octava Paschae,V2,W,,800263,*,,,,,,,,,,178,347385
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287r,5,Mitte manum tuam et cognosce,Octava Paschae,V2,A,M,003797,8,,1,118a,,,,,,,178,347386
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,287v,1,Thoma infer digitum tuum huc,"Octava Paschae,8",E,A,1,204912,1,,1,66d,,,,,,,178,347387
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,288r,1,Quia vidisti me Thoma,"Octava Paschae,8",E,A,2,004513,8,,1,118a,,,,,,,178,347388
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,288v,1,Multa quidem et alia signa,"Octava Paschae,8",E,A,3,003828,6,,1,7a,,,,,,,178,347389
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,289r,1,Haec autem scripta sunt ut,"Octava Paschae,8",E,A,4,002993,8,,1,118a,,,,,,,178,347390
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,289v,1,Gavisi sunt discipuli,"Octava Paschae,8",E,A,5,002934,6,,1,7a,,,,,,,178,347391
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,290r,1,Misi digitum meum in fixuram,"Octava Paschae,8",E,A,6,003782,8,,1,118a,,,,,,,178,347392
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,290v,1,Pax vobis ego sum alleluia,"Octava Paschae,8",E,A,7,004254,6,,1,7a,,,,,,,178,347393
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,290v,2,Surgens Jesus mane prima,In tempore Paschae,E,A,1,005075,8,,1,118a,,,,,,,178,347394
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,291r,1,Jesum quem quaeritis non est,In tempore Paschae,E,A,2,003483,6,,1,7a,,,,,,,178,347395
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,291v,1,Et recordatae sunt verborum,In tempore Paschae,E,A,3,002717,8,,1,118a,,,,,,,178,347396
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,292v,1,Jesum qui crucifixus est,In tempore Paschae,E,A,4,003484,8,,1,118a,,,,,,,178,347397
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,293r,1,Ardens est cor meum desidero,In tempore Paschae,E,A,5,001479,8,,1,118a,,,,,,,178,347398
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,293v,1,In Galilaea Jesum videbitis,In tempore Paschae,E,A,6,003237,7,,2,143b,,,,,,,178,347399
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,293v,2,Post passionem domini factus,In tempore Paschae,E,A,7,004333,1,,1,66d,,,,,,,178,347400
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,294v,1,Mane nobiscum quoniam,In tempore Paschae,E,A,8,003690,7,,2,143b,,,,,,,178,347401
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,294v,2,Et intravit cum illis et,In tempore Paschae,E,A,9,002708,8,,1,118a,,,,,,,178,347402
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,295r,1,Nonne cor nostrum ardens erat,In tempore Paschae,E,A,10,003944,1,,1,66d,,,,,,,179,347403
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,295v,1,Surrexit Christus et illuxit,In tempore Paschae,E,A,11,005077,4,,1,19a,,,,,,,179,347404
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,296r,1,Crucifixus surrexit a mortuis,In tempore Paschae,E,A,12,001957,6,,1,7a,,,,,,,179,347405
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,296v,1,Surrexit dominus de sepulcro,In tempore Paschae,E,A,13,005079,4,,1,19a,,,,,,,179,347406
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,296v,2,Crucem sanctam subiit qui,In tempore Paschae,E,A,14,001951,2,,1,152g,,,,,,,179,347407
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,297r,1,Alleluia quem quaeris mulier,In tempore Paschae,E,A,15,001350,5,,1,129a,,,,,,,179,347408
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,297v,1,Surrexit dominus de sepulcro,In tempore Paschae,E,A,16,005079,8,,1,118a,,,,,,,179,347409
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298r,1,Alleluia noli flere Maria,In tempore Paschae,E,A,17,001348,5,,1,129a,,,,,,,179,347410
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,1,Alleluia iii,Feria 2 TP,M,I,,001023,6,,PA,,,,,,,,179,347411
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,2,Aurora lucis rutilat*,Feria 2 TP,M,H,,008271,*,,,,,,,,,,179,347412
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,3,Alleluia,Feria 2 TP,M,A,1.,001326,4,,1,19a,,,,,,,179,347413
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,4,Resurrexit dominus*,Feria 2 TP,M,W,1.,008185,*,,,,,,,,,,179,347414
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,5,Maria Magdalena*,Feria 2 TP,M,R,,007128,*,,,,,,,,,,179,347415
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,6,Alleluia ii,Feria 2 TP,L,A,1,001327,6,,1,7a,,,,,,,179,347416
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,7,Sermone blando*,Feria 2 TP,L,H,,008271d:02,*,,,,Sermone blando*,,,,,,179,347417
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,8,Gavisi sunt discipuli*,Feria 2 TP,L,W,,008080,*,,,,,,,,,,179,347418
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,298v,9,Alleluia vii,Feria 2 TP,P,A,,001332,1,,1,66d,,,,,,,179,347419
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,299r,1,Alleluia ix,Feria 2 TP,T,A,,001334,2,,1,152g,,,,,,,179,347420
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,299v,1,Alleluia vii,Feria 2 TP,S,A,,001332,3,,1,97a,,,,,,,179,347421
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300r,1,Alleluia iii,Feria 2 TP,N,A,,001328,6,,1,7a,,,,,,,179,347422
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300r,2,Alleluia*,Feria 2 TP,V2,A,,,*,,,,Alleluia*,,,,,,179,347423
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300r,3,Alleluia iii,Feria 2 TP,V2,A,,001328,1,,1,66d,,,,,,,179,347424
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300r,4,Virtute magna*,Feria 3 TP,M,R,,007907,*,,,,,,,,,,179,347425
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300v,1,Alleluia iv,Feria 3 TP,L,A,,001329,4,,2,25a,,,,,,,179,347426
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300v,2,Ecce vicit*,Feria 4 TP,M,R,,006616,*,,,,,,,,,,180,347427
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300v,3,Alleluia iii,Feria 4 TP,V2,A,,001328,8,,2,99d,,,,,,,180,347428
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300v,4,Maria Magdalena*,Feria 5 TP,M,R,,007128,*,,,,,,,,,,180,347429
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,300v,5,Alleluia iii,Feria 5 TP,V2,A,,001328,4,,1,19a,,,,,,,180,347430
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,301r,1,Virtute magna*,Feria 6 TP,M,R,,007907,*,,,,,,,,,,180,347431
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,301r,2,Alleluia iv,Feria 6 TP,V2,A,,001329,5,,1,129a,,,,,,,180,347432
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,301r,3,Dum transisset*,Sabbato TP,V,R,R,006565,*,,,,,,,,,,,347433
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,301r,4,Mane nobiscum*,Sabbato TP,V,W,R,800263,*,,,,,,,,,,,347434
+B,"Mainz, Bischöfliches Dom- und Diözesanmuseum (D-MZb)",,301r,5,Haec autem scripta sunt*,Sabbato TP,V,A,M,002993,*,,,,,,,,,,180,347435

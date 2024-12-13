@@ -1,0 +1,1430 @@
+shelfmark,holding_institution,marginalia,folio,sequence,incipit,feast,service,genre,position,cantus_id,mode,finalis,differentia,differentiae_database,fulltext_standardized,fulltext_ms,volpiano,image_link,melody_id,addendum,extra,node_id
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001r,1,Tulerunt dominum meum et,Fer. 3 p. Pascha,M,R,1,007797,8,,,,,,,,,,,189430
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001r,2,Dum ergo fleret inclinavit se,Fer. 3 p. Pascha,M,V,01,007797b,8,,,,,,,,,,,189431
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001r,3,Surrexit pastor bonus qui,Fer. 3 p. Pascha,M,R,2,007742,1,,,,,,,,,,,189432
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001r,4,Etenim pascha nostrum,Fer. 3 p. Pascha,M,V,01,007742b,1,,,,,,,,,,,189433
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,1,Virtute magna reddebant,Fer. 3 p. Pascha,M,R,3,007907,8,,,,,,,,,,,189434
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,2,Repleti quidem spiritu sancto,Fer. 3 p. Pascha,M,V,01,007907b,8,,,,,,,,,,,189435
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,3,Stetit Jesus in medio,Fer. 3 p. Pascha,L,A,1,005032,8,,1,105c,,,,,,,,189436
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,4,Pax vobis ego sum alleluia,Fer. 3 p. Pascha,L,A,2,004254,6,,1,54a,,,,,,,,189437
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,5,Videte manus meas et pedes,Fer. 3 p. Pascha,L,A,3,005400,8,,1,105c,,,,,,,,189438
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,6,Spiritus carnem et ossa non,Fer. 3 p. Pascha,L,A,4,004996,8,,3,107c,,,,,,,,189439
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,7,Obtulerunt discipuli domino,Fer. 3 p. Pascha,L,A,5,004103,1,,3,66c,,,,,,,,189440
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,8,Surrexit dominus vere,Fer. 3 p. Pascha,L,W,,008213,*,,,,,,,,,,,189441
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,001v,9,Verba quae locutus sum vobis,Fer. 3 p. Pascha,L,A,B,005359,8,,1,105c,,,,,,,,189442
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,002v,1,Isti sunt sermones quos,Fer. 3 p. Pascha,V2,A,M,003445,8,,1,105c,,,,,,,,189443
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,1,Surrexit dominus vere*,Fer. 4 p. Pascha,M,I,,001166,*,,*,,,,,,,,,189444
+V 20,"Benevento, Biblioteca capitolare (I-BV)",A,003r,2,Scio quod Jesum*,Fer. 4 p. Pascha,M,A,,004833,*,,,,,,,,,,,189445
+V 20,"Benevento, Biblioteca capitolare (I-BV)",A,003r,3,Jesum qui crucifixus*,Fer. 4 p. Pascha,M,A,,003484,*,,,,,,,,,,,189446
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,4,Cito euntes dicite discipuli,Fer. 4 p. Pascha,M,A,1,001813,7,,3,142a,,,,,,,,189447
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,5,Et respicientes*,Fer. 4 p. Pascha,M,A,2,002718,8,,1,105c,,,,,,,,189448
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,6,Surrexit dominus de sepulcro,Fer. 4 p. Pascha,M,A,3,005079,8,,1,105c,,,,,,,,189449
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,7,Resurrexit dominus,Fer. 4 p. Pascha,M,W,,,*,,,,Resurrexit dominus,,,,,,,189450
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,8,Expurgate vetus fermentum ut,Fer. 4 p. Pascha,M,R,1,006699,1,,,,,,,,,,,189451
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003r,9,Mortuus est propter delicta,Fer. 4 p. Pascha,M,V,01,006699b,1,,,,,,,,,,,189452
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,1,Isti sunt agni novelli qui,Fer. 4 p. Pascha,M,R,2,007012,8,,,,,,,,,,,189453
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,2,In conspectu agni amicti sunt,Fer. 4 p. Pascha,M,V,01,007012a,8,,,,,,,,,,,189454
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,3,Pascha nostrum immolatus est,Fer. 4 p. Pascha,M,R,3,007355,6,,,,,,,,,,,189455
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,4,Non in fermento veteri neque,Fer. 4 p. Pascha,M,V,01,007355a,6,,,,,,,,,,,189456
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,5,Manifestavit se Jesus ad mare,Fer. 4 p. Pascha,L,A,1,003694,1,,1,74c,,,,,,,,189457
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,003v,6,Stetit Jesus in littore,Fer. 4 p. Pascha,L,A,2,005031,6,,1,54a,,,,,,,,189458
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,004r,1,Mittite in dexteram navigii,Fer. 4 p. Pascha,L,A,3,003800,7,,2,144a,,,,,,,,189459
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,004r,2,Dixit Jesus discipulis suis,Fer. 4 p. Pascha,L,A,4,002297,2,,1,153c,,,,,,,,189460
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,004r,3,Dixit discipulis ille quem,Fer. 4 p. Pascha,L,A,5,002270,2,,1,153c,,,,,,,,189461
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,004r,4,In resurrectione tua Christe,Fer. 4 p. Pascha,L,W,,008100,*,,,,,,,,,,,189462
+V 20,"Benevento, Biblioteca capitolare (I-BV)",A,004r,5,Dixit Jesus discipulis suis*,Fer. 4 p. Pascha,L,A,B,002296,*,,,,,,,,,,,189463
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,004r,6,Cum audisset Petrus quia,Fer. 4 p. Pascha,L,A,B,001981,3,,1,249a,,,,,,,,189464
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,1,Dixit Jesus discipulis suis,Fer. 4 p. Pascha,V2,A,M,002296,8,,1,105c,,,,,,,,189465
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,2,Surrexit dominus*,Fer. 5 p. Pascha,M,I,,001166,*,,*,,,,,,,,,189466
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,3,Angelus autem domini*,Fer. 5 p. Pascha,M,A,1,001408,*,,,,,,,,,,,189467
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,4,Erat autem*,Fer. 5 p. Pascha,M,A,2,002647,*,,,,,,,,,,,189468
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,5,Prae timore*,Fer. 5 p. Pascha,M,A,3,004350,*,,,,,,,,,,,189469
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005r,6,Resurrexit dominus,Fer. 5 p. Pascha,M,W,,,*,,,,Resurrexit dominus,,,,,,,189470
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,1,Dum transisset*,Fer. 5 p. Pascha,M,R,1,006565,*,,,,,,,,,,,189471
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,2,Maria Magdalena*,Fer. 5 p. Pascha,M,R,2,007128,*,,,,,,,,,,,189472
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,3,Surgens Jesus*,Fer. 5 p. Pascha,M,R,3,007734,*,,,,,,,,,,,189473
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,4,Maria stabat ad monumentum,Fer. 5 p. Pascha,L,A,1,003705,7,,3,142a,,,,,,,,189474
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,5,Quem quaeris mulier alleluia,Fer. 5 p. Pascha,L,A,2,206254,6,,1,54a,,,,,,,,189475
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,6,Tulerunt dominum*,Fer. 5 p. Pascha,L,A,3,005232,?,,*,,,,,,,,,189476
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,005v,7,Ardens est cor meum desidero,Fer. 5 p. Pascha,L,A,4,001479,8,,1,105c,,,,,,,,189477
+V 20,"Benevento, Biblioteca capitolare (I-BV)",B,005v,8,Noli flere Maria alleluia,Fer. 5 p. Pascha,N,A,,206253,*,,,,,,,,,,,189478
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,006r,1,Ascendo ad patrem meum et,Fer. 5 p. Pascha,L,A,5,001493,7,,1,143e,,,,,,,,189479
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,006r,2,In resurrectione tua Christe,Fer. 5 p. Pascha,L,W,,008100,*,,,,,,,,,,,189480
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,006r,3,Jesum quem quaeritis non est,Fer. 5 p. Pascha,L,A,B,003483,8,,1,105c,,,,,,,,189481
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007r,1,Venit Maria nuntians,Fer. 5 p. Pascha,V2,A,M,005346,7,,3,142a,,,,,,,,189482
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,1,Surrexit dominus*,Fer. 6 p. Pascha,M,I,,001166,*,,*,,,,,,,,,189483
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,2,Scio quod Jesum*,Fer. 6 p. Pascha,M,A,1,004833,*,,,,,,,,,,,189484
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,3,Jesum qui crucifixus*,Fer. 6 p. Pascha,M,A,2,003484,*,,,,,,,,,,,189485
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,4,Cito euntes*,Fer. 6 p. Pascha,M,A,3,001813,*,,,,,,,,,,,189486
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,5,Resurrexit dominus,Fer. 6 p. Pascha,M,W,,,*,,,,Resurrexit dominus,,,,,,,189487
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,6,Tulerunt dominum meum*,Fer. 6 p. Pascha,M,R,1,007797,*,,,,,,,,,,,189488
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,7,Congratulamini mihi*,Fer. 6 p. Pascha,M,R,2,006323,*,,,,,,,,,,,189489
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,8,Surrexit pastor*,Fer. 6 p. Pascha,M,R,3,007742,*,,,,,,,,,,,189490
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,007v,9,Undecim discipulis in,Fer. 6 p. Pascha,L,A,1,005271,7,,2,144a,,,,,,,,189491
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,1,Data est mihi omnis potestas,Fer. 6 p. Pascha,L,A,2,002099,8,,1,105c,,,,,,,,189492
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,2,Euntes docete omnes gentes,Fer. 6 p. Pascha,L,A,3,002735,1,,3,66c,,,,,,,,189493
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,3,Docete eos servare omnia,Fer. 6 p. Pascha,L,A,4,002317,1,,3,66c,,,,,,,,189494
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,4,Euntes in mundum alleluia,Fer. 6 p. Pascha,L,A,5,201662,6,,1,54a,,,,,,,,189495
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,5,In resurrectione tua Christe,Fer. 6 p. Pascha,L,W,,008100,*,,,,,,,,,,,189496
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008r,6,Ecce ego vobiscum sum,Fer. 6 p. Pascha,L,A,B,002513,6,,1,54a,,,,,,,,189497
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,1,Data est mihi*,Fer. 6 p. Pascha,V2,A,M,002099,*,,,,,,,,,,,189498
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,2,Surrexit dominus*,Sabbato in Albis,M,I,,001166,*,,*,,,,,,,,,189499
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,3,Cito euntes*,Sabbato in Albis,M,A,1,001813,*,,,,,,,,,,,189500
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,4,Et respicientes*,Sabbato in Albis,M,A,2,002718,*,,,,,,,,,,,189501
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,5,Surrexit dominus de*,Sabbato in Albis,M,A,3,005079,*,,,,,,,,,,,189502
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,008v,6,Resurrexit dominus,Sabbato in Albis,M,W,,,*,,,,Resurrexit dominus,,,,,,,189503
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009r,1,Expurgate*,Sabbato in Albis,M,R,1,006699,*,,,,,,,,,,,189504
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009r,2,Virtute magna*,Sabbato in Albis,M,R,2,007907,*,,,,,,,,,,,189505
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009r,3,Isti sunt agni*,Sabbato in Albis,M,R,3,007012,*,,,,,,,,,,,189506
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,1,Cum esset sero die illo ,Sabbato in Albis,L,A,1,002002,4,,1,15n,,,,,,,,189507
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,2,Pax vobis ego sum alleluia,Sabbato in Albis,L,A,2,004254,6,,1,54a,,,,,,,,189508
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,3,Gavisi sunt discipuli,Sabbato in Albis,L,A,3,002934,6,,1,54a,,,,,,,,189509
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,4,Sicut misit me pater alleluia,Sabbato in Albis,L,A,4,004941,6,,1,54a,,,,,,,,189510
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,5,Accipite spiritum sanctum,Sabbato in Albis,L,A,5,001234,7,,1,143e,,,,,,,,189511
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,6,In resurrectione tua Christe,Sabbato in Albis,L,W,,008100,*,,,,,,,,,,,189512
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,009v,7,Currebant duo simul et ille,Sabbato in Albis,L,A,B,002081,1,,1,74c,,,,,,,,189513
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,1,Alleluia ? (Resurrexit)*,Octava Paschae,V,A,,,*,,,,Alleluia ? (Resurrexit)*,,,,,,,189514
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,2,Ad cenam agni providi et,Octava Paschae,V,H,,008249,*,,,,,,,,,,,189515
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,3,Mane nobiscum domine,Octava Paschae,V,W,,800263,*,,,,,,,,,,,189516
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,4,Currebant duo simul*,Octava Paschae,V,A,M,002081,*,,,,,,,,,,,189517
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,5,Alleluia iii,Octava Paschae,M,I,,001023,6,,B3,,,,,,,,,189518
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,010v,6,Hic est dies verus dei sancto,Octava Paschae,M,H,,008311,*,,,,,,,,,,,189519
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011r,1,Alleluia viii (Ego sum qui),Octava Paschae,M,A,1,001333,2,,1,153c,,,,,,,,189520
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011r,2,Alleluia ix (Postulavi),Octava Paschae,M,A,2,001334,2,,1,153c,,,,,,,,189521
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011r,3,Alleluia viii (Ego dormivi),Octava Paschae,M,A,3,001333,8,,2,99d,,,,,,,,189522
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011r,4,Resurrexit dominus,Octava Paschae,M,W,,,*,,,,Resurrexit dominus,,,,,,,189523
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011v,1,Maria Magdalena*,Octava Paschae,M,R,1,007128,*,,,,,,,,,,,189524
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,011v,2,Surgens Jesus*,Octava Paschae,M,R,2,007734,*,,,,,,,,,,,189525
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,1,Congratulamini mihi*,Octava Paschae,M,R,3,006323,*,,,,,,,,,,,189526
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,2,Te deum laudamus*,Octava Paschae,M,,,909010,*,,,,,,,,,,,189527
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,3,Thomas qui dicitur Didymus,Octava Paschae,L,A,1,005144,1,,1,74c,,,,,,,,189528
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,4,Post dies octo januis clausis,Octava Paschae,L,A,2,004326,8,,2,99d,,,,,,,,189529
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,5,Alleluia pax vobis ego sum,Octava Paschae,L,A,3,001349,1,,3,66c,,,,,,,,189530
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,6,Mitte manum tuam et cognosce,Octava Paschae,L,A,4,003797,8,,1,105c,,,,,,,,189531
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,7,Quia vidisti me Thomas,Octava Paschae,L,A,5,004513,8,,1,105c,,,,,,,,189532
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012r,8,Aurora lucis rutilat caelum,Octava Paschae,L,H,,008271,*,,,,,,,,,,,189533
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,1,In resurrectione tua Christe,Octava Paschae,L,W,,008100,*,,,,,,,,,,,189534
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,2,Cum esset sero die illo ,Octava Paschae,L,A,1B,002002,4,,1,15n,,,,,,,,189535
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,3,Multa quidem et alia signa,Octava Paschae,L,A,2B,003828,6,,2,69j,,,,,,,,189536
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,4,Resurrexit dominus alleluia,Octava Paschae,X,R,,007540,r,,,,,,,,,,,189537
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,5,Sicut dixit vobis,Octava Paschae,X,V,01,007540a,r,,,,,,,,,,,189538
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,6,Gloria*,Octava Paschae,X,V,02,909000,*,,,,,,,,,,,189539
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,012v,7,Surrexit dominus vere,Octava Paschae,X,W,,008213,*,,,,,,,,,,,189540
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,1,Thomas qui dicitur Didymus*,Octava Paschae,V2,A,,005144,1,,*,,,,,,,,,189541
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,2,Alleluia*,Octava Paschae,V2,R,,,*,,,,Alleluia*,,,,,,,189542
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,3,Quasimodo*,Octava Paschae,V2,V,01,,*,,,,Quasimodo*,,,,,,,189543
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,4,Ad cenam agni*,Octava Paschae,V2,H,,008249,*,,,,,,,,,,,189544
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,5,Mane nobiscum domine,Octava Paschae,V2,W,,800263,*,,,,,,,,,,,189545
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,013v,6,Haec autem scripta sunt ut,Octava Paschae,V2,A,M,002993,8,,1,105c,,,,,,,,189546
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,1,Alleluia iv,Fer. 2 p. Oct.Pasch.,M,I,,001024,6,,FE,,,,,,,,,189547
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,2,Hic est dies*,Fer. 2 p. Oct.Pasch.,M,H,,008311,*,,,,,,,,,,,189548
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,3,Alleluia*,Fer. 2 p. Oct.Pasch.,M,A,1.,,*,,,,Alleluia*,,,,,,,189549
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,4,Resurrexit dominus,Fer. 2 p. Oct.Pasch.,M,W,1.,,*,,,,Resurrexit dominus,,,,,,,189550
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,5,Ecce vicit leo de tribu Juda,Fer. 2 p. Oct.Pasch.,M,R,1,006616,7,,,,,,,,,,,189551
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,6,Dignus est agnus qui occisus,Fer. 2 p. Oct.Pasch.,M,V,01,006616b,7,,,,,,,,,,,189552
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,7,Dignus es domine accipere,Fer. 2 p. Oct.Pasch.,M,R,2,006448,7,,,,,,,,,,,189553
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014r,8,Parce domine parce populo tuo,Fer. 2 p. Oct.Pasch.,M,V,01,006448a,7,,,,,,,,,,,189554
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,1,De ore prudentis procedit mel,Fer. 2 p. Oct.Pasch.,M,R,3,006396,8,,,,,,,,,,,189555
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,2,Sapientia requiescit in corde,Fer. 2 p. Oct.Pasch.,M,V,01,006396b,8,,,,,,,,,,,189556
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,3,Alleluia v (Data est mihi),Fer. 2 p. Oct.Pasch.,L,A,1,001330,8,,1,105c,,,,,,,,189557
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,4,Surrexit Christus de sepulcro,Fer. 2 p. Oct.Pasch.,L,A,4,005076,6,,1,54a,,,,,,,,189558
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,5,Aurora lucis*,Fer. 2 p. Oct.Pasch.,L,H,,008271,*,,,,,,,,,,,189559
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,6,Thomas qui dicitur*,Fer. 2 p. Oct.Pasch.,L,W,,800434,*,,,,,,,,,,,189560
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,7,Alleluia vii (Nonne cor),Fer. 2 p. Oct.Pasch.,V2,A,,001332,2,,1,153c,,,,,,,,189561
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,014v,8,Ad cenam*,Fer. 2 p. Oct.Pasch.,V2,H,,008249,*,,,,,,,,,,,189562
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015r,1,Ego sicut vitis fructificavi,Fer. 3 p. Oct.Pasch.,M,R,1,006633,3,,,,,,,,,,,189563
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015r,2,In me gratia omnis vitae et,Fer. 3 p. Oct.Pasch.,M,V,01,006633b,3,,,,,,,,,,,189564
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015r,3,Audivi vocem in caelo tamquam,Fer. 3 p. Oct.Pasch.,M,R,2,006153,8,,,,,,,,,,,189565
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015r,4,Et vox de throno exivit,Fer. 3 p. Oct.Pasch.,M,V,01,006153b,8,,,,,,,,,,,189566
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015v,1,Audivi vocem in caelo angelo-,Fer. 3 p. Oct.Pasch.,M,R,3,006152,1,,,,,,,,,,,189567
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,015v,2,Vidi angelum fortem ventem,Fer. 3 p. Oct.Pasch.,M,V,01,006152a,1,,,,,,,,,,,189568
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016r,1,Locutus est ad me unus ex,Fer. 4 p. Oct.Pasch.,M,R,1,007096,2,,,,,,,,,,,189569
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016r,2,Et sustulit me in spiritu in,Fer. 4 p. Oct.Pasch.,M,V,01,007096b,2,,,,,,,,,,,189570
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016r,3,Vidi portam civitatis ad,Fer. 4 p. Oct.Pasch.,M,R,2,007877,8,,,,,,,,,,,189571
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016r,4,Vidi caelum novum et terram,Fer. 4 p. Oct.Pasch.,M,V,01,007877b,8,,,,,,,,,,,189572
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016v,1,Ostendit mihi angelus fontem,Fer. 4 p. Oct.Pasch.,M,R,3,007344,7,,,,,,,,,,,189573
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,016v,2,Postquam audissem et vidissem,Fer. 4 p. Oct.Pasch.,M,V,01,007344b,7,,,,,,,,,,,189574
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017r,1,Vidi Jerusalem descendentem,Fer. 5 p. Oct.Pasch.,M,R,1,007876,1,,,,,,,,,,,189575
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017r,2,Ab intus in fimbriis aureis,Fer. 5 p. Oct.Pasch.,M,V,01,007876a,1,,,,,,,,,,,189576
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017v,1,In diademate capitis Aaron,Fer. 5 p. Oct.Pasch.,M,R,2,006898,8,,,,,,,,,,,189577
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017v,2,Corona aurea super caput ejus,Fer. 5 p. Oct.Pasch.,M,V,01,006898a,8,,,,,,,,,,,189578
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017v,3,Plateae tuae Jerusalem,Fer. 5 p. Oct.Pasch.,M,R,3,007390,1,,,,,,,,,,,189579
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,017v,4,Quoniam confortavit seras,Fer. 5 p. Oct.Pasch.,M,V,01,007390a,1,,,,,,,,,,,189580
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018r,1,Veniens a Libano quam pulchra,Fer. 6 p. Oct.Pasch.,M,R,1,007829,1,,,,,,,,,,,189581
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018r,2,Favus distillans labia ejus,Fer. 6 p. Oct.Pasch.,M,V,01,007829b,1,,,,,,,,,,,189582
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018v,1,Haec est Jerusalem civitas,Fer. 6 p. Oct.Pasch.,M,R,2,006803,1,,,,,,,,,,,189583
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018v,2,Portae ejus non claudentur,Fer. 6 p. Oct.Pasch.,M,V,01,006803b,1,,,,,,,,,,,189584
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018w,1,Docete filios vestros,Fer. 6 p. Oct.Pasch.,M,R,3,006483,3,,,,,,,,,,,189585
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018w,2,Filii qui nascentur exsurgent,Fer. 6 p. Oct.Pasch.,M,V,01,006483b,3,,,,,,,,,,,189586
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018w,3,Candidi facti sunt Nazaraei,Sabb. p. Oct. Pasch.,M,R,1,006263,2,,,,,,,,,,,189587
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018w,4,In omnem terram exivit sonus,Sabb. p. Oct. Pasch.,M,V,01,006263a,2,,,,,,,,,,,189588
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,1,Decantabat populus Israel,Sabb. p. Oct. Pasch.,M,R,2,006400,6,,,,,,,,,,,189589
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,2,Sanctificati sunt sacerdotes,Sabb. p. Oct. Pasch.,M,V,01,006400b,6,,,,,,,,,,,189590
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,3,Dignus es domine*,Sabb. p. Oct. Pasch.,M,R,3,006448,*,,,,,,,,,,,189591
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,4,Alleluia viii (Ego sum qui)*,Dom. 2 p. Pascha,M,A,1.,001333,*,,,,,,,,,,,189592
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,5,Resurrexit dominus,Dom. 2 p. Pascha,M,W,1.,,*,,,,Resurrexit dominus,,,,,,,189593
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,018x,6,De ore prudentis*,Dom. 2 p. Pascha,M,R,1.1,006396,*,,,,,,,,,,,189594
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,019r,1,Alleluia ix (Postulavi)*,Dom. 2 p. Pascha,M,A,2.,001334,*,,,,,,,,,,,189595
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,019r,2,Surrexit dominus vere,Dom. 2 p. Pascha,M,W,2.,008213,*,,,,,,,,,,,189596
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,019v,1,Alleluia viii (Ego dormivi)*,Dom. 2 p. Pascha,M,A,3.,001333,*,,,,,,,,,,,189597
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,019v,2,Surrexit dominus de sepulcro,Dom. 2 p. Pascha,M,W,3.,008212,*,,,,,,,,,,,189598
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,1,Te deum laudamus*,Dom. 2 p. Pascha,M,,,909010,*,,,,,,,,,,,189599
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,2,Ego sum pastor bonus qui,Dom. 2 p. Pascha,L,A,1,002597,3,,1,249a,,,,,,,,189600
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,3,Pastor bonus animam suam,Dom. 2 p. Pascha,L,A,2,004223,8,,1,105c,,,,,,,,189601
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,4,Lupus rapit et dispergit oves,Dom. 2 p. Pascha,L,A,3,003647,6,,2,69j,,,,,,,,189602
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,5,Mercennarius est cujus non,Dom. 2 p. Pascha,L,A,4,003747,8,,1,105c,,,,,,,,189603
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,6,Sicut novit me pater et ,Dom. 2 p. Pascha,L,A,5,004943,5,,2,131a,,,,,,,,189604
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,7,Aurora lucis*,Dom. 2 p. Pascha,L,H,,008271,*,,,,,,,,,,,189605
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,8,In resurrectione tua Christe,Dom. 2 p. Pascha,L,W,,008100,*,,,,,,,,,,,189606
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,020v,9,Alias oves habeo quae non,Dom. 2 p. Pascha,L,A,B,001320,6,,2,69j,,,,,,,,189607
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,021v,1,Sicut novit me pater et ,Dom. 2 p. Pascha,V2,A,M,004943,5,,2,131a,,,,,,,,189608
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025r,1,Alleluia ii,Dom. 3 p. Pascha,M,I,,001022,*,,*,,,,,,,,,189609
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025r,2,Hic est dies*,Dom. 3 p. Pascha,M,H,,008311,*,,,,,,,,,,,189610
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025r,3,Alleluia viii (Ego sum qui),Dom. 3 p. Pascha,M,A,1.,001333,*,,,,,,,,,,,189611
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025r,4,Resurrexit dominus,Dom. 3 p. Pascha,M,W,1.,,*,,,,Resurrexit dominus,,,,,,,189612
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025v,1,Si oblitus fuero tui alleluia,Dom. 3 p. Pascha,M,R,1.1,007653,8,,,,,,,,,,,189613
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025v,2,Super flumina Babylonis illic,Dom. 3 p. Pascha,M,V,01,007653a,8,,,,,,,,,,,189614
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025v,3,Viderunt te aquae deus,Dom. 3 p. Pascha,M,R,1.2,007867,2,,,,,,,,,,,189615
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,025v,4,Illuxerunt coruscationes tuae,Dom. 3 p. Pascha,M,V,01,007867a,2,,,,,,,,,,,189616
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,1,In toto corde meo alleluia,Dom. 3 p. Pascha,M,R,1.3,006943,4,,,,,,,,,,,189617
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,2,Vide humilitatem meam et,Dom. 3 p. Pascha,M,V,01,006943a,4,,,,,,,,,,,189618
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,3,Alleluia ix (Postulavi)*,Dom. 3 p. Pascha,M,A,2.,001334,2,,*,,,,,,,,,189619
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,4,Surrexit dominus vere,Dom. 3 p. Pascha,M,W,2.,008213,*,,,,,,,,,,,189620
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,5,Alleluia audivimus eum in,Dom. 3 p. Pascha,M,R,2.1,006069,1,,,,,,,,,,,189621
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026r,6,Invenimus locum domino,Dom. 3 p. Pascha,M,V,01,006069c,1,,,,,,,,,,,189622
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,1,Deduc me in semita mandatorum,Dom. 3 p. Pascha,M,R,2.2,006403,1,,,,,,,,,,,189623
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,2,Averte oculos meos ne videant,Dom. 3 p. Pascha,M,V,01,006403a,1,,,,,,,,,,,189624
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,3,In ecclesiis benedicite deum,Dom. 3 p. Pascha,M,R,2.3,006901,4,,,,,,,,,,,189625
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,4,Cantate domino canticum novum,Dom. 3 p. Pascha,M,V,01,006901a,4,,,,,,,,,,,189626
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,5,Alleluia viii (Ego dormivi)*,Dom. 3 p. Pascha,M,A,3.,001333,*,,,,,,,,,,,189627
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,026v,6,Surrexit dominus de sepulcro,Dom. 3 p. Pascha,M,W,3.,008212,*,,,,,,,,,,,189628
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,027r,1,Narrabo nomen tuum fratribus,Dom. 3 p. Pascha,M,R,3.1,007194,2,,,,,,,,,,,189629
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,027r,2,Qui timetis dominum laudate,Dom. 3 p. Pascha,M,V,01,007194a,2,,,,,,,,,,,189630
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,027v,1,Hymnum cantate nobis alleluia,Dom. 3 p. Pascha,M,R,3.2,006872,8,,,,,,,,,,,189631
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,027v,2,Deus meus es tu et confitebor,Dom. 3 p. Pascha,M,V,01,006872za,8,,,,,,,,,,,189632
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,1,Deus canticum novum cantabo,Dom. 3 p. Pascha,M,R,3.3,006419,8,,,,,,,,,,,189633
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,2,Deus meus es tu et confitebor,Dom. 3 p. Pascha,M,V,01,006419b,8,,,,,,,,,,,189634
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,3,Te deum laudamus*,Dom. 3 p. Pascha,M,,,909010,*,,,,,,,,,,,189635
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,4,Modicum et non videbitis me,Dom. 3 p. Pascha,L,A,1,003803,6,,2,69j,,,,,,,,189636
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,5,Amen amen dico vobis quia,Dom. 3 p. Pascha,L,A,2,001375,8,,1,105c,,,,,,,,189637
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028r,6,Tristitia implevit cor,Dom. 3 p. Pascha,L,A,3,005189,8,,1,105c,,,,,,,,189638
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028v,1,Tristitia vestra alleluia,Dom. 3 p. Pascha,L,A,4,005190,6,,1,54a,,,,,,,,189639
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028v,2,Iterum autem videbo vos et,Dom. 3 p. Pascha,L,A,5,003465,1,,2,66e,,,,,,,,189640
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028v,3,Aurora lucis*,Dom. 3 p. Pascha,L,H,,008271,*,,,,,,,,,,,189641
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028v,4,In resurrectione*,Dom. 3 p. Pascha,L,W,,008100,*,,,,,,,,,,,189642
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,028v,5,Mulier cum parit tristitiam,Dom. 3 p. Pascha,L,A,B,003819,8,,1,105c,,,,,,,,189643
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,029v,1,Contristabantur discipuli,Dom. 3 p. Pascha,V2,A,M,001910,2,,1,153c,,,,,,,,189644
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,029v,2,Quomodo dilexi alleluia legem,Fer. 2 Hebd. 4 Pasc.,M,R,1,601974,?,,,,,,,,,,,189645
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,029v,3,Tota die meditatio mea*,Fer. 2 Hebd. 4 Pasc.,M,V,01,601974a,?,,,,,,,,,,,189646
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030r,1,Alleluia judica judicium meum,Fer. 2 Hebd. 4 Pasc.,M,R,2,006074,3,,,,,,,,,,,189647
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030r,2,Vide humilitatem meam et,Fer. 2 Hebd. 4 Pasc.,M,V,01,006074b,3,,,,,,,,,,,189648
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030r,3,Cantate deo alleluia psalmum,Fer. 2 Hebd. 4 Pasc.,M,R,3,006268,7,,,,,,,,,,,189649
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030v,1,Date gloriam laudi ejus,Fer. 2 Hebd. 4 Pasc.,M,V,01,006268a,7,,,,,,,,,,,189650
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030v,2,Alleluia nomen bonum melius,Fer. 3 Hebd. 4 Pasc.,M,R,1,006076,1,,,,,,,,,,,189651
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,030v,3,Melior est acquisitio ejus,Fer. 3 Hebd. 4 Pasc.,M,V,01,006076b,1,,,,,,,,,,,189652
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,1,Vado ad eum qui misit ,Dom. 4 p. Pascha,L,A,1,005305,1,,3,66c,,,,,,,,189653
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,2,Vado ad eum qui misit ,Dom. 4 p. Pascha,L,A,2,005306,2,,1,153c,,,,,,,,189654
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,3,Ego veritatem dico vobis,Dom. 4 p. Pascha,L,A,3,002606,7,,1,143e,,,,,,,,189655
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,4,Nisi ego abiero paraclitus,Dom. 4 p. Pascha,L,A,4,003882,1,,1,74c,,,,,,,,189656
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,5,Dum venerit paraclitus spiri-,Dom. 4 p. Pascha,L,A,5,002478,1,,1,74c,,,,,,,,189657
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,6,Aurora lucis*,Dom. 4 p. Pascha,L,H,,008271,*,,,,,,,,,,,189658
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,036v,7,Adhuc multa habeo vobis*,Dom. 4 p. Pascha,L,A,B,001276,?,,*,,,,,,,,,189659
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,037v,1,Non enim loquetur a semetipso,Dom. 4 p. Pascha,V2,A,1M,003909,8,,1,105c,,,,,,,,189660
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,037v,2,Ille me clarificabit quia de,Dom. 4 p. Pascha,V2,A,2M,003172,1,,1,74c,,,,,,,,189661
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042r,1,Amen amen dico vobis si ,Dom. 5 p. Pascha,L,A,1,001376,6,,1,54a,,,,,,,,189662
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042r,2,Usque modo non petistis,Dom. 5 p. Pascha,L,A,2,005284,2,,1,153c,,,,,,,,189663
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042r,3,Petite et accipietis ut,Dom. 5 p. Pascha,L,A,3,004279,8,,1,105c,,,,,,,,189664
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042r,4,Haec in proverbiis locutus,Dom. 5 p. Pascha,L,A,4,003008,8,,1,105c,,,,,,,,189665
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042v,1,Exivi a patre et veni ,Dom. 5 p. Pascha,L,A,5,002793,8,,1,105c,,,,,,,,189666
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,042v,2,Ecce nunc palam loqueris et,Dom. 5 p. Pascha,L,A,B,002530,8,,1,105c,,,,,,,,189667
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,044r,1,Petite et dabitur vobis,Fer. 2 in Letaniis,L,A,B,004280,8,,3,107c,,,,,,,,189668
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,044v,1,Omnis qui petit accipit et,Fer. 3 in Letaniis,L,A,1B,004151,1,,1,74c,,,,,,,,189669
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,044v,2,Vos cum sitis mali nostis,Fer. 3 in Letaniis,L,A,2B,005496,8,,1,105c,,,,,,,,189670
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,045r,1,Sublevatis oculis in caelum,Fer. 4 in Letaniis,L,A,B,005045,2,,1,153c,,,,,,,,189671
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,1,Sublevatis oculis*,Ascensio Domini,V,A,1,005045,2,,*,,,,,,,,,189672
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,2,Pater manifestavi nomen tuum,Ascensio Domini,V,A,2,004237,6,,2,69j,,,,,,,,189673
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,3,Pater juste mundus te non,Ascensio Domini,V,A,3,004234,?,,?,,,,,,,,,189674
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,4,Pater sancte serva eos quos,Ascensio Domini,V,A,4,004243,4,,1,15n,,,,,,,,189675
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,5,Pater sancte serva eos in,Ascensio Domini,V,A,5,004242,4,,4,260a,,,,,,,,189676
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,6,Omnis pulchritudo domini*,Ascensio Domini,V,R,,007320,*,,,,,,,,,,,189677
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046r,7,Festum nunc celebre magnaque,Ascensio Domini,V,H,,008303,*,,,,,,,,,,,189678
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046v,1,Ascendens in altum dominus,Ascensio Domini,V,W,,800028,*,,,,,,,,,,,189679
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046v,2,Non pro his rogo tantum*,Ascensio Domini,V,A,M,003931,*,,,,,,,,,,,189680
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046v,3,Alleluia Christum dominum,Ascensio Domini,M,I,,001029,5,,5,,,,,,,,,189681
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046v,4,Optatus votis omnium sacratus,Ascensio Domini,M,H,,008365,*,,,,,,,,,,,189682
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,046v,5,Elevata est magnificentia tua,Ascensio Domini,M,A,1.1,002634,4,,4,260a,,,,,,,,189683
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,1,Dominus in templo sancto suo,Ascensio Domini,M,A,1.2,002410,8,,6,119a,,,,,,,,189684
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,2,A summo caelo egressio ejus,Ascensio Domini,M,A,1.3,001195,4,,3,19a,,,,,,,,189685
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,3,Elevata est magnificentia tua,Ascensio Domini,M,W,1.,008049,*,,,,,,,,,,,189686
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,4,Post passionem suam per dies,Ascensio Domini,M,R,1.1,007403,3,,,,,,,,,,,189687
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,5,Et convescens praecepit eis,Ascensio Domini,M,V,01,007403a,3,,,,,,,,,,,189688
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,6,Omnis pulchritudo domini,Ascensio Domini,M,R,1.2,007320,2,,,,,,,,,,,189689
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,7,Nisi ego abiero paraclitus,Ascensio Domini,M,V,01,007320a,2,,,,,,,,,,,189690
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,8,Non conturbetur cor vestrum,Ascensio Domini,M,R,1.3,007225,3,,,,,,,,,,,189691
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,9,Ego rogabo patrem et alium,Ascensio Domini,M,V,01,007225b,3,,,,,,,,,,,189692
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047r,10,Exaltare domine in virtute,Ascensio Domini,M,A,2.1,002759,4,,4,260a,,,,,,,,189693
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047v,1,Exaltabo te domine quoniam,Ascensio Domini,M,A,2.2,002755,8,,1,105c,,,,,,,,189694
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047v,2,Ascendit deus in jubilatione,Ascensio Domini,M,A,2.3,001490,4,,3,19a,,,,,,,,189695
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047v,3,A summo caelo egressio*,Ascensio Domini,M,W,2.,007924,*,,,,,,,,,,,189696
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047v,4,Tempus est ut revertar ad eum,Ascensio Domini,M,R,2.1,007758,4,,,,,,,,,,,189697
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,047v,5,Pacem relinquo vobis pacem,Ascensio Domini,M,V,01,007758c,4,,,,,,,,,,,189698
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048r,1,Ascendens in altum alleluia,Ascensio Domini,M,R,2.2,006121,4,,,,,,,,,,,189699
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048r,2,Ascendit deus in jubilatione,Ascensio Domini,M,V,01,006121a,4,,,,,,,,,,,189700
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,1,Ascendit deus in jubilatione,Ascensio Domini,M,R,2.3,006123,2,,,,,,,,,,,189701
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,2,Ascendens Christus in altum,Ascensio Domini,M,V,01,006123a,2,,,,,,,,,,,189702
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,3,Nimis exaltatus est alleluia,Ascensio Domini,M,A,3.1,003879,6,,1,54a,,,,,,,,189703
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,4,Dominus in Sion alleluia,Ascensio Domini,M,A,3.2,201381,6,,1,54a,,,,,,,,189704
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,5,Dominus in caelo alleluia,Ascensio Domini,M,A,3.3,002408,6,,1,54a,,,,,,,,189705
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,048v,6,Ascendit deus in jubilatione,Ascensio Domini,M,W,3.,007952,*,,,,,,,,,,,189706
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049r,1,Ponit nubem ascensum suum,Ascensio Domini,M,R,3.1,007392,2,,,,,,,,,,,189707
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049r,2,Qui facit angelos suos,Ascensio Domini,M,V,01,007392a,2,,,,,,,,,,,189708
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049v,1,Exaltare domine alleluia in,Ascensio Domini,M,R,3.2,006681,7,,,,,,,,,,,189709
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049v,2,Elevata est magnificentia tua,Ascensio Domini,M,V,01,006681b,7,,,,,,,,,,,189710
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049v,3,Ite in orbem universum,Ascensio Domini,M,R,3.3,007028,6,,,,,,,,,,,189711
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049v,4,Signa eos qui in me credent,Ascensio Domini,M,V,01,007028b,6,,,,,,,,,,,189712
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,049v,5,Videntibus illis elevatus est,Ascensio Domini,L,A,1,005392,8,,1,105c,,,,,,,,189713
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,1,Cumque intuerentur in caelum,Ascensio Domini,L,A,2,002063,8,,3,107c,,,,,,,,189714
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,2,Viri Galilaei quid aspicitis,Ascensio Domini,L,A,3,005458,7,,1,143e,,,,,,,,189715
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,3,Exaltare regem regum et,Ascensio Domini,L,A,4,002764,8,,1,105c,,,,,,,,189716
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,4,Sic veniet quemadmodum,Ascensio Domini,L,A,5,004925,4,,8,15c,,,,,,,,189717
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,5,Jam Christus ascendit polum,Ascensio Domini,L,H,,008326,*,,,,,,,,,,,189718
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,6,Nimis exaltatus es alleluia,Ascensio Domini,L,W,,008147,*,,,,,,,,,,,189719
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,7,O rex gloriae domine virtutum,Ascensio Domini,L,A,B,004079,2,,2,156b,,,,,,,,189720
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,050r,8,Euntes in mundum universum,Ascensio Domini,V2,A,M,002739,1,,1,74c,,,,,,,,189721
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,1,Hodie secreta caeli caro,Ascensio Domini,V2,A,M,003120,8,,1,105c,,,,,,,,189722
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,2,Dominus quidem Jesus postquam,"Ascensio Domini,8",E,A,1,002419,1,,2,66e,,,,,,,,189723
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,3,Illi autem profecti,"Ascensio Domini,8",E,A,2,003176,1,,1,74c,,,,,,,,189724
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,4,Ascendo ad patrem meum et,"Ascensio Domini,8",E,A,3,001493,7,,1,143e,,,,,,,,189725
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,5,Elevatis manibus ferebatur in,"Ascensio Domini,8",E,A,4,002635,4,,4,260a,,,,,,,,189726
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,6,Audistis quia dictum est vado,"Ascensio Domini,8",E,A,5,001520,7,,1,143e,,,,,,,,189727
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,051v,7,Assumptus est dominus vere,Fer. 6 p. Ascensio.,M,I,,001040,6,,PA,,,,,,,,,189728
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,1,Elevata est*,Fer. 6 p. Ascensio.,M,A,1,002634,*,,,,,,,,,,,189729
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,2,Dominus in templo*,Fer. 6 p. Ascensio.,M,A,2,002410,*,,,,,,,,,,,189730
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,3,A summo caelo*,Fer. 6 p. Ascensio.,M,A,3,001195,*,,,,,,,,,,,189731
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,4,Ascendit deus in jubilatione,Fer. 6 p. Ascensio.,M,W,1.,007952,*,,,,,,,,,,,189732
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,5,Omnis pulchritudo*,Fer. 6 p. Ascensio.,M,R,1,007320,*,,,,,,,,,,,189733
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052r,6,Non conturbetur*,Fer. 6 p. Ascensio.,M,R,2,007225,*,,,,,,,,,,,189734
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052v,1,Tempus est ut revertar*,Fer. 6 p. Ascensio.,M,R,3,007758,*,,,,,,,,,,,189735
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052v,2,Videntibus illis*,Fer. 6 p. Ascensio.,L,A,1,005392,*,,,,,,,,,,,189736
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052v,3,Ascendens in altum*,Sabb. p. Ascensionem,M,R,1,006121,*,,,,,,,,,,,189737
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,052v,4,Ascendit deus in jubilatione*,Sabb. p. Ascensionem,M,R,2,006123,*,,,,,,,,,,,189738
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,053r,1,Ponis nubem*,Sabb. p. Ascensionem,M,R,3,007392,*,,,,,,,,,,,189739
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,053r,2,Videntibus illis*,Sabb. p. Ascensionem,L,A,1,005392,*,,,,,,,,,,,189740
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,054v,1,Videntibus illis*,Dom. p. Ascensionem,L,A,1,005392,*,,,,,,,,,,,189741
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,054v,2,Cum autem venerit paraclitus,Dom. p. Ascensionem,L,A,B,001991,8,,3,107c,,,,,,,,189742
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,055v,1,Haec locutus sum vobis ut ,Dom. p. Ascensionem,V2,A,M,003011,8,,1,105c,,,,,,,,189743
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056r,1,Videntibus illis*,Fer. 2 p. Ascensio.,L,A,1,005392,*,,,,,,,,,,,189744
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056r,2,Jam Christus ascendit*,Fer. 2 p. Ascensio.,L,H,,008326,*,,,,,,,,,,,189745
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056r,3,Nimis exaltatus*,Fer. 2 p. Ascensio.,L,W,,008147,*,,,,,,,,,,,189746
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056r,4,Si diligitis me mandata mea,Fer. 2 p. Ascensio.,L,A,B,004886,1,,1,74c,,,,,,,,189747
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056v,1,Si diligitis me*,Dom. Pentecostes,V,A,1,004886,*,,,,,,,,,,,189748
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,056v,2,Rogabo patrem meum et alium,Dom. Pentecostes,V,A,2,004662,2,,1,153c,,,,,,,,189749
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,1,Non vos relinquam orphanos,Dom. Pentecostes,V,A,3,003941,2,,1,153c,,,,,,,,189750
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,2,Adhuc modicum et mundus me,Dom. Pentecostes,V,A,4,001275,5,,2,131a,,,,,,,,189751
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,3,Paraclitus autem spiritus,Dom. Pentecostes,V,A,5,004212,8,,1,105c,,,,,,,,189752
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,4,Factus est repente*,Dom. Pentecostes,V,R,,006717,*,,,,,,,,,,,189753
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,5,Veni creator spiritus mentes,Dom. Pentecostes,V,H,,008407,,,,,,,,,,,,189754
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,6,Spiritus domini replevit,Dom. Pentecostes,V,W,,008204,*,,,,,,,,,,,189755
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057r,7,Cum autem complerentur dies,Dom. Pentecostes,V,A,M,002438,7,,1,143e,,,,,,,,189756
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,1,Alleluia spiritus domini,Dom. Pentecostes,M,I,,001034,5,,5,,,,,,,,,189757
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,2,Beata nobis gaudia anni,Dom. Pentecostes,M,H,,008273,*,,,,,,,,,,,189758
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,3,Factus est repente de caelo,Dom. Pentecostes,M,A,1.1,002847,8,,2,99d,,,,,,,,189759
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,4,Confirma hoc deus quod,Dom. Pentecostes,M,A,1.2,001873,8,,2,99d,,,,,,,,189760
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,5,Emittes spiritum tuum et,Dom. Pentecostes,M,A,1.3,002643,8,,2,99d,,,,,,,,189761
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,057v,6,Repleti sunt omnes spiritu,Dom. Pentecostes,M,W,1.,008182,*,,,,,,,,,,,189762
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,058r,1,Dum complerentur dies,Dom. Pentecostes,M,R,1.1,006536,3,,,,,,,,,,,189763
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,058v,1,Dum ergo essent discipuli in,Dom. Pentecostes,M,V,01,006536b,3,,,,,,,,,,,189764
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,058v,2,Factus est repente de caelo,Dom. Pentecostes,M,R,1.2,006717,7,,,,,,,,,,,189765
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,058v,3,Et apparuerunt illis,Dom. Pentecostes,M,V,01,006717a,7,,,,,,,,,,,189766
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059r,1,Repleti sunt omnes spiritu,Dom. Pentecostes,M,R,1.3,007531,2,,,,,,,,,,,189767
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,1,Loquebantur variis linguis,Dom. Pentecostes,M,V,01,007531a,2,,,,,,,,,,,189768
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,2,Te deum laudamus*,Dom. Pentecostes,M,,,909010,*,,,,,,,,,,,189769
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,3,Dum complerentur dies,Dom. Pentecostes,L,A,1,002442,3,,1,249a,,,,,,,,189770
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,4,Spiritus domini replevit,Dom. Pentecostes,L,A,2,004998,8,,1,105c,,,,,,,,189771
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,5,Repleti sunt omnes spiritu,Dom. Pentecostes,L,A,3,004613,8,,1,105c,,,,,,,,189772
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,6,Fontes et omnia quae moventur,Dom. Pentecostes,L,A,4,002889,1,,8,76a,,,,,,,,189773
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,7,Loquebantur variis linguis,Dom. Pentecostes,L,A,5,003634,7,,6,141a,,,,,,,,189774
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,8,Repleti sunt omnes spiritu,Dom. Pentecostes,L,W,,008182,*,,,,,,,,,,,189775
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,9,Jam Christus astra ascenderat,Dom. Pentecostes,L,H,,008327,*,,,,,,,,,,,189776
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,10,Repleti sunt omnes spiritu,Dom. Pentecostes,L,W,,008182,*,,,,,,,,,,,189777
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,059v,11,Hodie completi sunt dies,Dom. Pentecostes,L,A,B,003096,1,,7,72d,,,,,,,,189778
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,1,Dum complerentur*,Dom. Pentecostes,V2,A,1,002442,*,,,,,,,,,,,189779
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,2,Spiritus domini*,Dom. Pentecostes,V2,A,2,004998,*,,,,,,,,,,,189780
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,3,Repleti sunt omnes*,Dom. Pentecostes,V2,A,3,004613,*,,,,,,,,,,,189781
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,4,Loquebantur*,Dom. Pentecostes,V2,A,4,003634,*,,,,,,,,,,,189782
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,5,Hi qui linguis loquuntur,Dom. Pentecostes,V2,A,5,003041,1,,8,76a,,,,,,,,189783
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,6,Veni creator spiritus*,Dom. Pentecostes,V2,H,,008407,*,,,,,,,,,,,189784
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,7,Repleti sunt omnes spiritu,Dom. Pentecostes,V2,W,,008182,*,,,,,,,,,,,189785
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,8,Hodie completi*,Dom. Pentecostes,V2,A,M,003096,*,,,,,,,,,,,189786
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,9,Repleti sunt omnes spiritu,Fer. 2 Pent.,M,I,,001154,6,,PA,,,,,,,,,189787
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,10,Beata nobis gaudia*,Fer. 2 Pent.,M,H,,008273,*,,,,,,,,,,,189788
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,11,Alleluia vi (Factus est),Fer. 2 Pent.,M,A,1.,001331,8,,2,99d,,,,,,,,189789
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061r,12,Spiritus domini replevit,Fer. 2 Pent.,M,W,1.,008204,*,,,,,,,,,,,189790
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061v,1,Apparuerunt apostoli,Fer. 2 Pent.,M,R,1,006110,7,,,,,,,,,,,189791
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061v,2,Et coeperunt loqui variis,Fer. 2 Pent.,M,V,01,006110b,7,,,,,,,,,,,189792
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061v,3,Jam non dicam vos servos sed,Fer. 2 Pent.,M,R,2,007030,8,,,,,,,,,,,189793
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,061v,4,Quorum remiseritis peccata,Fer. 2 Pent.,M,V,01,007030a,8,,,,,,,,,,,189794
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,062r,1,Disciplinam et sapientiam,Fer. 2 Pent.,M,R,3,006460,8,,,,,,,,,,,189795
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,062r,2,Repentino namque sonitu,Fer. 2 Pent.,M,V,01,006460b,8,,,,,,,,,,,189796
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,062r,3,Dum complerentur*,Fer. 2 Pent.,L,A,1,002442,3,,*,,,,,,,,,189797
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,062r,4,Sic deus dilexit mundum ut,Fer. 2 Pent.,L,A,B,004920,8,,1,105c,,,,,,,,189798
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,063v,1,Ego sum ostium dicit dominus,Fer. 3 Pent.,V2,A,M,002593,8,,1,105c,,,,,,,,189799
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,063v,2,Alleluia*,Fer. 4 Pent.,M,A,1.,,*,,,,Alleluia*,,,,,,,189800
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,063v,3,Spiritus domini replevit,Fer. 4 Pent.,M,W,1.,008204,*,,,,,,,,,,,189801
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,063v,4,Spiritus sanctus procedens a,Fer. 4 Pent.,M,R,1,007693,3,,,,,,,,,,,189802
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,063v,5,Advenit ignis divinus non,Fer. 4 Pent.,M,V,01,007693b,3,,,,,,,,,,,189803
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,064r,1,Repleti sunt omnes*,Fer. 4 Pent.,M,R,2,007531,*,,,,,,,,,,,189804
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,064r,2,Apparuerunt*,Fer. 4 Pent.,M,R,3,006110,*,,,,,,,,,,,189805
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,064r,3,Ego sum panis vivus qui ,Fer. 4 Pent.,L,A,B,002595,8,,1,105c,,,,,,,,189806
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,065r,1,Spiritus domini*,Fer. 4 Pent.,V2,A,M,004998,*,,,,,,,,,,,189807
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,065v,1,Alleluia*,Fer. 5 Pent.,M,A,1.,,*,,,,Alleluia*,,,,,,,189808
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,065v,2,Spiritus domini replevit,Fer. 5 Pent.,M,W,1.,008204,*,,,,,,,,,,,189809
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,065v,3,Disciplinam*,Fer. 5 Pent.,M,R,1,006460,*,,,,,,,,,,,189810
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,066r,1,Advenit ignis divinus*,Fer. 5 Pent.,M,R,2,006053,*,,,,,,,,,,,189811
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,066r,2,Loquebantur variis*,Fer. 5 Pent.,M,R,3,007101,*,,,,,,,,,,,189812
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,066r,3,Convocatis Jesus duodecim,Fer. 5 Pent.,L,A,B,200905,7,,1,143e,,,,,,,,189813
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,067v,1,Dixit dominus paralytico,Fer. 6 Pent.,L,A,B,002288,1,,1,74c,,,,,,,,189814
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,067v,2,Alleluia vi (Factus est)*,Sabbato Pent.,M,A,1.,001331,8,,*,,,,,,,,,189815
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,067v,3,Spiritus domini replevit,Sabbato Pent.,M,W,1.,008204,*,,,,,,,,,,,189816
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,068r,1,Cum sol autem occidisset,Sabbato Pent.,L,A,B,002034,1,,1,74c,,,,,,,,189817
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,070v,1,Exibant autem daemonia a,Sabbato Pent.,V2,A,M,002786,8,,1,105c,,,,,,,,189818
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,1,Repleti sunt omnes*,Octava Pentecostes,M,I,,001154,*,,*,,,,,,,,,189819
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,2,Beata nobis*,Octava Pentecostes,M,H,,008273,*,,,,,,,,,,,189820
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,3,Si diligitis me*,Octava Pentecostes,M,A,1.1,004886,*,,,,,,,,,,,189821
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,4,Rogabo patrem*,Octava Pentecostes,M,A,1.2,004662,*,,,,,,,,,,,189822
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,5,Non vos relinquam*,Octava Pentecostes,M,A,1.3,003941,*,,,,,,,,,,,189823
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,6,Spiritus domini replevit,Octava Pentecostes,M,W,1.,008204,*,,,,,,,,,,,189824
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071r,7,Dum complerentur dies*,Octava Pentecostes,M,R,1.1,006536,*,,,,,,,,,,,189825
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071v,1,Adhuc modicum*,Octava Pentecostes,M,A,2.1,001275,*,,,,,,,,,,,189826
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071v,2,Paraclitus autem*,Octava Pentecostes,M,A,2.2,004212,*,,,,,,,,,,,189827
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071v,3,Qui habet mandata*,Octava Pentecostes,M,A,2.3,004472,*,,,,,,,,,,,189828
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,071v,4,Emittes spiritum tuum*,Octava Pentecostes,M,W,2.,008052,*,,,,,,,,,,,189829
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072r,1,Factus est repente*,Octava Pentecostes,M,A,3.1,002847,*,,,,,,,,,,,189830
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072r,2,Confirma hoc deus*,Octava Pentecostes,M,A,3.2,001873,*,,,,,,,,,,,189831
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072r,3,Emittes spiritum tuum*,Octava Pentecostes,M,A,3.3,002643,*,,,,,,,,,,,189832
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072r,4,Loquebantur variis linguis,Octava Pentecostes,M,W,3.,008126,*,,,,,,,,,,,189833
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072v,1,Dum complerentur dies*,Octava Pentecostes,L,A,1,002442,*,,,,,,,,,,,189834
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,072v,2,Venit homo ad Jesum nocte ,Dom. 1 p. Pent.,L,A,B,005343,2,,1,153c,,,,,,,,189835
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,073v,1,Nemo ascendit in caelum nisi,Dom. 1 p. Pent.,V2,A,M,003870,2,,1,153c,,,,,,,,189836
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,1,In manu tua domine omnes,Dominica in estate,M,I,,001087,6,,FE,,,,,,,,,189837
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,2,Nocte surgentes vigilemus,Dominica in estate,M,H,,008349,,,,,,,,,,,,189838
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,3,Pro fidei meritis vocitatur,Dominica in estate,M,A,1,004383,1,,4,75b,,,,,,,,189839
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,4,Juste deus judex fortis,Dominica in estate,M,A,2,003530,2,,1,153c,,,,,,,,189840
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,5,Surge et in aeternum serva,Dominica in estate,M,A,3,005072,3,,2,101j,,,,,,,,189841
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075r,6,Media nocte surgebam*,Dominica in estate,M,W,,008136,*,,,,,,,,,,,189842
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075v,1,Praeparate corda vestra,De Regum,M,R,1.1,007425,1,,,,,,,,,,,189843
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075v,2,Convertimini ad eum in toto,De Regum,M,V,01,007425b,1,,,,,,,,,,,189844
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075v,3,Deus omnium exauditor est,De Regum,M,R,1.2,006430,1,,,,,,,,,,,189845
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075v,4,Dominus qui eripuit me de ore,De Regum,M,V,01,006430a,1,,,,,,,,,,,189846
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,075v,99,LACUNA,LACUNA,,,,,,,,,LACUNA,,,,,,,189847
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,076v,1,Cum audisset Job*,De Job,E,A,1,001980,?,,*,,,,,,,,,189848
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,076v,2,In omnibus his non peccavit,De Job,E,A,2,003263,1,,3,66c,,,,,,,,189849
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,076v,3,Noctem illam tenebrosus turbo,De Job,E,A,3,003890,7,,6,141a,,,,,,,,189850
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,076v,4,Quare detraxistis sermonibus,De Job,E,A,4,004448,3,,4,259a,,,,,,,,189851
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,076v,5,Auditu auris audivi te nunc,De Job,E,A,5,001526,?,,*,,,,,,,,,189852
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,077r,1,Quantas habeo iniquitates et,De Job,E,A,6,004445,7,,4,147d,,,,,,,,189853
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,077r,2,Paucitas dierum meorum,De Job,E,A,7,203792,2,,1,153c,,,,,,,,189854
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,077r,3,Versa est in luctum cithara,De Job,E,A,8,005369,3,,4,259a,,,,,,,,189855
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,077r,4,Cum aegrotasset Job flevit et,De Job,E,A,9,001972,6,,2,69j,,,,,,,,189856
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,077r,5,Cives mei vermes sunt cutis,De Job,E,A,10,001814,3,,1,249a,,,,,,,,189857
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,079r,1,Nolite solliciti esse,Dom. 14 p. Pent.,L,A,B,003895,8,,1,105c,,,,,,,,189858
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,080r,1,Quaerite primum regnum dei et,Dom. 14 p. Pent.,V2,A,M,004431,1,,3,66c,,,,,,,,189859
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,081r,1,Ne reminiscaris domine,De Tobia,V,A,M,003861,6,,2,69j,,,,,,,,189860
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,081r,2,Peto domine ut de vinculo,De Tobia,M,R,1.1,007381,1,,,,,,,,,,,189861
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,081v,1,Quoniam tu castigas et salvas,De Tobia,M,V,01,007381d,1,,,,,,,,,,,189862
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,081v,2,Magnus es domine deus noster,De Tobia,M,R,1.2,007122,2,,,,,,,,,,,189863
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,081v,3,Benedictus es domine deus,De Tobia,M,V,01,007122a,2,,,,,,,,,,,189864
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082r,1,Omni tempore benedic deum et,De Tobia,M,R,1.3,007317,8,,,,,,,,,,,189865
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082r,2,Inquire ut facias quae,De Tobia,M,V,01,007317b,8,,,,,,,,,,,189866
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082r,3,Memor esto fili quoniam,De Tobia,M,R,2.1,007145,7,,,,,,,,,,,189867
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082r,4,In mente habeto eum et cave,De Tobia,M,V,01,007145b,7,,,,,,,,,,,189868
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082v,1,Sufficiebat nobis paupertas,De Tobia,M,R,2.2,007717,4,,,,,,,,,,,189869
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,082v,2,Heu me fili mi ut quid te,De Tobia,M,V,01,007717a,4,,,,,,,,,,,189870
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083r,1,Benedicite deum caeli et,De Tobia,M,R,2.3,006241,1,,,,,,,,,,,189871
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083r,2,Tempus est ut revertar ad eum,De Tobia,M,V,01,006241a,1,,,,,,,,,,,189872
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083r,3,Tempus est ut revertar ad eum,De Tobia,M,R,3.1,007759,2,,,,,,,,,,,189873
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083r,4,Benedicite deum caeli et,De Tobia,M,V,01,007759a,2,,,,,,,,,,,189874
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083v,1,Sicut praecessit Tobiae,De Tobia,M,R,3.2,007662,?,,,,,,,,,,,189875
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,083v,2,Angelus qui fuit cum Tobia,De Tobia,M,V,01,007662a,?,,,,,,,,,,,189876
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,084r,1,Summae trinitati*,Dom. 15 p. Pent.,M,R,3.3,007718,*,,,,,,,,,,,189877
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,084r,2,Ibat Jesus in civitate quae,Dom. 15 p. Pent.,L,A,1B,202307,2,,1,153c,,,,,,,,189878
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,084r,3,Accessit Jesus et tetigit,Dom. 15 p. Pent.,L,A,2B,001225,2,,1,153c,,,,,,,,189879
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,085r,1,Accepit autem omnis timor et,Dom. 15 p. Pent.,V2,A,M,001216,1,,1,74c,,,,,,,,189880
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,085v,1,Ne reminiscaris*,De Tobia,E,A,1,003861,*,,,,,,,,,,,189881
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,085v,2,Omni tempore benedic deum et,De Tobia,E,A,2,004135,1,,3,66c,,,,,,,,189882
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,085v,3,Memor esto fili quoniam,De Tobia,E,A,3,003738,7,,1,143e,,,,,,,,189883
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,086r,1,Ingressus est Raphael,De Tobia,E,A,4,003345,7,,4,147d,,,,,,,,189884
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,090v,1,Dixit autem dominus ad,Sabbato Q.T. Sept.,V,A,1M,002271,7,,1,143e,,,,,,,,189885
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,090v,2,Erat Jesus docens in,Sabbato Q.T. Sept.,V,A,2M,002655,3,,1,249a,,,,,,,,189886
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091r,1,Tribulationes civitatum,De Judith,M,R,1.1,007779,7,,,,,,,,,,,189887
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091r,2,Peccavimus cum patribus*,De Judith,M,V,01,007779a,7,,,,,,,,,,,189888
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091r,3,Qui regis Israel intende qui,De Judith,M,V,02,007779c,7,,,,,,,,,,,189889
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091v,1,Nos alium deum nescimus,De Judith,M,R,1.2,007237,2,,,,,,,,,,,189890
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091v,2,Dominus mortificat et,De Judith,M,V,01,007237d,2,,,,,,,,,,,189891
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091v,3,Domine deus qui conteris,De Judith,M,R,1.3,006492,2,,,,,,,,,,,189892
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,091v,4,Qui regis Israel*,De Judith,M,V,01,006492d,2,,,,,,,,,,,189893
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092r,1,Dominator domine caelorum et,De Judith,M,R,2.1,006488,2,,,,,,,,,,,189894
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092r,2,Qui regis*,De Judith,M,V,01,006488c,2,,,,,,,,,,,189895
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092r,3,Vos qui in turribus estis,De Judith,M,R,2.2,007913,2,,,,,,,,,,,189896
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092v,1,Laudate dominum deum nostrum,De Judith,M,V,01,007913a,2,,,,,,,,,,,189897
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092v,2,Laudate dominum deum nostrum,De Judith,M,R,2.3,007078,2,,,,,,,,,,,189898
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,092v,3,Et interfecit hostem populi,De Judith,M,V,01,007078c,2,,,,,,,,,,,189899
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093r,1,Benedixit te dominus in,De Judith,M,R,3.1,006253,1,,,,,,,,,,,189900
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093r,2,Benedictus dominus qui,De Judith,M,V,01,006253a,1,,,,,,,,,,,189901
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093r,3,Adonai domine deus magne et,De Judith,M,R,3.2,006043,3,,,,,,,,,,,189902
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093v,1,Benedictus es domine qui non,De Judith,M,V,01,006043a,3,,,,,,,,,,,189903
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093v,2,Honor virtus*,De Judith,M,R,3.3,006870,*,,,,,,,,,,,189904
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,093v,3,Cum intrasset Jesus in domum,Dom. 16 p. Pent.,L,A,B,002012,7,,1,143e,,,,,,,,189905
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,095r,1,Cum invitatus fueris ad,Dom. 16 p. Pent.,V,A,M,002055,7,,1,143e,,,,,,,,189906
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,096r,1,Dominator domine rex,De Judith,H,A,1,002324,2,,1,153c,,,,,,,,189907
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,096r,2,Domine deus qui conteris,De Judith,H,A,2,002338,8,,1,105c,,,,,,,,189908
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,096r,3,Adonai domine deus magne et,De Judith,H,A,3,001286,8,,1,105c,,,,,,,,189909
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,1,Domine rex omnipotens in,De Esther,M,R,1,006511,2,,,,,,,,,,,189910
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,2,Tu fecisti caelum et terram,De Esther,M,V,01,006511c,2,,,,,,,,,,,189911
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,3,Miserere domine populo tuo,De Esther,M,R,2,007159,2,,,,,,,,,,,189912
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,4,Qui regis Israel*,De Esther,M,V,01,007159c,2,,,,,,,,,,,189913
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,5,Da nobis domine locum,De Esther,M,R,3,006389,2,,,,,,,,,,,189914
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,6,Memento domine testamenti tui,De Esther,M,V,01,006389d,2,,,,,,,,,,,189915
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097r,7,Spem in alium numquam habui,De Esther,M,R,4,007684,2,,,,,,,,,,,189916
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,1,Qui regis*,De Esther,M,V,01,007684b,2,,,,,,,,,,,189917
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,2,Conforta me rex sanctorum,De Esther,M,R,5,006319,2,,,,,,,,,,,189918
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,3,Da nobis domine locum,De Esther,M,V,01,006319a,2,,,,,,,,,,,189919
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,4,Memento mei deus in bonum et,De Esther,M,R,6,007142,2,,,,,,,,,,,189920
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,5,Recordare mei domine deus,De Esther,M,V,01,007142b,2,,,,,,,,,,,189921
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,6,Domine rex omnipotens libera,De Esther,H,A,1,002378,2,,1,153c,,,,,,,,189922
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,7,Domine rex omnipotens in,De Esther,H,A,2,002377,2,,1,153c,,,,,,,,189923
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,8,Domine rex omnipotens qui,De Esther,H,A,3,002379,2,,1,153c,,,,,,,,189924
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,9,Adaperiat dominus*,De Machabaeis,V,A,M,001258,*,,,,,,,,,,,189925
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,097v,10,Adaperiat dominus cor vestrum,De Machabaeis,M,I,,001002,2,,2,156b,,,,,,,,189926
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098r,1,Adaperiat dominus cor vestrum,De Machabaeis,M,R,1.1,006028,3,,,,,,,,,,,189927
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098r,2,Exaudiat dominus orationes,De Machabaeis,M,V,01,006028a,3,,,,,,,,,,,189928
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098r,3,Exaudiat dominus orationes,De Machabaeis,M,R,1.2,006687,2,,,,,,,,,,,189929
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098r,4,Det vobis cor omnibus ut,De Machabaeis,M,V,01,006687b,2,,,,,,,,,,,189930
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098v,1,Congregati sunt inimici,De Machabaeis,M,R,1.3,006326,1,,,,,,,,,,,189931
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098v,2,Disperge illos in virtute tua,De Machabaeis,M,V,01,006326a,1,,,,,,,,,,,189932
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098v,3,Impetum inimicorum ne,De Machabaeis,M,R,2.1,006886,2,,,,,,,,,,,189933
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,098v,4,Mementote mirabilium domini,De Machabaeis,M,V,01,006886a,2,,,,,,,,,,,189934
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099r,1,Congregatae sunt gentes in,De Machabaeis,M,R,2.2,006324,8,,,,,,,,,,,189935
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099r,2,Tu scis quae cogitant in nos,De Machabaeis,M,V,01,006324a,8,,,,,,,,,,,189936
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099v,1,Tua est potentia tuum regnum,De Machabaeis,M,R,2.3,007793,2,,,,,,,,,,,189937
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099v,2,Creator omnium deus,De Machabaeis,M,V,01,007793a,2,,,,,,,,,,,189938
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099v,3,Refulsit sol in clipeos,De Machabaeis,M,R,3.1,007518,2,,,,,,,,,,,189939
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,099v,4,Erat enim exercitus magnus,De Machabaeis,M,V,01,007518a,2,,,,,,,,,,,189940
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100r,1,Dixit Judas Simoni fratri suo,De Machabaeis,M,R,3.2,006478,7,,,,,,,,,,,189941
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100r,2,Accingimini et estote filii,De Machabaeis,M,V,01,006478b,7,,,,,,,,,,,189942
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,1,Ornaverunt faciem templi,De Machabaeis,M,R,3.3,007341,7,,,,,,,,,,,189943
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,2,In hymnis et confessionibus,De Machabaeis,M,V,01,007341a,7,,,,,,,,,,,189944
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,3,In hymnis et confessionibus,De Machabaeis,M,R,10,006905,8,,,,,,,,,,,189945
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,4,Ornaverunt faciem templi,De Machabaeis,M,V,01,006905a,8,,,,,,,,,,,189946
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,5,Hic est fratrum amator et,De Machabaeis,M,R,11,006824,7,,,,,,,,,,,189947
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,6,Vir iste in populo suo,De Machabaeis,M,V,01,006824a,7,,,,,,,,,,,189948
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,7,Tu domine universorum qui,De Machabaeis,M,R,12,007786,2,,,,,,,,,,,189949
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,8,Qui regis Israel intende qui,De Machabaeis,M,V,01,007786a,2,,,,,,,,,,,189950
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,100v,9,Dirumpam vincula populi mei,De Machabaeis,M,R,13,006461,8,,,,,,,,,,,189951
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,101r,1,Revertar ab Jerusalem in,De Machabaeis,M,V,01,006461b,8,,,,,,,,,,,189952
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,101r,2,Aperi caelos tuos domine et,De Machabaeis,M,R,14,006109,2,,,,,,,,,,,189953
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,101r,3,Afflige opprimentes nos et,De Machabaeis,M,V,01,006109a,2,,,,,,,,,,,189954
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,101r,4,In resurrectione autem neque,Dom. 17 p. Pent.,L,A,B,003279,7,,3,142a,,,,,,,,189955
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,102r,1,Ego sum deus Abraham et ,Dom. 17 p. Pent.,V2,A,M,002590,8,,1,105c,,,,,,,,189956
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,1,Adaperiat dominus cor vestrum,De Machabaeis,H,A,1,001257,8,,1,105c,,,,,,,,189957
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,2,Exaudiat dominus orationes,De Machabaeis,H,A,2,002772,2,,1,153c,,,,,,,,189958
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,3,Tua est potentia tuum regnum,De Machabaeis,H,A,3,005224,2,,1,153c,,,,,,,,189959
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,4,Da pacem domine in diebus,De Machabaeis,H,A,4,002090,2,,1,153c,,,,,,,,189960
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,5,Refulsit sol in clipeos,De Machabaeis,H,A,5,004590,8,,1,105c,,,,,,,,189961
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,6,Ornaverunt faciem templi,De Machabaeis,H,A,6,004198,1,,1,74c,,,,,,,,189962
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,7,Aperi oculos tuos domine et,De Machabaeis,H,A,7,001443,8,,1,105c,,,,,,,,189963
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,8,Extende domine bracchium tuum,De Machabaeis,H,A,8,002826,8,,1,105c,,,,,,,,189964
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,103r,9,Lugebat autem Judam Israel,De Machabaeis,H,A,9,003643,2,,1,153c,,,,,,,,189965
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,105v,1,Dixit dominus paralytico,Dom. 18 p. Pent.,L,A,B,002288,1,,1,74c,,,,,,,,189966
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,106r,1,Tulit ergo paralyticus lectum,Dom. 18 p. Pent.,V2,A,M,005235,4,,1,15n,,,,,,,,189967
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,109r,1,Dixit autem dominus servo,Dom. 19 p. Pent.,L,A,B,002274,7,,1,143e,,,,,,,,189968
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,110v,1,Serve nequam omne debitum,Dom. 19 p. Pent.,V2,A,M,004873,6,,1,54a,,,,,,,,189969
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,113r,1,Interrogatus a Judaeis,Dom. 20 p. Pent.,L,A,B,003378,1,,7,72d,,,,,,,,189970
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,114r,1,Reddite ergo quae sunt,Dom. 20 p. Pent.,V2,A,M,004584,1,,3,66c,,,,,,,,189971
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115r,1,Vidi dominum sedentem*,De Prophetis,V,A,M,005404,*,,,,,,,,,,,189972
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115r,2,Venite exsultemus domino,De Prophetis,M,I,,001180,4,,BL,,,,,,,,,189973
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115r,3,Praeoccupemus faciem domini,De Prophetis,M,I,,001115,7,,7,,,,,,,,,189974
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115r,4,Primo dierum*,De Prophetis,M,H,,008373,*,,,,,,,,,,,189975
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115r,5,Pro fidei meritis*,De Prophetis,M,A,1.1,004383,*,,,,,,,,,,,189976
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115v,1,Vidi dominum sedentem super,De Prophetis,M,R,1.1,007875,1,,,,,,,,,,,189977
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115v,2,Seraphim stabant super illud,De Prophetis,M,V,01,007875a,1,,,,,,,,,,,189978
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115v,3,Aspice domine de sede sancta,De Prophetis,M,R,1.2,006126,1,,,,,,,,,,,189979
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,115v,4,Qui regis Israel intende qui,De Prophetis,M,V,01,006126a,1,,,,,,,,,,,189980
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116r,1,Aspice domine quia facta est,De Prophetis,M,R,1.3,006127,1,,,,,,,,,,,189981
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116r,2,Omnes amici ejus spreverunt,De Prophetis,M,V,01,006127b,1,,,,,,,,,,,189982
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116r,3,Super muros tuos Jerusalem,De Prophetis,M,R,2.1,007723,6,,,,,,,,,,,189983
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116r,4,Praedicabunt populis,De Prophetis,M,V,01,007723b,6,,,,,,,,,,,189984
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116v,1,Muro tuo inexpugnabili,De Prophetis,M,R,2.2,007192,8,,,,,,,,,,,189985
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,116v,2,Erue nos in mirabilibus tuis,De Prophetis,M,V,01,007192a,8,,,,,,,,,,,189986
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117r,1,Sustinuimus pacem et non,De Prophetis,M,R,2.3,007746,8,,,,,,,,,,,189987
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117r,2,Peccavimus impie gessimus,De Prophetis,M,V,01,007746c,8,,,,,,,,,,,189988
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117r,3,Misit dominus angelum suum et,De Prophetis,M,R,3.1,007164,5,,,,,,,,,,,189989
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117r,4,Misit deus misericordiam suam,De Prophetis,M,V,01,007164a,5,,,,,,,,,,,189990
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117v,1,Angustiae mihi undique et,De Prophetis,M,R,3.2,006099,8,,,,,,,,,,,189991
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,117v,2,Si enim hoc egero mors mihi,De Prophetis,M,V,01,006099a,8,,,,,,,,,,,189992
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,1,Laudabilis populus quem,De Prophetis,M,R,3.3,007077,8,,,,,,,,,,,189993
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,2,Beata gens cujus est dominus,De Prophetis,M,V,01,007077a,8,,,,,,,,,,,189994
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,3,Redemit dominus populum suum,De Prophetis,M,R,10,007515,3,,,,,,,,,,,189995
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,4,Eritque anima eorum quasi,De Prophetis,M,V,01,007515b,3,,,,,,,,,,,189996
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,5,A facie furoris tui deus,De Prophetis,M,R,11,006003,2,,,,,,,,,,,189997
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,6,Converte nos deus salutaris,De Prophetis,M,V,01,006003a,2,,,,,,,,,,,189998
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118r,7,Fluctus tui super me,De Prophetis,M,R,12,006738,7,,,,,,,,,,,189999
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,1,Abyssus vallavit me pelagus,De Prophetis,M,V,01,006738a,7,,,,,,,,,,,190000
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,2,Indicabo tibi homo quid sit,De Prophetis,M,R,13,006954,5,,,,,,,,,,,190001
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,3,Spera in domino et fac,De Prophetis,M,V,01,006954a,5,,,,,,,,,,,190002
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,4,Genti peccatrici populo pleno,De Prophetis,M,R,14,006768,5,,,,,,,,,,,190003
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,5,Esto placabilis super,De Prophetis,M,V,01,006768a,5,,,,,,,,,,,190004
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,6,Civitatem istam tu circumda,De Prophetis,M,R,15,006291,2,,,,,,,,,,,190005
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,7,Avertatur obsecro furor tuus,De Prophetis,M,V,01,006291a,2,,,,,,,,,,,190006
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,8,Qui caelorum contines thronos,De Prophetis,M,R,16,007471,2,,,,,,,,,,,190007
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,9,Non enim in justificationibus,De Prophetis,M,V,01,007471a,2,,,,,,,,,,,190008
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,118v,10,Domine filia mea modo,Dom. 21 p. Pent.,L,A,B,002346,6,,1,54a,,,,,,,,190009
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120r,1,Dicebat enim intra se si,Dom. 21 p. Pent.,V2,A,M,002187,2,,1,153c,,,,,,,,190010
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120v,1,Vidi dominum sedentem super,De Prophetis,H,A,1,005404,1,,5,64b,,,,,,,,190011
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120v,2,Aspice domine quia facta est,De Prophetis,H,A,2,001497,2,,1,153c,,,,,,,,190012
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120v,3,Super muros tuos Jerusalem,De Prophetis,H,A,3,005059,2,,1,153c,,,,,,,,190013
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120v,4,Muro tuo inexpugnabili,De Prophetis,H,A,4,003844,2,,1,153c,,,,,,,,190014
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,120v,5,Libera nos deus in,De Prophetis,H,A,5,003618,1,,1,74c,,,,,,,,190015
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,121r,1,Civitatem istam tu circumda,De Prophetis,H,A,6,001815,7,,3,142a,,,,,,,,190016
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,121r,2,Qui caelorum contines thronos,De Prophetis,H,A,7,004460,1,,1,74c,,,,,,,,190017
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,123r,1,Domine nonne bonum semen,Dom. 22 p. Pent.,L,A,B,002364,1,,2,66e,,,,,,,,190018
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,124r,1,Colligite primum zizania et,Dom. 22 p. Pent.,V2,A,M,001853,1,,3,66c,,,,,,,,190019
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,127r,1,Cum appropinquaret dominus,Dom. 23 p. Pent.,L,A,B,001975,1,,7,72d,,,,,,,,190020
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,128r,1,Videns Jesus civitatem,Dom. 23 p. Pent.,V2,A,M,005384,8,,1,105c,,,,,,,,190021
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,131v,1,Sedente autem Jesu super,Dom. 24 p. Pent.,L,A,B,004855,1,,4,75b,,,,,,,,190022
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,133r,1,Audituri enim estis proelia,Dom. 24 p. Pent.,V2,A,M,200431,2,,1,153c,,,,,,,,190023
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,134v,1,Cum videritis abominationem,Dom. 25 p. Pent.,L,A,B,002048,2,,1,153c,,,,,,,,190024
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,135v,1,Sicut fulgur exit ab oriente,Dom. 25 p. Pent.,V2,A,M,004935,7,,11,262a,,,,,,,,190025
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,1,De die autem illa et ,Dom. 26 p. Pent.,V2,A,M,002105,7,,1,143e,,,,,,,,190026
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,2,Gloria tibi trinitas aequalis,De Trinitate,V,A,1,002948,1,,1,74c,,,,,,,,190027
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,3,Laus et perennis gloria deo,De Trinitate,V,A,2,003601,2,,1,153c,,,,,,,,190028
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,4,Gloria laudis resonet in ore,De Trinitate,V,A,3,002947,3,,4,259a,,,,,,,,190029
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,5,Laus deo patri parilique,De Trinitate,V,A,4,003600,4,,1,15n,,,,,,,,190030
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,137v,6,Ex quo omnia per quem ,De Trinitate,V,A,5,002751,5,,1,129a,,,,,,,,190031
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,1,Honor virtus*,De Trinitate,V,R,,006870,*,,,,,,,,,,,190032
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,2,O lux beata trinitas*,De Trinitate,V,H,,008358,*,,,,,,,,,,,190033
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,3,Verbo domini caeli firmati,De Trinitate,V,W,,008237,*,,,,,,,,,,,190034
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,4,Gratias tibi deus gratias,De Trinitate,V,A,M,002977,1,,1,74c,,,,,,,,190035
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,5,Deum verum unum in trinitate,De Trinitate,M,I,,001061,4,,RE,,,,,,,,,190036
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,6,O veneranda trinitas laudanda,De Trinitate,M,H,,008364,,,,,,,,,,,,190037
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,7,Adesto deus unus omnipotens,De Trinitate,M,A,1.1,001268,1,,1,74c,,,,,,,,190038
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,8,Te unum in substantia,De Trinitate,M,A,1.2,005126,2,,1,153c,,,,,,,,190039
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,9,Te semper idem esse vivere ,De Trinitate,M,A,1.3,005124,3,,2,101j,,,,,,,,190040
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138r,10,Verbo domini*,De Trinitate,M,W,1.,008237,*,,,,,,,,,,,190041
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138v,1,Benedicat nos deus deus,De Trinitate,M,R,1.1,006240,1,,,,,,,,,,,190042
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138v,2,Deus misereatur nostri et,De Trinitate,M,V,01,006240a,1S,,,,,,,,,,,190043
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138v,3,Benedictus dominus deus,De Trinitate,M,R,1.2,006249,2,,,,,,,,,,,190044
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,138v,4,Replebitur majestate ejus,De Trinitate,M,V,01,006249a,2,,,,,,,,,,,190045
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,1,Quis deus magnus sicut deus,De Trinitate,M,R,1.3,007498,3,,,,,,,,,,,190046
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,2,Notam fecisti in populis,De Trinitate,M,V,01,007498a,3S,,,,,,,,,,,190047
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,3,Te invocamus te adoramus te,De Trinitate,M,A,2.1,005119,4,,1,15n,,,,,,,,190048
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,4,Spes nostra salus nostra,De Trinitate,M,A,2.2,004991,5,,2,131a,,,,,,,,190049
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,5,Libera nos salva nos,De Trinitate,M,A,2.3,003619,6,,2,69j,,,,,,,,190050
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139r,6,Benedicamus patrem et filium*,De Trinitate,M,W,2.,007966,*,,,,,,,,,,,190051
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139v,1,Magnus dominus et magna,De Trinitate,M,R,2.1,007117,4,,,,,,,,,,,190052
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139v,2,Magnus dominus et laudabilis,De Trinitate,M,V,01,007117a,4,,,,,,,,,,,190053
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139v,3,Gloria patri genitoque proli,De Trinitate,M,R,2.2,006777,5,,,,,,,,,,,190054
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,139v,4,Da gaudiorum praemia da,De Trinitate,M,V,01,006777a,5S,,,,,,,,,,,190055
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,1,Honor virtus et potestas et,De Trinitate,M,R,2.3,006870,6,,,,,,,,,,,190056
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,2,Trinitati lux perenni,De Trinitate,M,V,01,006870a,6S,,,,,,,,,,,190057
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,3,Gloria patri et filio et,De Trinitate,M,V,02,909000,6S,,,,,,,,,,,190058
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,4,Caritas pater est gratia,De Trinitate,M,A,3.1,001773,7,,1,143e,,,,,,,,190059
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,5,Verax est pater veritas,De Trinitate,M,A,3.2,005358,8,,2,99d,,,,,,,,190060
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,6,Una igitur pater logos,De Trinitate,M,A,3.3,005267,8,,1,105c,,,,,,,,190061
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140r,7,Benedictus es domine in,De Trinitate,M,W,3.,007977,*,,,,,,,,,,,190062
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140v,1,Summae trinitati simplici deo,De Trinitate,M,R,3.1,007718,7,,,,,,,,,,,190063
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140v,2,Praestet nobis gratiam deitas,De Trinitate,M,V,01,007718a,7S,,,,,,,,,,,190064
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140v,3,Benedicamus patrem et filium,De Trinitate,M,R,3.2,006239,8,,,,,,,,,,,190065
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,140v,4,Benedictus es domine in,De Trinitate,M,V,01,006239a,8S,,,,,,,,,,,190066
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,1,Te deum patrem ingenitum te,De Trinitate,M,R,3.3,007755,4,,,,,,,,,,,190067
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,2,Quoniam magnus es tu et,De Trinitate,M,V,01,007755a,4,,,,,,,,,,,190068
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,3,O beata et benedicta et,De Trinitate,L,A,1,003992,1,,1,74c,,,,,,,,190069
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,4,Tibi laus tibi gloria tibi,De Trinitate,L,AV,01,003992a,1,,?,,,,,,,,,190070
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,5,O beata benedicta gloriosa,De Trinitate,L,A,2,003990,2,,1,153c,,,,,,,,190071
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,6,Miserere miserere miserere,De Trinitate,L,AV,01,003990a,2,,?,,,,,,,,,190072
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,7,O vera summa sempiterna,De Trinitate,L,A,3,004086,3,,2,101j,,,,,,,,190073
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141r,8,Tibi laus tibi gloria tibi,De Trinitate,L,AV,01,004086a,3,,2,101j,,,,,,,,190074
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,1,O vera summa sempiterna,De Trinitate,L,A,4,004087,4,,1,15n,,,,,,,,190075
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,2,Miserere miserere miserere,De Trinitate,L,AV,01,004087a,4,,?,,,,,,,,,190076
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,3,Te jure laudant te adorant ,De Trinitate,L,A,5,005120,5,,1,129a,,,,,,,,190077
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,4,Tibi laus tibi gloria tibi,De Trinitate,L,AV,01,005120a,5,,?,,,,,,,,,190078
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,5,Haec est dies*,De Trinitate,L,R,,006799,*,,,,,,,,,,,190079
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,6,O pater sancte mitis atque,De Trinitate,L,H,,008361,,,,,,,,,,,,190080
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,7,Sit nomen domini benedictum,De Trinitate,L,W,,008199,*,,,,,,,,,,,190081
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,8,Benedicta sit creatrix et,De Trinitate,L,A,B,001707,6,,1,54a,,,,,,,,190082
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,141v,9,Gaudemus et exsultemus et,De Trinitate,L,AV,01,001707za,6,,1,54a,,,,,,,,190083
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,1,Gloria et honor deo in,De Trinitate,V2,A,1,002943,1,,3,66c,Gloria et honor deo in unitate trina patri et filio cum sancto spiritu in sempiterna saecula,,,,,,,190084
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,2,In patre manet aeternitas in,De Trinitate,V2,A,2,003268,3,,2,101j,,,,,,,,190085
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,3,Sanctus sanctus sanctus,De Trinitate,V2,A,3,004796,5,,1,129a,,,,,,,,190086
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,4,Gloria et honor et benedictio,De Trinitate,V2,A,4,002944,1,,3,66c,,,,,,,,190087
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,5,Benedictio et claritas et,De Trinitate,V2,A,5,001710,8,,1,105c,,,,,,,,190088
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,6,O lux beata trinitas*,De Trinitate,V2,H,,008358,*,,,,,,,,,,,190089
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,142v,7,Te deum patrem ingenitum te,De Trinitate,V2,A,M,005117,4,,1,15n,,,,,,,,190090
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,1,Alleluia ? (Stabunt justi)*,De Sanctis TP,V,A,,,*,,,,Alleluia ? (Stabunt justi)*,,,,,,,190091
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,2,Filiae Jerusalem venite et,De Sanctis TP,V,A,M,002877,1,,4,75b,,,,,,,,190092
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,3,Exsultent in domino sancti,De Sanctis TP,M,I,,100127,6,,B3,,,,,,,,,190093
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,4,Stabunt justi in magna,De Sanctis TP,M,A,1,005012,8,,1,105c,,,,,,,,190094
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,5,Ecce quomodo computati sunt,De Sanctis TP,M,A,2,002540,3,,1,249a,,,,,,,,190095
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,6,Filiae Jerusalem*,De Sanctis TP,M,A,3,002877,1,,*,,,,,,,,,190096
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,7,Lux perpetua lucebit sanctis,De Sanctis TP,M,A,4,003653,4,,4,260a,,,,,,,,190097
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153r,8,Laetitia sempiterna super,De Sanctis TP,M,A,5,003572,1,,1,74c,,,,,,,,190098
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,1,Sancti tui domine florebunt,De Sanctis TP,M,A,6,004736,8,,1,105c,,,,,,,,190099
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,2,Sancti et justi in domino,De Sanctis TP,M,W,,800389,*,,,,,,,,,,,190100
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,3,Laetitia sempiterna*,De Sanctis TP,M,W,,800241,*,,,,,,,,,,,190101
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,4,Lux perpetua*,De Sanctis TP,M,W,,800255,*,,,,,,,,,,,190102
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,5,Gaudete justi in domino,De Sanctis TP,M,W,,800183,*,,,,,,,,,,,190103
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,6,Beatus vir qui metuit dominum,De Sanctis TP,M,R,1,006231,8,,,,,,,,,,,190104
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,7,Gloria et divitiae in domo,De Sanctis TP,M,V,01,006231b,8,,,,,,,,,,,190105
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,8,Pretiosa in conspectu domini,De Sanctis TP,M,R,2,007429,7,,,,,,,,,,,190106
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,9,Custodit dominus omnia ossa,De Sanctis TP,M,V,01,007429b,7,,,,,,,,,,,190107
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,10,Lux perpetua lucebit sanctis,De Sanctis TP,M,R,3,007111,3,,,,,,,,,,,190108
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,11,Laetitia sempiterna super,De Sanctis TP,M,V,01,007111b,3,,,,,,,,,,,190109
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,12,Filiae Jerusalem venite et,De Sanctis TP,M,R,4,006735,1,,,,,,,,,,,190110
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,13,Quoniam confortavit seras,De Sanctis TP,M,V,01,006735a,1,,,,,,,,,,,190111
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,14,Tristitia vestra alleluia,De Sanctis TP,M,R,5,007782,8,,,,,,,,,,,190112
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,153v,15,Mundus autem gaudebit vos,De Sanctis TP,M,V,01,007782a,8,,,,,,,,,,,190113
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,1,Ego sum vitis vera et vos,De Sanctis TP,M,R,6,006635,5,,,,,,,,,,,190114
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,2,Sicut dilexit me pater et ego,De Sanctis TP,M,V,01,006635c,5,,,,,,,,,,,190115
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,3,Gaudete justi in domino,De Sanctis TP,M,R,7,006766,1,,,,,,,,,,,190116
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,4,Confitemini domino in cithara,De Sanctis TP,M,V,01,006766b,1,,,,,,,,,,,190117
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,5,Laetabitur justus in domino,De Sanctis TP,M,R,8,007064,5,,,,,,,,,,,190118
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,6,Protexisti mea conventu,De Sanctis TP,M,V,01,007064za,5,,,,,,,,,,,190119
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,7,In circuitu tuo domine lumen,De Sanctis TP,M,R,9,006891,5,,,,,,,,,,,190120
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,8,Magnus dominus et laudabilis,De Sanctis TP,M,V,01,006891a,5,,,,,,,,,,,190121
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,9,Tanto tempore*,De Sanctis TP,M,R,10,007754,4,,,,,,,,,,,190122
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,10,Domine ostende nobis patrem,De Sanctis TP,M,V,01,007754a,4,,,,,,,,,,,190123
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,11,Candidi facti sunt*,De Sanctis TP,M,R,11,006263,2,,,,,,,,,,,190124
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,12,Vos qui secuti estis me dicit,De Sanctis TP,M,R,12,007914,4,,,,,,,,,,,190125
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154r,13,Cum sederit filius hominis in,De Sanctis TP,M,V,01,007914a,4,,,,,,,,,,,190126
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,1,Scimus quoniam diligentibus,De Sanctis TP,L,A,1,004830,8,,3,107c,,,,,,,,190127
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,2,Sancti et justi in domino,De Sanctis TP,L,A,2,004729,8,,3,107c,,,,,,,,190128
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,3,In velamento clamabant sancti,De Sanctis TP,L,A,3,003306,2,,4,152c,,,,,,,,190129
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,4,Spiritus et animae justorum,De Sanctis TP,L,A,4,005000,8,,3,107c,,,,,,,,190130
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,5,In caelestibus regnis,De Sanctis TP,L,A,5,003211,7,,1,143e,,,,,,,,190131
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,6,In civitate domini ibi sonant,De Sanctis TP,L,A,B,003210,7,,3,142a,,,,,,,,190132
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,154v,7,Alleluia ego sum vitis vera,De Sanctis TP,X,A,,001342,1,,3,66c,,,,,,,,190133
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,1,Exsultet caelum*,Marci,V,H,,008301,*,,,,,,,,,,,190134
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,2,Angelus autem domini,Marci,V,A,M,001409,7,,1,143e,,,,,,,,190135
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,3,Exsultent in domino sancti*,Marci,M,I,,100127,*,,*,,,,,,,,,190136
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,4,Aeterna Christi*,Marci,M,H,,008252,*,,,,,,,,,,,190137
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,5,Stabunt justi*,Marci,M,A,1,005012,*,,,,,,,,,,,190138
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,156v,6,Beatus vir*,Marci,M,R,1,006231,*,,,,,,,,,,,190139
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,1,Famule dei Marce princeps ac,Marci,M,R,,600856,7,,,,,,,,,,,190140
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,2,Socius enim factus es,Marci,M,V,01,600856a,7,,,,,,,,,,,190141
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,3,Beatissimus Marcus,Marci,L,A,1,001605,8,,1,105c,,,,,,,,190142
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,4,Mox ut dei famulus,Marci,L,A,2,003812,8,,1,105c,,,,,,,,190143
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,5,Exspuens in terra beatus,Marci,L,A,3,002808,8,,1,105c,,,,,,,,190144
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,6,Evangelizante sancto Marco,Marci,L,A,4,002741,7,,1,143e,,,,,,,,190145
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158r,7,Positis genibus beatus Marcus,Marci,L,A,5,004319,2,,1,153c,,,,,,,,190146
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158v,1,Beatus Marcus dum traheretur,Marci,L,A,B,200572,2,,1,153c,,,,,,,,190147
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,158v,2,Famule dei Marce princeps,Marci,V2,A,M,201788,2,,4,152c,,,,,,,,190148
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,1,Non turbetur cor vestrum ne-,"Philippi, Jacobi",L,A,1,003938,6,,1,54a,,,,,,,,190149
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,2,Vado parare vobis locum et,"Philippi, Jacobi",L,A,2,005308,3,,1,249a,,,,,,,,190150
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,3,Ego sum via veritas et ,"Philippi, Jacobi",L,A,3,002602,8,,3,107c,,,,,,,,190151
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,4,Si cognovissetis me et patrem,"Philippi, Jacobi",L,A,4,004879,7,,1,143e,,,,,,,,190152
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,5,Domine ostende nobis patrem,"Philippi, Jacobi",L,A,5,002365,7,,2,144a,,,,,,,,190153
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,6,Exsultet caelum*,"Philippi, Jacobi",L,H,,008301,*,,,,,,,,,,,190154
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,163v,7,Tanto tempore vobiscum sum et,"Philippi, Jacobi",L,A,B,005113,6,,4,7b,,,,,,,,190155
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,164v,1,Si cognovissetis me et patrem,"Philippi, Jacobi",V2,A,M,004879,7,,3,142a,,,,,,,,190156
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,1,Vexilla regis prodeunt fulget,Inventio Crucis,V,H,,008410,,,,,,,,,,,,190157
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,2,Hoc signum crucis erit in,Inventio Crucis,V,W,,008088,*,,,,,,,,,,,190158
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,3,O crux splendidior cunctis,Inventio Crucis,V,A,M,004019,1,,7,72d,,,,,,,,190159
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,4,Exsultent in domino sancti*,Inventio Crucis,M,I,,100127,*,,*,,,,,,,,,190160
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,5,Aeterna Christi munera*,Inventio Crucis,M,H,,008252,*,,,,,,,,,,,190161
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165r,6,Stabunt justi*,Inventio Crucis,M,A,1.,005012,*,,,,,,,,,,,190162
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,165v,1,Beatus vir qui*,Inventio Crucis,M,R,1.1,006231,*,,,,,,,,,,,190163
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166r,1,Alleluia ego sum vitis vera*,Inventio Crucis,M,A,3.1,001342,*,,,,,,,,,,,190164
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166r,2,Gaudete justi*,Inventio Crucis,M,A,3.2,201937,*,,,,,,,,,,,190165
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166r,3,Adoramus te Christe*,Inventio Crucis,M,A,3.3,001287,*,,,,,,,,,,,190166
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166r,4,Dulce lignum dulces clavos,Inventio Crucis,M,R,3.1,006530,8,,,,,,,,,,,190167
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166r,5,Hoc signum crucis erit in,Inventio Crucis,M,V,01,006530a,8,,,,,,,,,,,190168
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166v,1,Hoc signum crucis erit in,Inventio Crucis,M,R,3.2,006845,4,,,,,,,,,,,190169
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,166v,2,Cum sederit filius hominis in,Inventio Crucis,M,V,01,006845a,4,,,,,,,,,,,190170
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,1,O crux benedicta quae sola,Inventio Crucis,M,R,3.3,007265,2,,,,,,,,,,,190171
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,2,O crux gloriosa o crux,Inventio Crucis,M,V,01,007265d,2,,,,,,,,,,,190172
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,3,O crux gloriosa o crux,Inventio Crucis,M,R,10,007266,8,,,,,,,,,,,190173
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,4,O crux admirabilis evacuatio,Inventio Crucis,M,V,01,007266d,8,,,,,,,,,,,190174
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,5,Helena Constantini mater,Inventio Crucis,L,A,1,003021,7,,2,144a,,,,,,,,190175
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167r,6,Helena desiderio plena orabat,Inventio Crucis,L,A,2,003023,8,,1,105c,,,,,,,,190176
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,1,Tunc praecepit eos omnes igne,Inventio Crucis,L,A,3,005249,1,,8,76a,,,,,,,,190177
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,2,Helena sancta dixit ad Judam,Inventio Crucis,L,A,4,003024,7,,3,142a,,,,,,,,190178
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,3,Orabat Judas deus deus meus,Inventio Crucis,L,A,5,004172,8,,1,105c,,,,,,,,190179
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,4,Lustra sex qui jam peracta,Inventio Crucis,L,H,,008367:06,*,,,,Lustra sex qui jam peracta,,,,,,,190180
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,5,Hoc signum crucis*,Inventio Crucis,L,W,,008088,*,,,,,,,,,,,190181
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,167v,6,O crux benedicta quae sola,Inventio Crucis,L,A,B,004016,1,,4,75b,,,,,,,,190182
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,168r,1,Beata Helena desiderio plena,Inventio Crucis,X,A,,001568,2,,1,153c,,,,,,,,190183
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169r,1,Pange lingua gloriosi,Inventio Crucis,V2,H,,008367,*,,,,,,,,,,,190184
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,1,O crux sacratissima quia,Inventio Crucis,V2,A,M,004020,2,,1,153c,,,,,,,,190185
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,2,Super omnia ligna cedrorum tu,Inventio Crucis,X,A,1,005061,1,,4,75b,,,,,,,,190186
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,3,Sanctifica nos domine,Inventio Crucis,X,A,2,004744,4,,1,15n,,,,,,,,190187
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,4,O crux benedicta quia in ,Inventio Crucis,X,A,3,004017,8,,1,105c,,,,,,,,190188
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,5,Per sanctam crucem tuamque,Inventio Crucis,X,A,4,004263,2,,1,153c,,,,,,,,190189
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,6,De resurrectione tua Christe,Inventio Crucis,X,A,5,002118,1,,7,72d,,,,,,,,190190
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,7,Per lignum sanctae crucis de,Inventio Crucis,X,A,6,004264,1,,1,74c,,,,,,,,190191
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,169v,8,Crux alma fulget per quam,Inventio Crucis,X,A,7,001960,7,,1,143e,,,,,,,,190192
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,1,Salvator mundi salva nos qui,Inventio Crucis,X,A,8,004690,7,,3,142a,,,,,,,,190193
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,2,Crucem tuam adoramus domine,Inventio Crucis,X,A,9,001954,8,,1,105c,,,,,,,,190194
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,3,Tibi Christe splendor patris,Appar. Michaelis,V,H,,008403,*,,,,,,,,,,,190195
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,4,Stetit angelus juxta aram,Appar. Michaelis,V,W,,008208,*,,,,,,,,,,,190196
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,5,Princeps gloriosissime,Appar. Michaelis,V,A,M,004378,1,,4,75b,,,,,,,,190197
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170r,6,Alleluia ii,Appar. Michaelis,M,I,,001022,2,,2,156b,,,,,,,,190198
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,1,Regem archangelorum dominum,Appar. Michaelis,M,I,,001126,3,,3,,,,,,,,,190199
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,2,Christe sanctorum decus,Appar. Michaelis,M,H,,008279,*,,,,,,,,,,,190200
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,3,Stetit angelus juxta aram,Appar. Michaelis,M,A,1.1,005029,4,,3,19a,,,,,,,,190201
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,4,Ascendit fumus aromatum in,Appar. Michaelis,M,A,1.2,001491,4,,3,19a,,,,,,,,190202
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,5,Michael archangele veni in,Appar. Michaelis,M,A,1.3,003754,2,,1,153c,,,,,,,,190203
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,170v,6,Stetit angelus*,Appar. Michaelis,M,W,1.,008208,*,,,,,,,,,,,190204
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171r,1,Factum est silentium in caelo,Appar. Michaelis,M,R,1.1,006715,1,,,,,,,,,,,190205
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171r,2,Et projectus est draco ille,Appar. Michaelis,M,V,01,006715b,1,,,,,,,,,,,190206
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171r,3,Stetit angelus juxta aram,Appar. Michaelis,M,R,1.2,007707,8,,,,,,,,,,,190207
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171r,4,Factum est silentium in caelo,Appar. Michaelis,M,V,01,007707b,8,,,,,,,,,,,190208
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,1,Nunc facta est salus et,Appar. Michaelis,M,R,1.3,007249,3,,,,,,,,,,,190209
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,2,Et projectus est diabolus et,Appar. Michaelis,M,V,01,007249a,3,,,,,,,,,,,190210
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,3,Gloriosus apparuisti in,Appar. Michaelis,M,A,2.1,002963,4,,4,260a,,,,,,,,190211
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,4,Archangele Michael constitui,Appar. Michaelis,M,A,2.2,001474,8,,1,105c,,,,,,,,190212
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,5,Angelus archangelus Michael,Appar. Michaelis,M,A,2.3,001406,7,,2,144a,,,,,,,,190213
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,171v,6,Ascendit fumus aromatum,Appar. Michaelis,M,W,2.,007953,*,,,,,,,,,,,190214
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172r,1,Fidelis sermo et omni,Appar. Michaelis,M,R,2.1,006733,1,,,,,,,,,,,190215
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172r,2,Michael et angeli ejus,Appar. Michaelis,M,V,01,006733b,1,,,,,,,,,,,190216
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172r,3,Michael et angeli ejus,Appar. Michaelis,M,R,2.2,007151,7,,,,,,,,,,,190217
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172r,4,Qui dicebat in corde suo,Appar. Michaelis,M,V,01,007151e,7,,,,,,,,,,,190218
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,1,In conspectu gentium nolite,Appar. Michaelis,M,R,2.3,006895,1,,,,,,,,,,,190219
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,2,Angelus qui fuit cum Jacob,Appar. Michaelis,M,V,01,006895c,1,,,,,,,,,,,190220
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,3,Michael praepositus paradisi,Appar. Michaelis,M,A,2.1,003757,7,,4,147d,,,,,,,,190221
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,4,Michael Gabriel cherubim et,Appar. Michaelis,M,A,2.2,003755,8,,3,107c,,,,,,,,190222
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,5,Laudemus dominum quem laudant,Appar. Michaelis,M,A,2.3,003592,2,,1,153c,,,,,,,,190223
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,172v,6,In conspectu*,Appar. Michaelis,M,W,2.,008092,*,,,,,,,,,,,190224
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173r,1,In conspectu angelorum,Appar. Michaelis,M,R,3.1,006894,8,,,,,,,,,,,190225
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173r,2,Deus meus es tu et confitebor,Appar. Michaelis,M,V,01,006894c,8,,,,,,,,,,,190226
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173r,3,Hic est Michael archangelus,Appar. Michaelis,M,R,3.2,006826,8,,,,,,,,,,,190227
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173v,1,Angeli archangeli throni et,Appar. Michaelis,M,V,01,006826a,8,,,,,,,,,,,190228
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173v,2,Venit Michael archangelus cum,Appar. Michaelis,M,R,3.3,007834,8,,,,,,,,,,,190229
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173v,3,Emitte domine spiritum tuum,Appar. Michaelis,M,V,01,007834a,8,,,,,,,,,,,190230
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173v,4,Dum sacra mysteria cerneret,Appar. Michaelis,L,A,1,002469,8,,1,105c,,,,,,,,190231
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,173v,5,Dum proeliaretur Michael,Appar. Michaelis,L,A,2,002465,7,,1,143e,,,,,,,,190232
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,174r,1,Dum committeret bellum draco,Appar. Michaelis,L,A,3,002440,2,,1,153c,,,,,,,,190233
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,174r,2,Angeli domini dominum,Appar. Michaelis,L,A,4,001399,8,,3,107c,,,,,,,,190234
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,174r,3,Angeli et omnes virtutes,Appar. Michaelis,L,A,5,001401,7,,2,144a,,,,,,,,190235
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,174r,4,Christe sanctorum decus*,Appar. Michaelis,L,H,,008279,*,,,,,,,,,,,190236
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,174r,5,Factum est silentium in caelo,Appar. Michaelis,L,A,B,002843,8,,1,105c,,,,,,,,190237
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,175r,1,Principes gloriossime Michael,Appar. Michaelis,V2,A,M,004378,1,,4,75b,,,,,,,,190238
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,181v,1,Confortavit dominus in sua,Viti et sociorum,V,A,M,200864,6,,1,54a,,,,,,,,190239
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,1,Ingenuo ex genere Vitus,Viti et sociorum,L,A,1,003334,8,,1,105c,,,,,,,,190240
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,2,Cilicii indutus tegmine,Viti et sociorum,L,A,2,001803,2,,1,153c,,,,,,,,190241
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,3,Accersiri autem jubens Vitum,Viti et sociorum,L,A,3,001221,1,,1,74c,,,,,,,,190242
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,4,Carceris custodia sancti dum,Viti et sociorum,L,A,4,001770,7,,1,143e,,,,,,,,190243
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,5,Succensus inperator ira,Viti et sociorum,L,A,5,005048,8,,1,105c,,,,,,,,190244
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183r,6,Gloriosi etenim martyres,Viti et sociorum,L,A,B,002961,8,,1,105c,,,,,,,,190245
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,183v,1,Florentia quaedam illustris,Viti et sociorum,V2,A,M,002885,8,,1,105c,,,,,,,,190246
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,186r,1,Sanctorum pater Vitalis mater,"Gervasii, Protasii",M,R,1.1,007606,8,,,,,,,,,,,190247
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,186v,1,Ipsi vero in uno cenaculo se,"Gervasii, Protasii",M,V,01,007606a,8,,,,,,,,,,,190248
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,186v,2,Nihil terrenum nihil carnale,"Gervasii, Protasii",M,R,1.2,007213,8,,,,,,,,,,,190249
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,186v,3,Ad hoc tantum pertingere,"Gervasii, Protasii",M,V,01,007213a,8,,,,,,,,,,,190250
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,187r,1,Gervasius et Protasius,"Gervasii, Protasii",M,R,1.3,006773,1,,,,,,,,,,,190251
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,187r,2,Divitiae et honores tui nulli,"Gervasii, Protasii",M,V,01,006773a,1,,,,,,,,,,,190252
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,187r,3,Effuderunt sanguinem*,"Gervasii, Protasii",M,R,2.1,006624,*,,,,,,,,,,,190253
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,187v,1,Abstersit deus omnem*,"Gervasii, Protasii",M,R,2.2,006013,*,,,,,,,,,,,190254
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,187v,2,Viri sancti gloriosum*,"Gervasii, Protasii",M,R,2.3,007906,*,,,,,,,,,,,190255
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188r,1,Tradiderunt corpora*,"Gervasii, Protasii",M,R,3.1,007772,*,,,,,,,,,,,190256
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188r,2,Sancti mei qui in isto*,"Gervasii, Protasii",M,R,3.2,007590,*,,,,,,,,,,,190257
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,1,Isti sunt inclyti martyres,"Gervasii, Protasii",M,R,3.3,007017,1,,,,,,,,,,,190258
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,2,Nihil terrenum nihil carnale,"Gervasii, Protasii",M,V,01,007017a,1,,,,,,,,,,,190259
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,3,Isti sunt martyres Christi,"Gervasii, Protasii",L,A,1,003440,2,,1,153c,,,,,,,,190260
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,4,Indignatus comes Astasius,"Gervasii, Protasii",L,A,2,003326,6,,1,54a,,,,,,,,190261
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,5,Protasius dixit non tibi,"Gervasii, Protasii",L,A,3,004402,8,,1,105c,,,,,,,,190262
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,6,Dixitque sanctus Protasius,"Gervasii, Protasii",L,A,4,002314,8,,1,105c,,,,,,,,190263
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,7,Laudemus proceres Christi qui,"Gervasii, Protasii",L,A,5,003594,2,,1,153c,,,,,,,,190264
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,8,Rex gloriose*,"Gervasii, Protasii",L,H,,008386,*,,,,,,,,,,,190265
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,188v,9,Intercessio nobis domine,"Gervasii, Protasii",L,A,B,003374,8,,1,105c,,,,,,,,190266
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,189r,1,Isti sunt angelicis educati,"Gervasii, Protasii",V2,A,M,003437,1,,4,75b,,,,,,,,190267
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,191v,1,Ingresso Zacharia templum,Joannis Baptistae,V,A,1,003338,8,,1,105c,,,,,,,,190268
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,191v,2,Joannes vocabitur nomen ejus,Joannis Baptistae,V,A,2,003504,1,,1,74c,,,,,,,,190269
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,191v,3,Erit enim magnus coram domino,Joannis Baptistae,V,A,3,002670,1,,1,74c,,,,,,,,190270
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,191v,4,Joannes est nomen ejus vinum,Joannis Baptistae,V,A,4,003498,8,,1,105c,,,,,,,,190271
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192r,1,Nazaraeus vocabitur puer iste,Joannis Baptistae,V,A,5,003858,5,,2,131a,,,,,,,,190272
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192r,2,Inter natos*,Joannis Baptistae,V,R,,006979,*,,,,,,,,,,,190273
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192r,3,Ut queant laxis resonare,Joannis Baptistae,V,H,,008406,,,,,,,,,,,,190274
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,1,Fuit homo missus a deo,Joannis Baptistae,V,W,,008075,*,,,,,,,,,,,190275
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,2,Pro eo quod non credidisti,Joannis Baptistae,V,A,M,004382,6,,2,69j,,,,,,,,190276
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,3,Regem praecursoris dominum,Joannis Baptistae,M,I,,001140,3,,3,,,,,,,,,190277
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,4,Ut queant laxis*,Joannis Baptistae,M,H,,008406,*,,,,,,,,,,,190278
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,5,Priusquam te formarem in,Joannis Baptistae,M,A,1.1,004381,8,,1,105c,,,,,,,,190279
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,6,Ad omnia quae mittam te ,Joannis Baptistae,M,A,1.2,001249,8,,1,105c,,,,,,,,190280
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,7,Ne timeas a facie eorum ,Joannis Baptistae,M,A,1.3,003862,1,,5,64b,,,,,,,,190281
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,192v,8,Gloria et honore*,Joannis Baptistae,M,W,1.,008081,*,,,,,,,,,,,190282
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,193r,1,Priusquam te formarem in,Joannis Baptistae,M,R,1.1,007435,7,,,,,,,,,,,190283
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,193r,2,Posui verba mea in ore tuo,Joannis Baptistae,M,V,01,007435a,7,,,,,,,,,,,190284
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,193v,1,Ecce constitui te hodie super,Joannis Baptistae,M,R,1.2,006580,7,,,,,,,,,,,190285
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,193v,2,Antequam exires de vulva,Joannis Baptistae,M,V,01,006580a,7,,,,,,,,,,,190286
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,1,Descendit angelus domini ad,Joannis Baptistae,M,R,1.3,006409,7,,,,,,,,,,,190287
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,2,Ne timeas exaudita est oratio,Joannis Baptistae,M,V,01,006409b,7,,,,,,,,,,,190288
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,3,Misit dominus manum suam et,Joannis Baptistae,M,A,2.1,003785,7,,2,144a,,,,,,,,190289
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,4,Ecce dedi verba mea in ,Joannis Baptistae,M,A,2.2,002502,8,,2,99d,,,,,,,,190290
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,5,Dominus ab utero vocavit me,Joannis Baptistae,M,A,2.3,002400,8,,1,105c,,,,,,,,190291
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194r,6,Posuisti domine*,Joannis Baptistae,M,W,2.,008170,*,,,,,,,,,,,190292
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194v,1,Gabriel angelus apparuit,Joannis Baptistae,M,R,2.1,006757,5,,,,,,,,,,,190293
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194v,2,Erit enim magnus coram domino,Joannis Baptistae,M,V,01,006757a,5,,,,,,,,,,,190294
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194v,3,Ipse praecedet ante illum in,Joannis Baptistae,M,R,2.2,006991,8,,,,,,,,,,,190295
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,194v,4,Erit enim magnus coram domino,Joannis Baptistae,M,V,01,006991a,8,,,,,,,,,,,190296
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195r,1,Elisabeth Zachariae magnum,Joannis Baptistae,M,R,2.3,006652,7,,,,,,,,,,,190297
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195r,2,Erat quidem infecunda corpore,Joannis Baptistae,M,V,01,006652b,7,,,,,,,,,,,190298
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195v,1,Posuit os meum dominus quasi,Joannis Baptistae,M,A,3.1,004345,7,,2,144a,,,,,,,,190299
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195v,2,Formans me ex utero servum,Joannis Baptistae,M,A,3.2,002891,8,,1,105c,,,,,,,,190300
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195v,3,Reges videbunt et consurgent,Joannis Baptistae,M,A,3.3,004595,8,,2,99d,,,,,,,,190301
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195v,4,Justus ut palma florebit*,Joannis Baptistae,M,W,3.,008117,*,,,,,,,,,,,190302
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,195v,5,Innuebant patri ejus quem,Joannis Baptistae,M,R,3.1,006970,2,,,,,,,,,,,190303
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196r,1,Vicini quoque et cognati ejus,Joannis Baptistae,M,V,01,006970b,2,,,,,,,,,,,190304
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196r,2,Praecursor domini venit de,Joannis Baptistae,M,R,3.2,007420,8,,,,,,,,,,,190305
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196r,3,Hic enim propheta et plus,Joannis Baptistae,M,V,01,007420b,8,,,,,,,,,,,190306
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,1,Inter natos mulierum non,Joannis Baptistae,M,R,3.3,006979,1,,,,,,,,,,,190307
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,2,Hic venit in testimonium ut,Joannis Baptistae,M,V,01,006979b,1,,,,,,,,,,,190308
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,3,Elisabeth Zachariae magnum,Joannis Baptistae,L,A,1,002639,1,,2,66e,,,,,,,,190309
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,4,Joannes vocabitur*,Joannis Baptistae,L,A,2,003504,1,,*,,,,,,,,,190310
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,5,Erit enim*,Joannis Baptistae,L,A,3,002670,1,,*,,,,,,,,,190311
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,6,Ipse praecedet ante illum in,Joannis Baptistae,L,A,4,003403,5,,1,129a,,,,,,,,190312
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,7,Nazaraeus*,Joannis Baptistae,L,A,5,003858,*,,,,,,,,,,,190313
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,8,Elisabeth*,Joannis Baptistae,L,R,,006652,*,,,,,,,,,,,190314
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,9,Non fuit vasti*,Joannis Baptistae,L,H,,008406:08,*,,,,Non fuit vasti*,,,,,,,190315
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,196v,10,Apertum est os Zachariae et,Joannis Baptistae,L,A,B,001448,8,,1,105c,,,,,,,,190316
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,198v,1,Elisabeth*,Joannis Baptistae,V2,A,1,002639,*,,,,,,,,,,,190317
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,198v,2,Puer qui natus est nobis ,Joannis Baptistae,V2,A,M,004412,7,,4,147d,,,,,,,,190318
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200r,1,Sanctorum meritis*,"Joannis, Pauli",V,H,,008390,*,,,,,,,,,,,190319
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200r,2,Joannes et Pauli*,"Joannis, Pauli",V,A,M,,*,,,,Joannes et Pauli*,,,,,,,190320
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200r,3,Joannes et Paulus martyres,"Joannis, Pauli",M,A,1.1,003502,1,,1,74c,,,,,,,,190321
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200r,4,Constantina Constantini filia,"Joannis, Pauli",M,A,1.2,001900,1,,1,74c,,,,,,,,190322
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200r,5,Gallicano in angustia posito,"Joannis, Pauli",M,A,1.3,002917,1,,1,74c,,,,,,,,190323
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200v,1,Isti sunt duo viri misericor-,"Joannis, Pauli",M,R,1.1,007015,7,,,,,,,,,,,190324
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200v,2,Isti sunt duae olivae et duo,"Joannis, Pauli",M,V,01,007015a,7,,,,,,,,,,,190325
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,200v,3,Absterget deus omnem*,"Joannis, Pauli",M,R,1.2,006013,*,,,,,,,,,,,190326
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201r,1,Viri sancti gloriosum*,"Joannis, Pauli",M,R,1.3,007906,*,,,,,,,,,,,190327
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201r,2,Joannes et Paulus dixerunt ad,"Joannis, Pauli",M,A,2.1,003500,1,,1,74c,,,,,,,,190328
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201r,3,Sanctorum consilio Joannis et,"Joannis, Pauli",M,A,2.2,004761,1,,1,74c,,,,,,,,190329
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201r,4,Defuncto Constantino Julianus,"Joannis, Pauli",M,A,2.3,002139,1,,1,74c,,,,,,,,190330
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201v,1,Tradiderunt corpora*,"Joannis, Pauli",M,R,2.1,007772,*,,,,,,,,,,,190331
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,201v,2,Verbera carnificum*,"Joannis, Pauli",M,R,2.2,007836,*,,,,,,,,,,,190332
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202r,1,Sancti tui domine mirabile*,"Joannis, Pauli",M,R,2.3,007592,*,,,,,,,,,,,190333
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202r,2,Christus vester dicit in,"Joannis, Pauli",M,A,3.1,001799,7,,6,141a,,,,,,,,190334
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202r,3,Paulus et Joannes dixerunt,"Joannis, Pauli",M,A,3.2,004251,1,,1,74c,,,,,,,,190335
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202r,4,Non tibi facimus hanc,"Joannis, Pauli",M,A,3.3,003935,7,,2,144a,,,,,,,,190336
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202v,1,Beati martyres Christi,"Joannis, Pauli",M,R,3.1,006178,4,,,,,,,,,,,190337
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,202v,2,Una fides unum baptisma unus,"Joannis, Pauli",M,V,01,006178b,4,,,,,,,,,,,190338
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,203r,1,Haec est vera*,"Joannis, Pauli",M,R,3.2,006804,*,,,,,,,,,,,190339
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,203v,1,Isti sunt duae olivae,"Joannis, Pauli",M,R,3.3,007014,7,,,,,,,,,,,190340
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,203v,2,Isti sunt viri misericordiae,"Joannis, Pauli",M,V,01,007014d,7,,,,,,,,,,,190341
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,203v,3,Dominum tibi praeponimus qui,"Joannis, Pauli",L,A,1,002399,8,,1,105c,,,,,,,,190342
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,203v,4,Numquam ad salutationem tuam,"Joannis, Pauli",L,A,2,003970,7,,6,141a,,,,,,,,190343
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,204r,1,Missus est Terentius,"Joannis, Pauli",L,A,3,003796,7,,6,141a,,,,,,,,190344
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,204r,2,Mandaverunt Juliano Caesari,"Joannis, Pauli",L,A,4,003689,8,,1,105c,,,,,,,,190345
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,204r,3,Reversus est Terentius ad,"Joannis, Pauli",L,A,5,004646,8,,1,105c,,,,,,,,190346
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,204r,4,Rex gloriose*,"Joannis, Pauli",L,H,,008386,*,,,,,,,,,,,190347
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,204r,5,Omnes fideles Christi ad hanc,"Joannis, Pauli",L,A,B,004122,1,,6,69b,,,,,,,,190348
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,205r,1,O admirabile indicium,"Joannis, Pauli",V2,A,M,003987,2,,2,156b,,,,,,,,190349
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206r,1,Juravit dominus et non,Petri,V,A,1,003522,8,,1,105c,,,,,,,,190350
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206r,2,Collocet eum dominus cum,Petri,V,A,2,001854,8,,2,99d,,,,,,,,190351
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206r,3,Dirupisti domine vincula mea,Petri,V,A,3,002250,7,,11,262a,,,,,,,,190352
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206r,4,Venientes venient cum,Petri,V,A,4,005334,8,,1,105c,,,,,,,,190353
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206v,1,Confortatus est principatus,Petri,V,A,5,001881,7,,6,141a,,,,,,,,190354
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206v,2,Simon Joannis*,Petri,V,R,,007673,*,,,,,,,,,,,190355
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,206v,3,Felix per omnes festum mundi,Petri,V,H,,008302,,,,,,,,,,,,190356
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207r,1,In omnem terram*,Petri,V,W,,008097,*,,,,,,,,,,,190357
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207r,2,Petrus apostolus et Paulus,Petri,V,A,M,004284,8,,1,105c,,,,,,,,190358
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207r,3,Princeps apostole beate Petre,Petri,M,I,,100218,?,,B2,,,,,,,,,190359
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207r,4,Apostolorum passio dum,Petri,M,H,,008265,,,,,,,,,,,,190360
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,1,Petrus et Joannes ascendebant,Petri,M,A,1.1,004287,8,,1,105c,,,,,,,,190361
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,2,Claudus quidam cum vidisset,Petri,M,A,1.2,001829,6,,1,54a,,,,,,,,190362
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,3,Argentum et aurum non est,Petri,M,A,1.3,001480,7,,3,142a,,,,,,,,190363
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,4,In omnem terram*,Petri,M,W,1.,008097,*,,,,,,,,,,,190364
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,5,Simon Joannis diligis me plus,Petri,M,R,1.1,007673,8,,,,,,,,,,,190365
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,207v,6,Contristatus est Petrus quia,Petri,M,V,01,007673a,8,,,,,,,,,,,190366
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208r,1,Petre amas me tu scis domine,Petri,M,R,1.2,007382,4,,,,,,,,,,,190367
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208r,2,Domine tu omnia nosti tu scis,Petri,M,V,01,007382b,4,,,,,,,,,,,190368
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,1,Si diligis me Simon Petre,Petri,M,R,1.3,007649,8,,,,,,,,,,,190369
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,2,Si oportuerit me mori tecum,Petri,M,V,01,007649a,8,,,,,,,,,,,190370
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,3,In nomine Jesu Christi,Petri,M,A,2.1,003260,2,,1,153c,,,,,,,,190371
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,4,Exsiliens claudus et,Petri,M,A,2.2,002803,8,,1,105c,,,,,,,,190372
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,5,Vidit populus claudum,Petri,M,A,2.3,005416,1,,1,74c,,,,,,,,190373
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,208v,6,Constitues*,Petri,M,W,2.,007994,*,,,,,,,,,,,190374
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,209r,1,Quem dicunt homines esse,Petri,M,R,2.1,007467,1,,,,,,,,,,,190375
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,209r,2,Beatus es Simon Bar Jona quia,Petri,M,V,01,007467a,1,,,,,,,,,,,190376
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,209v,1,Tu es Petrus et super hanc,Petri,M,R,2.2,007788,7,,,,,,,,,,,190377
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,209v,2,Quodcumque ligaveris super,Petri,M,V,01,007788a,7,,,,,,,,,,,190378
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210r,1,Simon Petre antequam de navi,Petri,M,R,2.3,007674,7,,,,,,,,,,,190379
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210r,2,Quodcumque ligaveris*,Petri,M,V,01,007674a,7,,,,,,,,,,,190380
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210v,1,Petrus autem servabatur in,Petri,M,A,3.1,004286,1,,2,66e,,,,,,,,190381
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210v,2,Dixit angelus ad Petrum,Petri,M,A,3.2,002268,7,,6,141a,,,,,,,,190382
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210v,3,Misit dominus angelum suum et,Petri,M,A,3.3,003783,7,,8,148b,,,,,,,,190383
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,210v,4,Nimis honorati*,Petri,M,W,3.,008148,*,,,,,,,,,,,190384
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,211r,1,Ego pro te rogavi Petre ut,Petri,M,R,3.1,006630,3,,,,,,,,,,,190385
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,211r,2,Ecce Satan expetivit vos ut,Petri,M,V,01,006630b,3,,,,,,,,,,,190386
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,211r,3,Tu es pastor ovium princeps,Petri,M,R,3.2,007787,8,,,,,,,,,,,190387
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,211v,1,Tibi enim a domino collata,Petri,M,V,01,007787b,8,,,,,,,,,,,190388
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,211v,2,Domine si tu es jube me,Petri,M,R,3.3,006515,?,,,,,,,,,,,190389
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,1,Cumque vidisset ventum,Petri,M,V,01,006515a,?,,,,,,,,,,,190390
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,2,Surge Petre et indue te,Petri,M,R,10,007731,7,,,,,,,,,,,190391
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,3,Angelus domini astitit et,Petri,M,V,01,007731a,7,,,,,,,,,,,190392
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,4,Solve jubente deo terrarum,Petri,M,R,11,007678,7,,,,,,,,,,,190393
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,5,Fac ut amor Christi et,Petri,M,V,01,007678b,7,,,,,,,,,,,190394
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,6,Cui regni claves et curam,Petri,M,R,12,007483,7,,,,,,,,,,,190395
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,7,Ipse tua Petre jussit vincula,Petri,M,V,01,007483a,7,,,,,,,,,,,190396
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,8,Simon Joannis diligis me plus,Petri,L,A,1,004960,8,,1,105c,,,,,,,,190397
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212r,9,Petre amas me pasce oves ,Petri,L,A,2,004281,4,,4,260a,,,,,,,,190398
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,1,Caro et sanguis non revelavit,Petri,L,A,3,001774,4,,3,19a,,,,,,,,190399
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,2,Tu es Petrus et super ,Petri,L,A,4,005208,7,,2,144a,,,,,,,,190400
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,3,Significavit dominus Petro,Petri,L,A,5,004947,1,,1,74c,,,,,,,,190401
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,4,Nimis honorati*,Petri,L,R,,007215,*,,,,,,,,,,,190402
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,5,Aurea luce et decore roseo,Petri,L,H,,008268,,,,,,,,,,,,190403
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,212v,6,Quodcumque ligaveris super,Petri,L,A,B,004561,8,,1,105c,,,,,,,,190404
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,1,Juravit dominus*,Petri,V2,A,1,003522,*,,,,,,,,,,,190405
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,2,Aurea luce*,Petri,V2,H,,008268,*,,,,,,,,,,,190406
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,3,Gloriosi principes terrae,Petri,V2,A,M,002960,6,,2,69j,,,,,,,,190407
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,4,Sancte Paule apostole,Pauli,M,I,,001159,6,,*,,,,,,,,,190408
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,5,Felix per omnes*,Pauli,M,H,,008302,*,,,,,,,,,,,190409
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,6,Qui operatus est Petro in,Pauli,M,A,1.1,004489,1,,1,74c,,,,,,,,190410
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,7,Qui me segregavit de utero,Pauli,M,AV,01,004489a,1,,1,74c,,,,,,,,190411
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,213v,8,Scio cui credidi et certus,Pauli,M,A,1.2,004831,1,,5,64b,,,,,,,,190412
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214r,1,De reliquo reposita est mihi,Pauli,M,AV,01,004831a,1,,5,64b,,,,,,,,190413
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214r,2,Mihi vivere Christus est et,Pauli,M,A,1.3,003759,1,,2,66e,,,,,,,,190414
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214r,3,Per quem mihi mundus,Pauli,M,AV,01,003759a,1,,2,66e,,,,,,,,190415
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214r,4,Qui operatus est Petro in,Pauli,M,R,1.1,007480,5,,,,,,,,,,,190416
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214r,5,Dominus enim mihi astitit et,Pauli,M,V,01,007480c,5,,,,,,,,,,,190417
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,1,Bonum certamen certavi cursum,Pauli,M,R,1.2,006255,2,,,,,,,,,,,190418
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,2,Gratia dei sum id quod sum et,Pauli,M,V,01,006255b,2,,,,,,,,,,,190419
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,3,Reposita est mihi corona,Pauli,M,R,1.3,007532,2,,,,,,,,,,,190420
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,4,Scio cui credidi et certus,Pauli,M,V,01,007532a,2,,,,,,,,,,,190421
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,5,Tu es vas electionis sancte,Pauli,M,A,2.1,005211,1,,5,64b,,,,,,,,190422
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,6,Per quem omnes gentes,Pauli,M,AV,01,005211a,1,,5,64b,,,,,,,,190423
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,7,Magnus sanctus Paulus vas,Pauli,M,A,2.2,003683,8,,1,105c,,,,,,,,190424
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,8,In regeneratione cum sederit,Pauli,M,AV,01,003683a,8,,1,105c,,,,,,,,190425
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,214v,9,Bonum certamen certavi cursum,Pauli,M,A,2.3,001743,1,,1,74c,,,,,,,,190426
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215r,1,De cetero reposita est mihi,Pauli,M,AV,01,001743a,1,,1,74c,,,,,,,,190427
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215r,2,Constitues eos*,Pauli,M,W,2.,007994,*,,,,,,,,,,,190428
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215r,3,Audistis enim conversationem,Pauli,M,R,2.1,006147,3,,,,,,,,,,,190429
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215r,4,Abundantius enim aemulator,Pauli,M,V,01,006147a,3,,,,,,,,,,,190430
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215v,1,Saulus autem magis ac magis,Pauli,M,R,2.2,007623,4,,,,,,,,,,,190431
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,215v,2,Fuit autem cum discipulis,Pauli,M,V,01,007623a,4,,,,,,,,,,,190432
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216r,1,Gratia dei sum id quod sum et,Pauli,M,R,2.3,006790,8,,,,,,,,,,,190433
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216r,2,Bonum certamen certavi cursum,Pauli,M,V,01,006790a,8,,,,,,,,,,,190434
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216r,3,Saulus qui et Paulus magnus,Pauli,M,A,3.1,004826,8,,1,105c,,,,,,,,190435
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216r,4,Ostendens quia hic est,Pauli,M,AV,01,004826a,8,,1,105c,,,,,,,,190436
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216r,5,Ne magnitudo revelationum,Pauli,M,A,3.2,003860,1,,1,74c,,,,,,,,190437
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216v,1,Nam virtus in infirmitate,Pauli,M,AV,01,003860a,1,,1,74c,,,,,,,,190438
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216v,2,Reposita est mihi corona,Pauli,M,A,3.3,004616,8,,1,105c,,,,,,,,190439
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216v,3,Non solum autem mihi sed ,Pauli,M,AV,01,004616za,8,,1,105c,,,,,,,,190440
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216v,4,In omnem terram*,Pauli,M,W,3.,008097,*,,,,,,,,,,,190441
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,216v,5,Sancte Paule apostole,Pauli,M,R,3.1,007583,5,,,,,,,,,,,190442
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,217r,1,Tu es vas electionis sancte,Pauli,M,V,01,007583a,5,,,,,,,,,,,190443
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,217r,2,Magnus sanctus Paulus vas,Pauli,M,R,3.2,007123,1,,,,,,,,,,,190444
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,217r,3,A Christo de caelo vocatus et,Pauli,M,V,01,007123a,1,,,,,,,,,,,190445
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,1,A Christo de caelo vocatus et,Pauli,M,R,3.3,006001,7,,,,,,,,,,,190446
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,2,Inter apostolus vocatus,Pauli,M,V,01,006001a,7,,,,,,,,,,,190447
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,3,Ter virgis caesus sum semel,Pauli,L,A,1,005138,8,,1,105c,,,,,,,,190448
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,4,Nocte ac die in profundum,Pauli,L,AV,01,005138a,8,,1,105c,,,,,,,,190449
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,5,Damasci praepositus gentis,Pauli,L,A,2,002096,8,,1,105c,,,,,,,,190450
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,6,Deus et pater domini nostri,Pauli,L,AV,01,002096a,8,,1,105c,,,,,,,,190451
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,7,Libenter gloriabor in,Pauli,L,A,3,003614,8,,1,105c,,,,,,,,190452
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,8,Quando enim infirmor tunc,Pauli,L,AV,01,003614a,8,,1,105c,,,,,,,,190453
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,9,Ego plantavi Apollo rigavi,Pauli,L,A,4,002580,8,,1,105c,,,,,,,,190454
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218r,10,Unusquisque propriam mercedem,Pauli,L,AV,01,002580a,8,,1,105c,,,,,,,,190455
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,1,Gratia dei in me vacua ,Pauli,L,A,5,002968,4,,3,19a,,,,,,,,190456
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,2,Gratia dei sum id quod ,Pauli,L,AV,01,002968a,4,,3,19a,,,,,,,,190457
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,3,Nimis honorati sunt*,Pauli,L,R,,007215,*,,,,,,,,,,,190458
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,4,Non impar Paulus*,Pauli,L,H,,008302e,*,,,,,,,,,,,190459
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,5,Sancte Paule apostole praedi-,Pauli,L,A,B,004720,8,,1,105c,,,,,,,,190460
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,218v,6,Ut digni efficiamur gratia,Pauli,L,AV,01,004720a,8,,1,105c,,,,,,,,190461
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,219r,1,Ambulabat Petrus super undas,Octava Apostolorum,E,A,,001363,3,,1,249a,,,,,,,,190462
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,222r,1,Effuderunt*,Septem Fratrum,M,R,1.1,006624,*,,,,,,,,,,,190463
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,1,Accipe spiritum sanctum,Apollinaris,M,A,1.1,001231,7,,1,143e,,,,,,,,190464
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,2,Beatus Apollinaris super,Apollinaris,M,A,1.2,001612,1,,6,69b,,,,,,,,190465
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,3,Beatus Apollinaris oravit ad,Apollinaris,M,A,1.3,001611,1,,6,69b,,,,,,,,190466
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,4,Lex dei ejus in corde ,Apollinaris,M,A,2.1,003611,4,,1,15n,,,,,,,,190467
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,5,Vere cognoscent omnes quia,Apollinaris,M,A,2.2,005365,7,,1,143e,,,,,,,,190468
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226r,6,Apollinaris martyris festa,Apollinaris,M,A,2.3,001451,?,,?,,,,,,,,,190469
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226v,1,Deus qui operaris cum Petro,Apollinaris,M,R,1.1,006432,?,,,,,,,,,,,190470
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,226v,2,Deus in adjutorium meum,Apollinaris,M,V,01,006432a,?,,,,,,,,,,,190471
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229r,1,Iste est sacerdos domini qui,Apollinaris,M,R,3.3,007004,?,,,,,,,,,,,190472
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229r,2,Hic est doctor gentium,Apollinaris,M,V,01,007004a,?,,,,,,,,,,,190473
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,1,Beatus Petrus apostolus dixit,Apollinaris,L,A,1,001655,5,,2,131a,,,,,,,,190474
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,2,Apollinaris egregius antistes,Apollinaris,L,A,2,001449,8,,3,107c,,,,,,,,190475
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,3,Super cecati oculos beatus,Apollinaris,L,A,3,005058,1,,1,74c,,,,,,,,190476
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,4,Apollinaris martyr per,Apollinaris,L,A,4,001450,7,,1,143e,,,,,,,,190477
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,5,Apollinaris martyris festa,Apollinaris,L,A,5,001451,7,,3,142a,,,,,,,,190478
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,6,Martyr dei qui unicum*,Apollinaris,L,H,,008346,*,,,,,,,,,,,190479
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,7,Lex dei ejus*,Apollinaris,L,W,,008123,*,,,,,,,,,,,190480
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,229v,8,O martyr domini Apollinaris,Apollinaris,L,A,B,004039,2,,1,153c,,,,,,,,190481
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,1,Religio matris meae et,"Nazarii, Celsi",M,R,3.3,007528,?,,,,,,,,,,,190482
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,2,Annuit deus orationem Nazarii,"Nazarii, Celsi",M,V,01,007528a,?,,,,,,,,,,,190483
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,3,Demonstra mihi domine,"Nazarii, Celsi",L,A,1,002147,7,,1,143e,,,,,,,,190484
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,4,Accessit Nazarius ad Linum,"Nazarii, Celsi",L,A,2,200069,1,,1,74c,,,,,,,,190485
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,5,Turbati sunt nautae,"Nazarii, Celsi",L,A,3,005257,8,,2,99d,,,,,,,,190486
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,6,Sancte Nazari vir dei salva,"Nazarii, Celsi",L,A,4,004719,7,,3,142a,,,,,,,,190487
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,7,Sancte vir dei libera nos ,"Nazarii, Celsi",L,A,5,004722,7,,1,143e,,,,,,,,190488
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,236r,8,Beatus Nazarius una cum Celso,"Nazarii, Celsi",L,A,B,001650,1,,6,69b,,,,,,,,190489
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,237r,1,Petrus beatus*,Vincula Petri,V,H,,008302c,*,,,,,,,,,,,190490
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,237r,2,Petrus autem servabatur*,Vincula Petri,V,A,M,004286,*,,,,,,,,,,,190491
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,237v,1,Effuderunt sanguinem*,Vincula Petri,M,R,1.1,006624,*,,,,,,,,,,,190492
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,239r,1,Petrus autem*,Vincula Petri,M,A,3.1,004286,*,,,,,,,,,,,190493
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,239r,2,Dixit angelus*,Vincula Petri,M,A,3.2,002268,*,,,,,,,,,,,190494
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,239r,3,Misit dominus angelum*,Vincula Petri,M,A,3.3,003783,*,,,,,,,,,,,190495
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,239v,1,Surge Petre*,Vincula Petri,M,R,3.1,007731,*,,,,,,,,,,,190496
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,240v,1,Solve jubente deo*,Vincula Petri,M,R,3.2,007678,*,,,,,,,,,,,190497
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,241v,1,Cui regni claves*,Vincula Petri,M,R,3.3,007483,*,,,,,,,,,,,190498
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,241v,2,Simon Joannis*,Vincula Petri,L,A,1,004960,*,,,,,,,,,,,190499
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,243v,1,Sanctorum meritis*,Inventio Stephani,V,H,,008390,*,,,,,,,,,,,190500
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,243v,2,Justorum animae*,Inventio Stephani,V,W,,008114,*,,,,,,,,,,,190501
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,243v,3,Ostendit sanctus Gamaliel per,Inventio Stephani,V,A,M,004202,4,,1,15n,,,,,,,,190502
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,1,Adoremus regem magnum dominum,Inventio Stephani,M,I,,001015,4,,BL,,,,,,,,,190503
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,2,Aeterna Christi munera*,Inventio Stephani,M,H,,008252,*,,,,,,,,,,,190504
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,3,Luciano venerabili presbytero,Inventio Stephani,M,A,1.1,003641,1,,3,66c,,,,,,,,190505
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,4,Dum adhuc pene vigilaret vir,Inventio Stephani,M,A,1.2,002435,2,,1,153c,Dum adhuc pene vigilaret vir,,,,,,,190506
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,5,Vidit igitur assistere sibi,Inventio Stephani,M,A,1.3,005414,3,,4,259a,,,,,,,,190507
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,6,Laetamini in domino*,Inventio Stephani,M,W,1.,008120,*,,,,,,,,,,,190508
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244r,7,Beatus Gamaliel doctoris,Inventio Stephani,M,R,1.1,006211,1,,,,,,,,,,,190509
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244v,1,Calciatus caligis in,Inventio Stephani,M,V,01,006211a,1,,,,,,,,,,,190510
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244v,2,Igitur dissimulata Gamaliel,Inventio Stephani,M,R,1.2,006877,2,,,,,,,,,,,190511
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244v,3,Cui sacerdos respondit quis,Inventio Stephani,M,V,01,006877a,2,,,,,,,,,,,190512
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,244v,4,Vade Luciane et dic Joanni,Inventio Stephani,M,R,1.3,007815,3,,,,,,,,,,,190513
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,1,Aperi nobis velocius ut per,Inventio Stephani,M,V,01,007815a,3,,,,,,,,,,,190514
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,2,Vir dei Gamaliel ait Luciano,Inventio Stephani,M,A,2.1,005430,4,,1,15n,,,,,,,,190515
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,3,Isti etenim maximo digni sunt,Inventio Stephani,M,A,2.2,003436,5,,2,131a,,,,,,,,190516
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,4,Cum ergo sint apud deum,Inventio Stephani,M,A,2.3,001997,8,,1,105c,,,,,,,,190517
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,5,Exsultabunt sancti*,Inventio Stephani,M,W,2.,008068,*,,,,,,,,,,,190518
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,6,Lucianus presbyter dixit,Inventio Stephani,M,R,2.1,007107,4,,,,,,,,,,,190519
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245r,7,Qui a Judaeis Jerusalem est,Inventio Stephani,M,V,01,007107a,4,,,,,,,,,,,190520
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245v,1,Cum scirem ego Gamaliel,Inventio Stephani,M,R,2.2,006373,5,,,,,,,,,,,190521
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,245v,2,Auditor domini Nicodemus,Inventio Stephani,M,V,01,006373a,5,,,,,,,,,,,190522
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,1,Sacerdos dei Lucianus,Inventio Stephani,M,R,2.3,007555,6,,,,,,,,,,,190523
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,2,Ut confessus fiducialiter,Inventio Stephani,M,V,01,007555a,6,,,,,,,,,,,190524
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,3,In jejuniis et orationibus,Inventio Stephani,M,A,3.1,003248,7,,1,143e,,,,,,,,190525
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,4,Nonne vides quanta sit,Inventio Stephani,M,A,3.2,003951,8,,1,105c,,,,,,,,190526
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,5,Surge ergo et vade dic ,Inventio Stephani,M,A,3.3,005071,1,,7,72d,,,,,,,,190527
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246r,6,Gloriosus deus*,Inventio Stephani,M,W,3.,008083,*,,,,,,,,,,,190528
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246v,1,Sanctus Gamaliel in visu,Inventio Stephani,M,R,3.1,007612,7,,,,,,,,,,,190529
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246v,2,Unus ex tribus calathis,Inventio Stephani,M,V,01,007612a,7,,,,,,,,,,,190530
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246v,3,Vides o frater Luciane hos,Inventio Stephani,M,R,3.2,007868,8,,,,,,,,,,,190531
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,246v,4,Introgressus ostium sepulcri,Inventio Stephani,M,V,01,007868a,8,,,,,,,,,,,190532
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247r,1,Sanctus Joannes episcopus,Inventio Stephani,M,R,3.3,007613,1,,,,,,,,,,,190533
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247r,2,Qui primus apud Judaeos,Inventio Stephani,M,V,01,007613a,1,,,,,,,,,,,190534
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247r,3,Regressus Lucianus presbyter,Inventio Stephani,L,A,1,004603,2,,1,153c,,,,,,,,190535
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247r,4,Apparuit sanctus Gamaliel,Inventio Stephani,L,A,2,001460,3,,1,249a,,,,,,,,190536
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,1,Ibi olim positi fuimus,Inventio Stephani,L,A,3,003159,4,,1,15n,,,,,,,,190537
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,2,Audiens ergo Lucianus,Inventio Stephani,L,A,4,001515,5,,1,129a,,,,,,,,190538
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,3,Dum inventum esset,Inventio Stephani,L,A,5,002459,6,,1,54a,,,,,,,,190539
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,4,Rex gloriose*,Inventio Stephani,L,H,,008386,*,,,,,,,,,,,190540
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,5,Exsultabunt sancti*,Inventio Stephani,L,W,,008068,*,,,,,,,,,,,190541
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,247v,6,Ex odoris mira fragrantia,Inventio Stephani,L,A,B,002745,7,,1,143e,,,,,,,,190542
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,248r,1,Hodie sanctus Joannes,Inventio Stephani,V2,A,M,003118,8,,4,107d,,,,,,,,190543
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,1,Junior fui et senui et ,Sixti,L,A,1,003521,2,,3,290a,,,,,,,,190544
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,2,Volo pater ut ubi ego ,Sixti,L,A,2,005491,2,,1,153c,,,,,,,,190545
+V 20,"Benevento, Biblioteca capitolare (I-BV)",B,249r,3,Qui mihi ministrat me,Sixti,L,A,3,004485,2,,3,290a,,,,,,,,190546
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,4,Lex dei ejus in corde ,Sixti,L,A,4,003611,4,,1,15n,,,,,,,,190547
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,5,Sixtus episcopus dixit libet,Sixti,L,A,5,004974,7,,2,144a,,,,,,,,190548
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,6,Usque in senectam et summam,Sixti,L,A,B,005283,7,,1,143e,,,,,,,,190549
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249r,7,Usque in senectam*,Sixti,L,A,B,005283,*,,,,,,,,,,,190550
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,1,Primogenitus*,Transfiguratio Dom.,V,R,,007432,*,,,,,,,,,,,190551
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,2,O nata lux de lumine Jesu,Transfiguratio Dom.,V,H,,008359,,,,,,,,,,,,190552
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,3,Notum fecit*,Transfiguratio Dom.,V,W,,008153,*,,,,,,,,,,,190553
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,4,Visione quam*,Transfiguratio Dom.,V,A,M,005465,6,,*,,,,,,,,,190554
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,5,Christum dominum transfigura-,Transfiguratio Dom.,M,I,,001047,4,,BL,,,,,,,,,190555
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,6,O sator rerum reparantor aevi,Transfiguratio Dom.,M,H,,830251,,,,,,,,,,,,190556
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,249v,99,LACUNA,LACUNA,,,,,,,,,LACUNA,,,,,,,190557
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,0,...unico laus sit amborum,Laurentii,M,H,,,*,,,,...unico laus sit amborum,,,,,,,190558
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,1,Quo progrederis sine filio,Laurentii,M,A,1.1,004556,7,,8,148b,,,,,,,,190559
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,2,Tu numquam sine ministro,Laurentii,M,AV,01,004556za,7,,8,148b,,,,,,,,190560
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,3,Noli me derelinquere pater,Laurentii,M,A,1.2,003892,8,,1,105c,,,,,,,,190561
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,4,Quid in me ergo displicuit,Laurentii,M,AV,01,003892a,8,,1,105c,,,,,,,,190562
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,5,Non ego te desero fili ,Laurentii,M,A,1.3,003908,8,,1,105c,,,,,,,,190563
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,6,Beatus Sixtus dixit,Laurentii,M,AV,01,003908a,8,,1,105c,,,,,,,,190564
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,7,Gloria et honore*,Laurentii,M,W,1.,008081,*,,,,,,,,,,,190565
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,8,Quo progrederis sine filio,Laurentii,M,R,1.1,007502,8,,,,,,,,,,,190566
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250r,9,Quid in me ergo displicuit,Laurentii,M,V,01,007502a,8,,,,,,,,,,,190567
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250v,1,Noli me derelinquere pater,Laurentii,M,R,1.2,007229,8,,,,,,,,,,,190568
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,250v,2,Nos quasi senex levioris,Laurentii,M,V,01,007229a,8,,,,,,,,,,,190569
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,1,O Hippolyte si credis in,Laurentii,M,R,1.3,007271,8,,,,,,,,,,,190570
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,2,Si dicta inquit factis,Laurentii,M,V,01,007271a,8,,,,,,,,,,,190571
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,3,O Hippolyte si credas in,Laurentii,M,A,2.1,004032,8,,2,99d,,,,,,,,190572
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,4,Beatus Laurentius dixit ad,Laurentii,M,AV,01,004032za,8,,2,99d,,,,,,,,190573
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,5,Dixit Romanus ad beatum,Laurentii,M,A,2.2,002308,7,,3,142a,,,,,,,,190574
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,6,Afferens autem urceum cum,Laurentii,M,AV,01,002308a,7,,3,142a,,,,,,,,190575
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,7,Beatus Laurentius dixit mea,Laurentii,M,A,2.3,001641,8,,1,105c,,,,,,,,190576
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,8,Quia ipse dominus novit quia,Laurentii,M,AV,01,001641a,8,,1,105c,,,,,,,,190577
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251r,9,Posuisti domine*,Laurentii,M,W,2.,008170,*,,,,,,,,,,,190578
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251v,1,Stridebant corporis membra,Laurentii,M,R,2.1,007711,2,,,,,,,,,,,190579
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,251v,2,Carnifices vero urgentes,Laurentii,M,V,01,007711a,2,,,,,,,,,,,190580
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252r,1,Beatus Laurentius clamavit et,Laurentii,M,R,2.2,006213,2,,,,,,,,,,,190581
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252r,2,Mea nox obscurum non habet,Laurentii,M,V,01,006213a,2,,,,,,,,,,,190582
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,1,Gaudeo plane quia hostia,Laurentii,M,R,2.3,006763,8,,,,,,,,,,,190583
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,2,Ego me obtuli sacrificium deo,Laurentii,M,V,01,006763a,8,,,,,,,,,,,190584
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,3,Stridebant corporis membra,Laurentii,M,A,3.1,005035,7,,2,144a,,,,,,,,190585
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,4,Carnifices vero urguentes,Laurentii,M,AV,01,005035a,7,,2,144a,,,,,,,,190586
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,5,Interrogatus te dominum,Laurentii,M,A,3.2,003381,7,,3,142a,,,,,,,,190587
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,6,Gratias tibi ago domine Jesu,Laurentii,M,AV,01,003381a,7,,3,142a,,,,,,,,190588
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,7,Beatus Laurentius orabat,Laurentii,M,A,3.3,001640,8,,1,105c,,,,,,,,190589
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,8,Qui accusatus non negavi,Laurentii,M,AV,01,001640a,8,,1,105c,,,,,,,,190590
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,252v,9,Levita Laurentius*,Laurentii,M,W,3.,008122,*,,,,,,,,,,,190591
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253r,1,Puer meus noli timere quia,Laurentii,M,R,3.1,007449,7,,,,,,,,,,,190592
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253r,2,Liberabo te de manu,Laurentii,M,V,01,007449b,7,,,,,,,,,,,190593
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253r,3,Levita Laurentius bonum opus,Laurentii,M,R,3.2,007089,2,,,,,,,,,,,190594
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253r,4,Cum apud sedem gloriosissimi,Laurentii,M,V,01,007089b,2,,,,,,,,,,,190595
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,1,Beatus Laurentius clamavit et,Laurentii,M,R,3.3,006216,4,,,,,,,,,,,190596
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,2,Transiens autem per ignem,Laurentii,M,V,01,006216b,4,,,,,,,,,,,190597
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,3,Laurentius bonum opus,Laurentii,L,A,1,003597,8,,1,105c,,,,,,,,190598
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,4,Et thesauros ecclesiae dedit,Laurentii,L,AV,01,003597za,8,,1,105c,,,,,,,,190599
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,5,Laurentius ingressus est,Laurentii,L,A,2,003598,1,,1,74c,,,,,,,,190600
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,6,Cumque beatus Laurentius,Laurentii,L,AV,01,003598za,1,,1,74c,,,,,,,,190601
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,7,Adhaesit anima mea post te,Laurentii,L,A,3,001271,8,,1,105c,,,,,,,,190602
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,8,Qui accusatus non negavi,Laurentii,L,AV,01,001271za,8,,1,105c,,,,,,,,190603
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,9,Igne me examinasti et non ,Laurentii,L,A,4,003167,8,,1,105c,,,,,,,,190604
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,253v,10,Probasti domine cor meum et,Laurentii,L,AV,01,003167a,8,,1,105c,,,,,,,,190605
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,1,Misit dominus angelum suum et,Laurentii,L,A,5,003784,7,,8,148b,,,,,,,,190606
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,2,Beatus Laurentius dum,Laurentii,L,AV,01,003784za,7,,8,148b,,,,,,,,190607
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,3,Levita Laurentius*,Laurentii,L,R,,007089,*,,,,,,,,,,,190608
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,4,Martyris Christi colimus*,Laurentii,L,H,,008347,*,,,,,,,,,,,190609
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,5,Gloria et honore*,Laurentii,L,W,,008081,*,,,,,,,,,,,190610
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,6,In craticula sanctum deum non,Laurentii,L,A,B,003216,1,,1,74c,,,,,,,,190611
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,254r,7,Quia in conspectu per,Laurentii,L,AV,01,003216zb,1,,1,74c,,,,,,,,190612
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,1,Beatus Laurentius dixit mea*,Laurentii,V2,A,1,001641,8,,*,,,,,,,,,190613
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,2,Beatus Laurentius orabat*,Laurentii,V2,A,2,001640,8,,*,,,,,,,,,190614
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,3,Beatus Laurentius dixit,Laurentii,V2,A,3,001643,8,,1,105c,,,,,,,,190615
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,4,Qui me dignatus est inter,Laurentii,V2,AV,01,001643zc,8,,1,105c,,,,,,,,190616
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,5,Gratias ago deo meo quia,Laurentii,V2,A,4,002970,4,,1,15n,,,,,,,,190617
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,6,Confitebor tibi domine rex et,Laurentii,V2,A,5,001877,1,,3,66c,,,,,,,,190618
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,255r,7,Beatus Laurentius dum*,Laurentii,V2,A,M,001642,?,,*,,,,,,,,,190619
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,257v,1,Ex te Maria virgo processit,Assumptio Mariae,V,A,1,002752,7,,1,143e,,,,,,,,190620
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,1,Per te Maria virgo impleta,Assumptio Mariae,V,A,2,004268,8,,1,105c,,,,,,,,190621
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,2,Beata es virgo Maria dei,Assumptio Mariae,V,A,3,001566,2,,1,153c,,,,,,,,190622
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,3,Hortus conclusus est dei,Assumptio Mariae,V,A,4,003135,2,,1,153c,,,,,,,,190623
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,4,Ecce regina virginum quae,Assumptio Mariae,V,A,5,002541,2,,1,153c,,,,,,,,190624
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,5,Felix namque es*,Assumptio Mariae,V,R,,006725,*,,,,,,,,,,,190625
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258r,6,Quis possit amplo famine,Assumptio Mariae,V,H,,008377,,,,,,,,,,,,190626
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258v,1,Exaltata*,Assumptio Mariae,V,W,,008063,*,,,,,,,,,,,190627
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258v,2,Sancta Maria succurre miseris,Assumptio Mariae,V,A,M,004703,1,,4,75b,,,,,,,,190628
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258v,3,Sancta Maria dei genetrix,Assumptio Mariae,M,I,,001158,2,,2S,,,,,,,,,190629
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,258v,4,Quem terra pontus aethera,Assumptio Mariae,M,H,,008375,,,,,,,,,,,,190630
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259r,1,Vidi speciosam ascendentem,Assumptio Mariae,M,A,1.1,005406,2,,1,153c,,,,,,,,190631
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259r,2,Viderunt eam filiae et,Assumptio Mariae,M,A,1.2,005395,6,,3,69h,,,,,,,,190632
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259r,3,Quae est ista quae ascendit,Assumptio Mariae,M,A,1.3,004425,1,,3,66c,,,,,,,,190633
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259r,4,Exaltata es*,Assumptio Mariae,M,W,1.,008063,*,,,,,,,,,,,190634
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259v,1,Vidi speciosam sicut columbam,Assumptio Mariae,M,R,1.1,007878,3,,,,,,,,,,,190635
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,259v,2,Viderunt eam filiae Sion et,Assumptio Mariae,M,V,01,007878b,3,,,,,,,,,,,190636
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260r,1,Sicut cedrus exaltata sum in,Assumptio Mariae,M,R,1.2,007657,4,,,,,,,,,,,190637
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260r,2,Sicut cinnamomum et balsamum,Assumptio Mariae,M,V,01,007657a,4,,,,,,,,,,,190638
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,1,Diffusa est gratia in labiis,Assumptio Mariae,M,R,1.3,006446,4,,,,,,,,,,,190639
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,2,Dilexisti justitiam et odisti,Assumptio Mariae,M,V,01,006446b,4,,,,,,,,,,,190640
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,3,Ista speciosa inter filias,Assumptio Mariae,M,A,2.1,003417,1,,4,75b,,,,,,,,190641
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,4,Quasi cedrus exaltata es in,Assumptio Mariae,M,A,2.2,004450,1,,3,66c,,,,,,,,190642
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,5,Caput tuum ut Carmelus dei,Assumptio Mariae,M,A,2.3,001769,6,,2,69j,,,,,,,,190643
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,260v,6,Speciosa facta*,Assumptio Mariae,M,W,2.,008202,*,,,,,,,,,,,190644
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,261r,1,Quae est ista quae processit,Assumptio Mariae,M,R,2.1,007455,4,,,,,,,,,,,190645
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,261r,2,Sicut dies verni circumdabant,Assumptio Mariae,M,V,01,007455b,4,,,,,,,,,,,190646
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,261v,1,Ista speciosa inter filias,Assumptio Mariae,M,R,2.2,006994,2,,,,,,,,,,,190647
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262r,1,Ista est quae ascendit de,Assumptio Mariae,M,V,01,006994b,2,,,,,,,,,,,190648
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262r,2,Ornatam monilibus filiam,Assumptio Mariae,M,R,2.3,007340,8,,,,,,,,,,,190649
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262v,1,Omnis gloria ejus filiae,Assumptio Mariae,M,V,01,007340b,8,,,,,,,,,,,190650
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262v,2,Surge aquilo et veni auster,Assumptio Mariae,M,A,3.1,005070,2,,1,153c,,,,,,,,190651
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262v,3,Quam pulchra es amica mea,Assumptio Mariae,M,A,3.2,004435,1,,5,64b,,,,,,,,190652
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262v,4,In templo tuo dei genetrix,Assumptio Mariae,M,A,3.3,003292,6,,2,69j,,,,,,,,190653
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,262v,5,Post partum virgo*,Assumptio Mariae,M,W,3.,008169,*,,,,,,,,,,,190654
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263r,1,Veni electa mea et ponam in,Assumptio Mariae,M,R,3.1,007826,2,,,,,,,,,,,190655
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263r,2,Audi filia et vide et inclina,Assumptio Mariae,M,V,01,007826b,2,,,,,,,,,,,190656
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263r,3,Beata es virgo Maria dei,Assumptio Mariae,M,R,3.2,006165,6,,,,,,,,,,,190657
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263v,1,Beata es et venerabilis virgo,Assumptio Mariae,M,V,01,006165b,6,,,,,,,,,,,190658
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263v,2,Beatam me dicent omnes,Assumptio Mariae,M,R,3.3,006172,8,,,,,,,,,,,190659
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,263v,3,Et misericordia ejus a,Assumptio Mariae,M,V,01,006172a,8,,,,,,,,,,,190660
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,1,Assumpta est Maria in caelum,Assumptio Mariae,L,A,1,001503,7,,3,142a,,,,,,,,190661
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,2,Maria virgo assumpta est ad,Assumptio Mariae,L,A,2,003707,8,,1,105c,,,,,,,,190662
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,3,Maria virgo semper laetare,Assumptio Mariae,L,A,3,003708,7,,3,142a,Maria virgo semper laetare,,,,,,,190663
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,4,Beata mater et innupta virgo,Assumptio Mariae,L,A,4,001570,2,,1,153c,,,,,,,,190664
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,5,Benedicta filia tu a domino,Assumptio Mariae,L,A,5,001705,7,,6,141a,,,,,,,,190665
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,6,Pulchra es et decora filia,Assumptio Mariae,L,A,6,004418,1,,2,66e,,,,,,,,190666
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,7,Exaltata es sancta*,Assumptio Mariae,L,R,,006684,*,,,,,,,,,,,190667
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264r,8,Ad laudem sanctae Mariae,Assumptio Mariae,L,H,,008251,,,,,,,,,,,,190668
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264v,1,Benedicta tu in mulieribus,Assumptio Mariae,L,W,,007971,*,,,,,,,,,,,190669
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,264v,2,Hodie Maria virgo caelos,Assumptio Mariae,L,A,B,003105,8,,1,105c,,,,,,,,190670
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,1,Regem apostolorum*,Bartholomaei,M,I,,001125,*,,*,,,,,,,,,190671
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,2,Bartholomaee caeli sidus*,Bartholomaei,M,H,,008262e,*,,,,,,,,,,,190672
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,3,Intravit Bartholomaeus,Bartholomaei,M,A,1.1,003384,2,,1,153c,,,,,,,,190673
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,4,Seustius per annos plurimos a,Bartholomaei,M,A,1.2,004877,2,,1,153c,,,,,,,,190674
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,5,Polymii regis filiam,Bartholomaei,M,A,1.3,004301,8,,1,105c,,,,,,,,190675
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,265v,6,In omnem terram*,Bartholomaei,M,W,1.,008097,*,,,,,,,,,,,190676
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266r,1,Ingressus Bartholomaeus,Bartholomaei,M,R,1.1,006964,2,,,,,,,,,,,190677
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266r,2,Cumque ut peregrinus in,Bartholomaei,M,V,01,006964a,2,,,,,,,,,,,190678
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266v,1,Per os Seustii clamabat,Bartholomaei,M,R,1.2,007376,4,,,,,,,,,,,190679
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266v,2,Per multos enim annos fuerat,Bartholomaei,M,V,01,007376a,4,,,,,,,,,,,190680
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266v,3,Vocatus a Polymio rege Indiae,Bartholomaei,M,R,1.3,007910,8,,,,,,,,,,,190681
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266v,4,Regis filiam lunaticam morsu,Bartholomaei,M,V,01,007910a,8,,,,,,,,,,,190682
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,266v,5,Beatus Bartholomaeus ait,Bartholomaei,M,A,2.1,001615,1,,1,74c,,,,,,,,190683
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267r,1,Aurum et argentum sicut,Bartholomaei,M,A,2.2,001535,6,,2,69j,,,,,,,,190684
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267r,2,Cogente apostolo fatebatur,Bartholomaei,M,A,2.3,001842,8,,1,105c,,,,,,,,190685
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267r,3,Constitues eos principes*,Bartholomaei,M,W,2.,007994,*,,,,,,,,,,,190686
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267r,4,Dum precibus apostoli filiam,Bartholomaei,M,R,2.1,006555,1,,,,,,,,,,,190687
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267v,1,Terrena quidem cuncta,Bartholomaei,M,V,01,006555a,1,,,,,,,,,,,190688
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267v,2,Obsecrante sancto apostolo,Bartholomaei,M,R,2.2,007304,2,,,,,,,,,,,190689
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,267v,3,Circumvolans igitur per,Bartholomaei,M,V,01,007304a,2,,,,,,,,,,,190690
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268r,1,Videns rex Polymius ex,Bartholomaei,M,R,2.3,007861,2,,,,,,,,,,,190691
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268r,2,Statim quo a daemonio,Bartholomaei,M,V,01,007861a,2,,,,,,,,,,,190692
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268r,3,Clamabat plebi apostolus,Bartholomaei,M,A,3.1,001821,2,,1,153c,,,,,,,,190693
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268r,4,Ut jussu apostoli cuncta,Bartholomaei,M,A,3.2,005291,6,,1,54a,,,,,,,,190694
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268v,1,Orante sancto Bartholomaeo,Bartholomaei,M,A,3.3,004179,7,,3,142a,,,,,,,,190695
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268v,2,Nimis honorati sunt*,Bartholomaei,M,W,3.,008148,*,,,,,,,,,,,190696
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268v,3,Praecepto apostoli destructis,Bartholomaei,M,R,3.1,007417,6,,,,,,,,,,,190697
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,268v,4,Propterea profanas imagines,Bartholomaei,M,V,01,007417a,6,,,,,,,,,,,190698
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269r,1,Beatus namque apostolus,Bartholomaei,M,R,3.2,006221,1,,,,,,,,,,,190699
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269r,2,Cum autem nuntiatum esset,Bartholomaei,M,V,01,006221a,1,,,,,,,,,,,190700
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,1,Postquam Lycaoniam,Bartholomaei,M,R,3.3,007408,1,,,,,,,,,,,190701
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,2,Ibi lux sine fine manet,Bartholomaei,M,V,01,007408a,1,,,,,,,,,,,190702
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,3,Rex in Christum credens,Bartholomaei,L,A,1,004653,2,,1,153c,,,,,,,,190703
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,4,Praecepto apostoli destructis,Bartholomaei,L,A,2,004354,2,,1,153c,,,,,,,,190704
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,5,Dixit regi Astragi sanctus,Bartholomaei,L,A,3,002307,4,,1,15n,,,,,,,,190705
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,269v,6,Jussu regis Astragi beatus,Bartholomaei,L,A,4,003529,8,,3,107c,,,,,,,,190706
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,270r,1,Revelante apostolo Polymius,Bartholomaei,L,A,5,004644,7,,4,147d,,,,,,,,190707
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,270r,2,Nimis honorati*,Bartholomaei,L,R,,007215,*,,,,,,,,,,,190708
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,270r,3,Ad laudem Christi procerum,Bartholomaei,L,H,,830004,*,,,,,,,,,,,190709
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,270r,4,Constitues eos principes*,Bartholomaei,L,W,,007994,*,,,,,,,,,,,190710
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,270r,5,Postquam Lycaoniam,Bartholomaei,L,A,B,004338,6,,2,69j,,,,,,,,190711
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,1,Petiit puella caput Joannis,Decoll. Jo. Bapt.,V,A,1,004277,8,,1,105c,,,,,,,,190712
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,2,Tenens spiculator gladium in,Decoll. Jo. Bapt.,V,A,2,204897,8,,1,105c,,,,,,,,190713
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,3,Ferrum pertransivit animam,Decoll. Jo. Bapt.,V,A,3,201822,6,,1,54a,,,,,,,,190714
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,4,Paravi lucernam Christo,Decoll. Jo. Bapt.,V,A,4,203766,4,,1,15n,,,,,,,,190715
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,5,Quid petam mater caput,Decoll. Jo. Bapt.,V,A,5,004529,6,,1,54a,,,,,,,,190716
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,6,Puellae saltanti*,Decoll. Jo. Bapt.,V,R,,007447,2,,,,,,,,,,,190717
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,7,Almi prophetae progenies pia,Decoll. Jo. Bapt.,V,H,,008260,,,,,,,,,,,,190718
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,271v,8,Die autem natalis Herodis,Decoll. Jo. Bapt.,V,A,M,002213,1,,4,75b,,,,,,,,190719
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,1,Regem martyrum*,Decoll. Jo. Bapt.,M,I,,001137,4,,*,,,,,,,,,190720
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,2,Deus tuorum militum*,Decoll. Jo. Bapt.,M,H,,008294,*,,,,,,,,,,,190721
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,3,Audivit Herodes tetrarcha,Decoll. Jo. Bapt.,M,A,1.1,001529,8,,1,105c,,,,,,,,190722
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,4,Hic est Joannes Baptista ipse,Decoll. Jo. Bapt.,M,A,1.2,003053,4,,3,19a,,,,,,,,190723
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,5,Dicebat Joannes Herodi non,Decoll. Jo. Bapt.,M,A,1.3,002194,2,,1,153c,,,,,,,,190724
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,6,Gloria et honore*,Decoll. Jo. Bapt.,M,W,1.,008081,*,,,,,,,,,,,190725
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,7,Joannes Baptista arguebat,Decoll. Jo. Bapt.,M,R,1.1,007036,2,,,,,,,,,,,190726
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272r,8,Herodes enim tenuit et,Decoll. Jo. Bapt.,M,V,01,007036b,2,,,,,,,,,,,190727
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272v,1,Metuebat Herodes Joannem,Decoll. Jo. Bapt.,M,R,1.2,007150,2,,,,,,,,,,,190728
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,272v,2,Et audito eo multa faciebat,Decoll. Jo. Bapt.,M,V,01,007150a,2,,,,,,,,,,,190729
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,1,Puellae saltanti imperavit,Decoll. Jo. Bapt.,M,R,1.3,007447,2,,,,,,,,,,,190730
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,2,Domine mi rex da mihi in,Decoll. Jo. Bapt.,M,V,01,007447c,2,,,,,,,,,,,190731
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,3,Metuebat Herodes Joannem,Decoll. Jo. Bapt.,M,A,2.1,003750,2,,1,153c,,,,,,,,190732
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,4,Herodes autem tenuit Joannem,Decoll. Jo. Bapt.,M,A,2.2,003026,7,,2,144a,,,,,,,,190733
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,5,Die autem illa pollicitus,Decoll. Jo. Bapt.,M,A,2.3,002212,7,,1,143e,,,,,,,,190734
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,6,Posuisti domine super*,Decoll. Jo. Bapt.,M,W,2.,008170,*,,,,,,,,,,,190735
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273r,7,Contristatus est rex Herodes,Decoll. Jo. Bapt.,M,R,2.1,006334,4,,,,,,,,,,,190736
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273v,1,Herodes funestus praecepit,Decoll. Jo. Bapt.,M,V,01,006334a,4,,,,,,,,,,,190737
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273v,2,Misit Herodes rex manus ac,Decoll. Jo. Bapt.,M,R,2.2,007166,8,,,,,,,,,,,190738
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,273v,3,Misso spiculatore praecepit,Decoll. Jo. Bapt.,M,V,01,007166a,8,,,,,,,,,,,190739
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,1,Misso Herodes spiculatore,Decoll. Jo. Bapt.,M,R,2.3,007169,4,,,,,,,,,,,190740
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,2,Cum autem audissent discipuli,Decoll. Jo. Bapt.,M,V,01,007169c,4,,,,,,,,,,,190741
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,3,Tenens spiculator*,Decoll. Jo. Bapt.,M,A,3.1,204897,8,,*,,,,,,,,,190742
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,4,Ferrum pertransivit*,Decoll. Jo. Bapt.,M,A,3.2,201822,*,,,,,,,,,,,190743
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,5,Paravi lucernam*,Decoll. Jo. Bapt.,M,A,3.3,203766,*,,,,,,,,,,,190744
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274r,6,Justum deduxit dominus*,Decoll. Jo. Bapt.,M,W,3.,008115,*,,,,,,,,,,,190745
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274v,1,Medium carceris stabat beatus,Decoll. Jo. Bapt.,M,R,3.1,006912,1,,,,,,,,,,,190746
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274v,2,Misit rex et decollari jussit,Decoll. Jo. Bapt.,M,V,01,006912c,1,,,,,,,,,,,190747
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274v,3,Accedentes discipuli sancti,Decoll. Jo. Bapt.,M,R,3.2,006014,1,,,,,,,,,,,190748
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,274v,4,Misso Herode spiculatore,Decoll. Jo. Bapt.,M,V,01,006014a,1,,,,,,,,,,,190749
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,1,Posuisti domine*,Decoll. Jo. Bapt.,M,R,3.3,,*,,,,Posuisti domine*,,,,,,,190750
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,2,Arguebat Herodem Joannes,Decoll. Jo. Bapt.,L,A,1,001482,1,,4,75b,,,,,,,,190751
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,3,Herodes enim tenuit et,Decoll. Jo. Bapt.,L,A,2,003028,1,,1,74c,,,,,,,,190752
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,4,Quid petam mater caput,Decoll. Jo. Bapt.,L,A,3,004529,4,,1,15n,,,,,,,,190753
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,5,Da mihi in disco caput,Decoll. Jo. Bapt.,L,A,4,002088,4,,3,19a,,,,,,,,190754
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,6,Misit rex incredulus,Decoll. Jo. Bapt.,L,A,5,003788,8,,1,105c,,,,,,,,190755
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,7,Omnis felix*,Decoll. Jo. Bapt.,L,H,,830259,*,,,,,,,,,,,190756
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,8,Lex dei ejus in corde*,Decoll. Jo. Bapt.,L,W,,008123,*,,,,,,,,,,,190757
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,275r,9,Misso Herodes spiculatore,Decoll. Jo. Bapt.,L,A,B,003790,1,,3,66c,,,,,,,,190758
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,276v,1,Effuderunt*,Duodecim Fratrum,M,R,1.1,006624,*,,,,,,,,,,,190759
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,1,Haec est vera*,Duodecim Fratrum,M,R,3.3,006804,*,,,,,,,,,,,190760
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,2,Ecce quam bonum et quam,Duodecim Fratrum,L,A,1,002538,2,,3,290a,,,,,,,,190761
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,3,Haec est vera fraternitas,Duodecim Fratrum,L,A,2,003004,6,,5,261a,,,,,,,,190762
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,4,Beatus Donatus et Felix,Duodecim Fratrum,L,A,3,001622,1,,6,69b,,,,,,,,190763
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,5,Venit angelus domini ad,Duodecim Fratrum,L,A,4,005341,6,,5,261a,,,,,,,,190764
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278r,6,Sancti vero uno ore dixerunt,Duodecim Fratrum,L,A,5,004742,8,,1,105c,,,,,,,,190765
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278v,1,Gloriosus deus*,Duodecim Fratrum,L,R,,006786,*,,,,,,,,,,,190766
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278v,2,Rex gloriose martyrum*,Duodecim Fratrum,L,H,,008386,*,,,,,,,,,,,190767
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278v,3,Sanctorum velut aquilae*,Duodecim Fratrum,L,W,,008190,*,,,,,,,,,,,190768
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,278v,4,Septiminus beatus et,Duodecim Fratrum,L,A,B,204593,5,,2,131a,,,,,,,,190769
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,1,Sanctissimus Arontius dixit,Duodecim Fratrum,V2,A,M,004755,7,,1,143e,,,,,,,,190770
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,2,Ante torum hujus virginis,Nativitas Mariae,V,A,1,001438,4,,9,17a,,,,,,,,190771
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,3,Haec est quae nescivit torum,Nativitas Mariae,V,A,2,003001,4,,1,15n,,,,,,,,190772
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,4,Surge aquilo et veni auster,Nativitas Mariae,V,A,3,005070,2,,1,153c,,,,,,,,190773
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,5,Dum esset rex in accubitu ,Nativitas Mariae,V,A,4,002450,3,,1,249a,,,,,,,,190774
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279r,6,Quam pulchra es amica mea,Nativitas Mariae,V,A,5,004435,1,,5,64b,,,,,,,,190775
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,1,Felix namque es*,Nativitas Mariae,V,R,,006725,*,,,,,,,,,,,190776
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,2,Gaude visceribus manibus,Nativitas Mariae,V,H,,008307,,,,,,,,,,,,190777
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,3,Speciosa facta*,Nativitas Mariae,V,W,,008202,*,,,,,,,,,,,190778
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,4,Nativitas tua dei genetrix,Nativitas Mariae,V,A,M,003852,1,,1,74c,,,,,,,,190779
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,5,Beatissimae Mariae,Nativitas Mariae,M,I,,001043,4,,BL,,,,,,,,,190780
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,6,Quem terra pontus*,Nativitas Mariae,M,H,,008375,*,,,,,,,,,,,190781
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,279v,7,Benedicta tu in mulieribus et,Nativitas Mariae,M,A,1.1,001709,4,,4,260a,,,,,,,,190782
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280r,1,Speciosa facta es et suavis,Nativitas Mariae,M,A,1.2,004988,4,,4,260a,,,,,,,,190783
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280r,2,Sicut myrrha electa odorem,Nativitas Mariae,M,A,1.3,004942,4,,4,260a,,,,,,,,190784
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280r,3,Diffusa est gratia in labiis,Nativitas Mariae,M,W,1.,008014,*,,,,,,,,,,,190785
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280r,4,Hodie nata est beata virgo,Nativitas Mariae,M,R,1.1,006854,3,,,,,,,,,,,190786
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280r,5,Felix certe et omni laude,Nativitas Mariae,M,V,01,006854b,3,,,,,,,,,,,190787
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280v,1,Beatissimae virginis Mariae,Nativitas Mariae,M,R,1.2,006184,3,,,,,,,,,,,190788
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280v,2,Dignum valde est ut ei summa,Nativitas Mariae,M,V,01,006184c,3,,,,,,,,,,,190789
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280v,3,Gloriosae virginis Mariae,Nativitas Mariae,M,R,1.3,006781,4,,,,,,,,,,,190790
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,280v,4,Beatissimae virginis Mariae,Nativitas Mariae,M,V,01,006781a,4,,,,,,,,,,,190791
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,1,Post partum virgo inviolata,Nativitas Mariae,M,A,2.1,004332,4,,3,19a,,,,,,,,190792
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,2,Gaude Maria virgo cunctas,Nativitas Mariae,M,A,2.2,002924,4,,3,19a,,,,,,,,190793
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,3,Suscepimus deus misericordiam,Nativitas Mariae,M,A,2.3,005084,8,,1,105c,,,,,,,,190794
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,4,Specie tua et pulchritudine,Nativitas Mariae,M,W,2.,008201,*,,,,,,,,,,,190795
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,5,Nativitas gloriosae virginis,Nativitas Mariae,M,R,2.1,007198,1,,,,,,,,,,,190796
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281r,6,Gloriosae virginis Mariae,Nativitas Mariae,M,V,01,007198a,1,,,,,,,,,,,190797
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281v,1,Nativitas tua dei genetrix,Nativitas Mariae,M,R,2.2,007199,1,,,,,,,,,,,190798
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,281v,2,Exsolvens maledictionem dedit,Nativitas Mariae,M,V,01,007199d,1,,,,,,,,,,,190799
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,1,Concupivit rex speciem tuam,Nativitas Mariae,M,R,2.3,006308,5,,,,,,,,,,,190800
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,2,Specie tua et pulchritudine,Nativitas Mariae,M,V,01,006308a,5,,,,,,,,,,,190801
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,3,In odorem unguentorum tuorum,Nativitas Mariae,M,A,3.1,003261,4,,4,260a,,,,,,,,190802
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,4,In prole mater in partu ,Nativitas Mariae,M,A,3.2,003274,2,,1,153c,,,,,,,,190803
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,5,Sicut laetantium omnium,Nativitas Mariae,M,A,3.3,004936,7,,2,144a,,,,,,,,190804
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282r,6,Adjuvabit eam deus vultu suo,Nativitas Mariae,M,W,3.,007934,*,,,,,,,,,,,190805
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282v,1,Regali ex progenie Maria,Nativitas Mariae,M,R,3.1,007519,1,,,,,,,,,,,190806
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282v,2,Corde et animo Christo,Nativitas Mariae,M,V,01,007519a,1,,,,,,,,,,,190807
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,282v,3,Corde et animo Christo,Nativitas Mariae,M,R,3.2,006339,8,,,,,,,,,,,190808
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283r,1,Cum jucunditate nativitatem,Nativitas Mariae,M,V,01,006339a,8,,,,,,,,,,,190809
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283r,2,Felix namque es sacra virgo,Nativitas Mariae,M,R,3.3,006725,1,,,,,,,,,,,190810
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,1,Ora pro populo interveni pro,Nativitas Mariae,M,V,01,006725a,1,,,,,,,,,,,190811
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,2,Nativitas est gloriosae,Nativitas Mariae,L,A,1,003850,8,,1,105c,,,,,,,,190812
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,3,Nativitas est hodie sanctae,Nativitas Mariae,L,A,2,003849,7,,2,144a,,,,,,,,190813
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,4,Regali ex progenie Maria,Nativitas Mariae,L,A,3,004591,6,,2,69j,,,,,,,,190814
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,5,Cum jucunditate nativitatem,Nativitas Mariae,L,A,4,002016,7,,2,144a,,,,,,,,190815
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,6,Corde et animo Christo,Nativitas Mariae,L,A,5,001931,8,,1,105c,,,,,,,,190816
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,7,Nativitas est hodie,Nativitas Mariae,L,R,,007197,r,,,,,,,,,,,190817
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,8,O gloriosa femina excelsa*,Nativitas Mariae,L,H,,008375e,*,,,,,,,,,,,190818
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,9,Corde et animo Christo,Nativitas Mariae,L,W,,007996,*,,,,,,,,,,,190819
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,283v,10,Nativitatem hodiernam,Nativitas Mariae,L,A,B,003853,8,,1,105c,,,,,,,,190820
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,285v,1,O crux benedicta*,Exaltatio Crucis,V,R,,007265,*,,,,,,,,,,,190821
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,285v,2,Vexilla regis*,Exaltatio Crucis,V,H,,008410,*,,,,,,,,,,,190822
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,285v,3,Hoc signum crucis erit*,Exaltatio Crucis,V,W,,008088,*,,,,,,,,,,,190823
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,285v,4,O crux splendidior*,Exaltatio Crucis,V,A,M,004019,*,,,,,,,,,,,190824
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,285v,5,Laetamini in domino*,Exaltatio Crucis,M,W,1.,008120,*,,,,,,,,,,,190825
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,286r,1,Effuderunt sanguinem*,Exaltatio Crucis,M,R,1.1,006624,*,,,,,,,,,,,190826
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,287r,1,Adoramus te Christe salvator,Exaltatio Crucis,M,W,3.,800015,*,,,,,,,,,,,190827
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,1,O magnum pietatis opus mors,Exaltatio Crucis,L,A,1,004035,7,,2,144a,,,,,,,,190828
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,2,O crux admirabilis evacuatio,Exaltatio Crucis,L,A,2,004014,1,,3,66c,,,,,,,,190829
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,3,Salva nos Christe salvator,Exaltatio Crucis,L,A,3,004686,3,,1,249a,,,,,,,,190830
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,4,Dulce lignum dulces clavos,Exaltatio Crucis,L,A,4,002432,1,,5,64b,,,,,,,,190831
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,5,Crux benedicta nitet dominus,Exaltatio Crucis,L,A,5,001961,8,,1,105c,,,,,,,,190832
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,288r,6,O crux sacratissima*,Exaltatio Crucis,L,A,B,004020,*,,,,,,,,,,,190833
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289r,1,Diocletianus Caesar Timotheo,Januarii,M,A,1.1,002240,2,,1,153c,,,,,,,,190834
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289r,2,Ante tyrannum ductus,Januarii,M,A,1.2,001439,8,,1,105c,,,,,,,,190835
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289r,3,Praecepto Timothei fornax est,Januarii,M,A,1.3,004355,7,,4,147d,,,,,,,,190836
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289r,4,Sanctorum velut aquilae*,Januarii,M,W,1.,008190,*,,,,,,,,,,,190837
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289v,1,Effuderunt sanguinem*,Januarii,M,R,1.1,006624,*,,,,,,,,,,,190838
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,289v,2,Munitus cruce in caminum,Januarii,M,A,2.1,003843,2,,1,153c,,,,,,,,190839
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290r,1,In fornace ignis sanctam,Januarii,M,A,2.2,003236,7,,1,143e,,,,,,,,190840
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290r,2,Tunc de camino valenter,Januarii,M,A,2.3,005240,4,,3,19a,,,,,,,,190841
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290r,3,Exsultabunt sancti in gloria,Januarii,M,W,2.,008068,*,,,,,,,,,,,190842
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290v,1,Ut jussus est Timothei,Januarii,M,A,3.1,005292,2,,1,153c,,,,,,,,190843
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290v,2,Dum sacrificaret simulacris,Januarii,M,A,3.2,002467,7,,2,144a,,,,,,,,190844
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290v,3,Mira in sancto cernentum,Januarii,M,A,3.3,003760,2,,1,153c,,,,,,,,190845
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,290v,4,Justi confitebuntur nomini,Januarii,M,W,3.,008113,*,,,,,,,,,,,190846
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,1,Haec est vera fraternitas*,Januarii,M,R,3.3,006804,*,,,,,,,,,,,190847
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,2,Januarius cum socii traditus,Januarii,L,A,1,003475,?,,?,,,,,,,,,190848
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,3,Data praeses sententia,Januarii,L,A,2,002101,2,,1,153c,,,,,,,,190849
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,4,Timotheus tunc missis,Januarii,L,A,3,005155,6,,2,69j,,,,,,,,190850
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,5,Domine rex cunctorum salus,Januarii,L,A,4,002375,2,,1,153c,,,,,,,,190851
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291r,6,Post ignem demptosque a,Januarii,L,A,5,004330,?,,*,,,,,,,,,190852
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291v,1,Laetamini in domino*,Januarii,L,W,,008120,*,,,,,,,,,,,190853
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291v,2,O quam pretiosis Beneventus,Januarii,L,A,B,004068,2,,2,156b,,,,,,,,190854
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291v,3,Regem apostolorum*,Matthaei,M,I,,001125,*,,*,,,,,,,,,190855
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,291v,4,In omnem terram*,Matthaei,M,A,1.1,003262,*,,,,,,,,,,,190856
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,292r,1,Ecce ego mitto vos*,Matthaei,M,R,1.1,006588,*,,,,,,,,,,,190857
+V 20,"Benevento, Biblioteca capitolare (I-BV)",,295r,1,Effuderunt sanguinem*,"Cosmae, Damiani",M,R,1.1,006624,*,,,,,,,,,,,190858
