@@ -2,9 +2,20 @@ import numpy as np
 import pandas as pd
 from train_gaussian_process import MelodySelector
 
-MODEL_PATH = 'models/gp_1e-9_5.joblib'
+TEST_DATASET_PATH = 'dataset/test.csv'
+RESULT_PATH = 'result/output.csv'
 
-def evaluate_test_cases(test_data_path):
+def evaluate_test_cases(test_data_path, output_path):
+    """
+    Evaluate the test cases using the trained model and write the results to a CSV file.
+    
+    Args:
+    - test_data_path: Path to the test data CSV file
+    - output_path: Path to save the output CSV file
+    
+    Returns:
+    - None
+    """
     # Initialize the melody selector
     melody_selector = MelodySelector()
     
@@ -16,7 +27,9 @@ def evaluate_test_cases(test_data_path):
     test_df = pd.read_csv(test_data_path)
     
     total_cases = len(test_df)
-    option1_selections = 0
+    option_selections = {f'option_{i}': 0 for i in range(1, 11)}
+
+    results = []
     
     # Process each test case
     for idx, row in test_df.iterrows():
@@ -25,27 +38,34 @@ def evaluate_test_cases(test_data_path):
         
         # Convert options to numpy arrays
         options = []
-        for i in (1, 10):  # Assuming 10 options columns
+        for i in range(1, 11):
             option_col = f'option_{i}'
             option = np.array([float(x) for x in row[option_col].strip('[]').split(',')])
             options.append(option)
         
         # Select best option
         best_option_index = melody_selector.select_best_option(test_input, options)
+        option_selections[f'option_{best_option_index + 1}'] += 1
         
-        # Count if Option1 was selected
-        if best_option_index == 1:
-            option1_selections += 1
-        
-        # print(f"Test case {idx + 1}: Selected Option {best_option_index}")
+        # Store result
+        results.append({
+            'test_case': idx + 1,
+            'selected_option': best_option_index + 1
+        })
     
     # Calculate probability
-    option1_probability = option1_selections / total_cases
+    option1_probability = option_selections['option_1'] / total_cases
     print(f"\nResults:")
     print(f"Total test cases: {total_cases}")
-    print(f"Option 1 selections: {option1_selections}")
+
+    for i in range(1, 11):
+        print(f"Option {i} selections: {option_selections[f'option_{i}']}")
     print(f"Probability of selecting Option 1: {option1_probability:.2%}")
+    
+    # Write results to CSV
+    results_df = pd.DataFrame(results)
+    results_df.to_csv(output_path, index=False)
+    print(f"Results saved to {output_path}")
 
 if __name__ == "__main__":
-    test_data_path = 'dataset/dataset_test.csv'  # test_path
-    evaluate_test_cases(MODEL_PATH)
+    evaluate_test_cases(TEST_DATASET_PATH, RESULT_PATH)

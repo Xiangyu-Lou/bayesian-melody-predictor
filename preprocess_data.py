@@ -82,24 +82,6 @@ def clean_dataset(df):
 
     return df
 
-def split_dataset(df, test_size=0.3, seed=522117):
-    """
-    Split the dataset into training and testing sets.
-
-    Inputs:
-        df (DataFrame): input DataFrame
-        test_size (float): proportion of the dataset to include in the test split
-        random_state (int): random seed for reproducibility
-
-    Returns:
-        train_df (DataFrame): training set DataFrame
-        test_df (DataFrame): testing set DataFrame
-    """
-    # Split the dataset
-    train_df, test_df = train_test_split(df, test_size=test_size, random_state=seed)
-
-    return train_df, test_df
-
 def process_test_dataframe(df_test):
     """
     Process the test DataFrame by adding new columns and split the normalized_pitch_sequence to input_pitch and option_1.
@@ -127,6 +109,23 @@ def process_test_dataframe(df_test):
         df_test.at[index, 'option_1'] = option_1
 
     return df_test
+
+def reverse_normalization(normalized_sequence):
+    """
+    Reverse normalization for a list of pitch values.
+
+    Inputs:
+        normalized_sequence (list): list of normalized pitch values (floats)
+
+    Returns:
+        pitch_sequence (list): list of original pitch values (integers)
+    """
+    min_pitch = 21
+    max_pitch = 109
+    range_pitch = max_pitch - min_pitch
+
+    pitch_sequence = [int(normalized * range_pitch + min_pitch) for normalized in normalized_sequence]
+    return pitch_sequence
     
 if __name__ == "__main__":
     # note mapping
@@ -160,7 +159,6 @@ if __name__ == "__main__":
         '777': 'page_break',
     }
     
-    # Read the dataset
     df_main = pd.read_csv('dataset/dataset_all.csv')
 
     # Process each melody and add the pitch sequence to a new column
@@ -172,15 +170,27 @@ if __name__ == "__main__":
     # Normalize the pitch sequences
     df_cleaned['normalized_pitch_sequence'] = df_main['pitch_sequence'].apply(lambda x: normalize_pitch_sequence(x) if isinstance(x, list) else x)
     
-    # Save the cleaned dataframe to a new CSV file
     df_cleaned.to_csv('dataset/dataset_all.csv', index=False)
     
-    # # Split the dataset into training and testing sets
-    df_train, df_test = split_dataset(df_cleaned)
+    # Split the dataset into training and testing sets
+    df_train, df_test = train_test_split(df_cleaned, test_size=0.3, random_state=522117)
 
     # Process the test DataFrame by adding new columns and split the normalized_pitch_sequence to input_pitch and option_1
     df_test = process_test_dataframe(df_test)
 
-    # # Save the training and testing sets to CSV files
-    df_train.to_csv('dataset/dataset_train.csv', index=False)
-    # df_test.to_csv('dataset/dataset_test.csv', index=False)    
+    df_train.to_csv('dataset/dataset_train.csv', index=False) 
+    df_test.to_csv('dataset/dataset_test.csv', index=False)
+    
+    # df = pd.read_csv('dataset/pop-set-ext.csv')
+
+    # Reverse normalization for the test dataset
+    # df['input_pitch'] = df['input_pitch'].apply(lambda x: reverse_normalization(ast.literal_eval(x)) if isinstance(x, str) else x)
+    # for i in range(1, 11):
+    #     df[f'option_{i}'] = df[f'option_{i}'].apply(lambda x: reverse_normalization(ast.literal_eval(x)) if isinstance(x, str) else x)
+        
+    # df['input_pitch'] = df['input_pitch'].apply(lambda x: normalize_pitch_sequence(ast.literal_eval(x)) if isinstance(x, str) else x)
+    # for i in range(1, 11):
+    #     df[f'option_{i}'] = df[f'option_{i}'].apply(lambda x: normalize_pitch_sequence(ast.literal_eval(x)) if isinstance(x, str) else x)
+
+
+    # df.to_csv('dataset/pop-set-ext.csv_1.csv', index=False)

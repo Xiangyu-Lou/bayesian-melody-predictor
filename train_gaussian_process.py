@@ -8,7 +8,12 @@ from sklearn.utils import shuffle
 
 
 class MelodySelector:
-    def __init__(self, window_size=32, batch_size=200, model_path='models/gp_1e-9_5.joblib'):
+    """
+    Melody Selector class that trains a Gaussian Process model to predict the next note in a melody sequence.
+    
+    The model is trained on a dataset of melodies and can be used to select the best continuation of a given melody sequence from a set of options.
+    """
+    def __init__(self, window_size=32, batch_size=200, model_path='models/gp_5epoch.joblib'):
         # Define the GP kernel with specific length scale bounds, higher is more flexible
         kernel = RBF(length_scale=0.2, length_scale_bounds=(1e-4, 1e2))
 
@@ -17,7 +22,7 @@ class MelodySelector:
             kernel=kernel,
             alpha=1e-9,
             random_state=42,
-            optimizer='fmin_tnc',      # fmin_l_bfgs_b
+            optimizer='fmin_l_bfgs_b',
             n_restarts_optimizer=5,
             normalize_y=True,
         )
@@ -53,7 +58,7 @@ class MelodySelector:
 
     def train_model(self, X_train, y_train):
         # Number of epochs for training
-        n_epochs = 5
+        n_epochs = 30
 
         for epoch in range(n_epochs):
 
@@ -102,8 +107,8 @@ class MelodySelector:
             
             # Predict each step of the option sequence
             for step in range(len(option)):
-                window_input = current_window.reshape(1, -1)                            # Reshape the window for prediction
-                pred_mean, pred_std = self.gp.predict(window_input, return_std=True)    # Predict the next value
+                window_input = current_window.reshape(1, -1)
+                pred_mean, pred_std = self.gp.predict(window_input, return_std=True)
                 
                 predictions.append(pred_mean[0])
                 prediction_stds.append(pred_std[0])
@@ -113,7 +118,7 @@ class MelodySelector:
                 current_window[-1] = pred_mean[0]
             
             predictions = np.array(predictions)
-            prediction_stds = np.array(prediction_stds)                                 # The standard deviation of the predictions
+            prediction_stds = np.array(prediction_stds)
             
             # 1. prediction_error between the option and the predictions
             prediction_error = np.mean((predictions - option) ** 2)
@@ -127,42 +132,27 @@ class MelodySelector:
             contour_similarity = np.mean((pred_contour - option_contour) ** 2)
             
             # 4. Confidence interval score (how many predictions fall within the 95% confidence interval)
-            confidence_interval_width = 1.96 * prediction_stds                          # 95% confidence interval
+            confidence_interval_width = 1.96 * prediction_stds
             lower_bound = predictions - confidence_interval_width
             upper_bound = predictions + confidence_interval_width
             in_interval = np.logical_and(option >= lower_bound, option <= upper_bound)
-            confidence_score = 1.0 - np.mean(in_interval)                               # penalize for points outside the interval
+            confidence_score = 1.0 - np.mean(in_interval)
             
-            # 5. Uncertainty penalty (average standard deviation of predictions)
-            uncertainty_penalty = np.mean(prediction_stds)
+            # New Feature 1: Moving Average (MA) Similarity
+            option_ma = np.convolve(option, np.ones(3) / 3, mode='valid')
+            pred_ma = np.convolve(predictions, np.ones(3)/ 3, mode='valid')
+            ma_similarity = np.mean((option_ma - pred_ma) ** 2)
             
-            # Combine the scores with specific weights
             combined_score = (
-                prediction_error +       # Prediction error weight
-                # variance_diff +          # Variance difference weight
-                confidence_score    # Confidence score weight
+                ma_similarity
             )
-            
+
             option_scores.append(combined_score)
             
             # Set the print options for numpy arrays
             np.set_printoptions(suppress=True, precision=6)
-            # Print the evaluation results for each option
-            # print(f"\nOption {idx}:")
-            # print(f"Ground Truth: {option}")
-            # print(f"Predicted Sequence: {predictions}")
-            # print(f"Prediction Stds: {prediction_stds}")
-            # print(f"Mean Prediction Error: {prediction_error:.4f}")
-            # print(f"Variance Difference: {variance_diff:.4f}")
-            # print(f"Contour Similarity: {contour_similarity:.4f}")
-            # print(f"Confidence Score: {confidence_score:.4f}")
-            # print(f"Uncertainty Penalty: {uncertainty_penalty:.4f}")
-            # print(f"Combined Score: {combined_score:.4f}")
-            # print(f"Points in Confidence Interval: {np.sum(in_interval)}/{len(option)}")
-            # print("-" * 50)
         
         best_option_index = np.argmin(option_scores)
-        # print(f"\nSelected Option {best_option_index} with score {option_scores[best_option_index]:.4f}")
         
         return best_option_index
 
